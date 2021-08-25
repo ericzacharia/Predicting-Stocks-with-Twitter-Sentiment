@@ -1,0 +1,927 @@
+Time Stamp: 2021-08-25 10:48:46.524026585-04:00 
+Success! Order placed to buy 67 shares of $ABNB. 
+Time Stamp: 2021-08-25 10:49:02.350155984-04:00 
+Success! Order placed to sell 400 shares of $AMD. 
+Time Stamp: 2021-08-25 10:49:18.044623951-04:00 
+Success! Order placed to buy 432 shares of $BA. 
+Time Stamp: 2021-08-25 10:49:33.457798879-04:00 
+Success! Order placed to buy 480 shares of $DIS. 
+Time Stamp: 2021-08-25 10:49:49.037816212-04:00 
+Time Stamp: 2021-08-25 10:50:01.616023663-04:00 
+Success! Order placed to buy 24 shares of $GOOGL. 
+Time Stamp: 2021-08-25 10:50:17.264470594-04:00 
+Time Stamp: 2021-08-25 10:50:29.850724446-04:00 
+Success! Order placed to buy 49 shares of $NVDA. 
+Time Stamp: 2021-08-25 10:50:45.439557960-04:00 
+Success! Order placed to buy 96 shares of $SPY. 
+Time Stamp: 2021-08-25 10:51:01.397556531-04:00 
+Success! Order placed to buy 45 shares of $TSLA. 
+Time Stamp: 2021-08-25 10:51:17.176193048-04:00 
+Success! Order placed to buy 1372 shares of $VZ. 
+Time Stamp: 2021-08-25 10:51:32.690736067-04:00 
+Success! Order placed to buy 1560 shares of $XOM. 
+Time Stamp: 2021-08-25 10:51:48.361607770-04:00 
+Time Stamp: 2021-08-25 10:52:00.608724578-04:00 
+Success! Order placed to buy 268 shares of $ABNB. 
+Time Stamp: 2021-08-25 10:52:16.260122086-04:00 
+Success! Order placed to sell 300 shares of $AMD. 
+Time Stamp: 2021-08-25 10:52:31.317443142-04:00 
+Success! Order placed to buy 48 shares of $BA. 
+Time Stamp: 2021-08-25 10:52:52.468213465-04:00 
+Time Stamp: 2021-08-25 10:53:04.408887461-04:00 
+Success! Order placed to sell 3 shares of $GOOGL. 
+Time Stamp: 2021-08-25 10:53:20.198808687-04:00 
+Time Stamp: 2021-08-25 10:53:32.950583947-04:00 
+Success! Order placed to buy 49 shares of $NVDA. 
+Time Stamp: 2021-08-25 10:53:48.361657366-04:00 
+Success! Order placed to buy 48 shares of $SPY. 
+Time Stamp: 2021-08-25 10:54:04.043391086-04:00 
+Success! Order placed to buy 30 shares of $TSLA. 
+Time Stamp: 2021-08-25 10:54:24.334574795-04:00 
+Success! Order placed to buy 194 shares of $XOM. 
+Time Stamp: 2021-08-25 10:54:39.918241941-04:00 
+Success! Order placed to buy 144 shares of $AAPL. 
+Time Stamp: 2021-08-25 10:54:54.897868558-04:00 
+Success! Order placed to buy 67 shares of $ABNB. 
+Time Stamp: 2021-08-25 10:55:10.085975980-04:00 
+Success! Order placed to sell 200 shares of $AMD. 
+Time Stamp: 2021-08-25 10:55:35.810840118-04:00 
+Time Stamp: 2021-08-25 10:55:53.072725310-04:00 
+Time Stamp: 2021-08-25 10:56:05.352558510-04:00 
+Success! Order placed to buy 49 shares of $NVDA. 
+Time Stamp: 2021-08-25 10:56:26.569863309-04:00 
+Success! Order placed to buy 60 shares of $TSLA. 
+Time Stamp: 2021-08-25 10:56:42.088114646-04:00 
+Success! Order placed to buy 1568 shares of $VZ. 
+Time Stamp: 2021-08-25 10:57:02.427508319-04:00 
+Success! Order placed to buy 144 shares of $AAPL. 
+Time Stamp: 2021-08-25 10:57:17.337890785-04:00 
+Success! Order placed to buy 67 shares of $ABNB. 
+Time Stamp: 2021-08-25 10:57:32.550217847-04:00 
+Success! Order placed to buy 200 shares of $AMD. 
+Time Stamp: 2021-08-25 10:57:48.068610568-04:00 
+Success! Order placed to buy 480 shares of $BA. 
+Time Stamp: 2021-08-25 10:58:03.817397646-04:00 
+Success! Order placed to buy 300 shares of $DIS. 
+Time Stamp: 2021-08-25 10:58:18.807923493-04:00 
+Success! Order placed to buy 29 shares of $FB. 
+Time Stamp: 2021-08-25 10:58:34.526830772-04:00 
+Success! Order placed to buy 15 shares of $GOOGL. 
+Time Stamp: 2021-08-25 10:58:49.673821861-04:00 
+Success! Order placed to buy 19 shares of $NFLX. 
+Time Stamp: 2021-08-25 10:59:05.039209416-04:00 
+Success! Order placed to buy 392 shares of $NVDA. 
+Time Stamp: 2021-08-25 10:59:26.431141728-04:00 
+Success! Order placed to buy 15 shares of $TSLA. 
+Time Stamp: 2021-08-25 10:59:41.369687051-04:00 
+Success! Order placed to buy 196 shares of $VZ. 
+Time Stamp: 2021-08-25 10:59:56.958866420-04:00 
+Success! Order placed to buy 1560 shares of $XOM. 
+Time Stamp: 2021-08-25 11:00:12.475875691-04:00 
+Success! Order placed to buy 144 shares of $AAPL. 
+Time Stamp: 2021-08-25 11:00:27.532434144-04:00 
+Success! Order placed to buy 67 shares of $ABNB. 
+Time Stamp: 2021-08-25 11:00:42.962891196-04:00 
+Success! Order placed to sell 100 shares of $AMD. 
+Time Stamp: 2021-08-25 11:01:03.179027365-04:00 
+Success! Order placed to sell 60 shares of $DIS. 
+Time Stamp: 2021-08-25 11:01:18.873553774-04:00 
+Success! Order placed to sell 29 shares of $FB. 
+Time Stamp: 2021-08-25 11:01:33.958974992-04:00 
+Success! Order placed to sell 3 shares of $GOOGL. 
+Time Stamp: 2021-08-25 11:01:49.467655735-04:00 
+Success! Order placed to sell 19 shares of $NFLX. 
+Time Stamp: 2021-08-25 11:02:05.196299300-04:00 
+Success! Order placed to sell 49 shares of $NVDA. 
+Time Stamp: 2021-08-25 11:02:26.691543690-04:00 
+Success! Order placed to buy 45 shares of $TSLA. 
+Time Stamp: 2021-08-25 11:02:46.910042014-04:00 
+Success! Order placed to buy 196 shares of $XOM. 
+Time Stamp: 2021-08-25 11:03:02.621508775-04:00 
+Success! Order placed to sell 432 shares of $AAPL. 
+Time Stamp: 2021-08-25 11:03:17.957277938-04:00 
+Success! Order placed to buy 201 shares of $ABNB. 
+Time Stamp: 2021-08-25 11:03:33.659232106-04:00 
+Success! Order placed to sell 200 shares of $AMD. 
+Time Stamp: 2021-08-25 11:03:48.730566258-04:00 
+Success! Order placed to buy 49 shares of $BA. 
+Time Stamp: 2021-08-25 11:04:03.753323247-04:00 
+Success! Order placed to sell 60 shares of $DIS. 
+Time Stamp: 2021-08-25 11:04:19.521552516-04:00 
+Time Stamp: 2021-08-25 11:04:37.478225194-04:00 
+Time Stamp: 2021-08-25 11:04:50.160782871-04:00 
+Success! Order placed to sell 147 shares of $NVDA. 
+Time Stamp: 2021-08-25 11:05:05.440379869-04:00 
+Success! Order placed to buy 24 shares of $SPY. 
+Time Stamp: 2021-08-25 11:05:21.117761-04:00 
+Success! Order placed to buy 75 shares of $TSLA. 
+Time Stamp: 2021-08-25 11:10:44.073566434-04:00 
+Time Stamp: 2021-08-25 11:10:56.725142776-04:00 
+Success! Order placed to buy 402 shares of $ABNB. 
+Time Stamp: 2021-08-25 11:11:12.351491940-04:00 
+Success! Order placed to sell 300 shares of $AMD. 
+Time Stamp: 2021-08-25 11:11:28.076718798-04:00 
+Time Stamp: 2021-08-25 11:11:40.657204533-04:00 
+Success! Order placed to buy 490 shares of $BA. 
+Time Stamp: 2021-08-25 11:11:56.135330356-04:00 
+Success! Order placed to buy 240 shares of $DIS. 
+Time Stamp: 2021-08-25 11:12:11.861769178-04:00 
+Time Stamp: 2021-08-25 11:12:24.325956372-04:00 
+Success! Order placed to sell 9 shares of $GOOGL. 
+Time Stamp: 2021-08-25 11:12:40.087841065-04:00 
+Time Stamp: 2021-08-25 11:12:58.422325829-04:00 
+Success! Order placed to sell 72 shares of $SPY. 
+Time Stamp: 2021-08-25 11:13:14.156674820-04:00 
+Success! Order placed to buy 30 shares of $TSLA. 
+Time Stamp: 2021-08-25 11:13:29.661561139-04:00 
+Success! Order placed to buy 591 shares of $VZ. 
+Time Stamp: 2021-08-25 11:13:45.192397158-04:00 
+Success! Order placed to buy 1170 shares of $XOM. 
+Time Stamp: 2021-08-25 11:14:00.696079979-04:00 
+Time Stamp: 2021-08-25 11:14:12.670641295-04:00 
+Success! Order placed to buy 67 shares of $ABNB. 
+Time Stamp: 2021-08-25 11:14:34.059292032-04:00 
+Time Stamp: 2021-08-25 11:14:45.978932455-04:00 
+Success! Order placed to buy 49 shares of $BA. 
+Time Stamp: 2021-08-25 11:15:00.976984707-04:00 
+Success! Order placed to buy 60 shares of $DIS. 
+Time Stamp: 2021-08-25 11:15:16.456122590-04:00 
+Success! Order placed to buy 29 shares of $FB. 
+Time Stamp: 2021-08-25 11:15:36.971616949-04:00 
+Time Stamp: 2021-08-25 11:15:49.457305102-04:00 
+Success! Order placed to buy 343 shares of $NVDA. 
+Time Stamp: 2021-08-25 11:16:05.032819004-04:00 
+Success! Order placed to buy 107 shares of $SPY. 
+Time Stamp: 2021-08-25 11:16:20.587199056-04:00 
+Time Stamp: 2021-08-25 11:16:43.258499274-04:00 
+Time Stamp: 2021-08-25 11:17:01.449095041-04:00 
+Success! Order placed to buy 3 shares of $AMD. 
+Time Stamp: 2021-08-25 11:17:17.141478337-04:00 
+Time Stamp: 2021-08-25 11:17:39.929387378-04:00 
+Success! Order placed to sell 29 shares of $FB. 
+Time Stamp: 2021-08-25 11:18:01.467905008-04:00 
+Time Stamp: 2021-08-25 11:18:14.247445093-04:00 
+Success! Order placed to buy 48 shares of $NVDA. 
+Time Stamp: 2021-08-25 11:18:29.660375543-04:00 
+Time Stamp: 2021-08-25 11:18:42.182587431-04:00 
+Time Stamp: 2021-08-25 11:18:54.604329782-04:00 
+Time Stamp: 2021-08-25 11:19:06.968267649-04:00 
+Time Stamp: 2021-08-25 11:19:19.537436497-04:00 
+Time Stamp: 2021-08-25 11:19:31.417518250-04:00 
+Time Stamp: 2021-08-25 11:19:43.986337961-04:00 
+Time Stamp: 2021-08-25 11:19:56.537392566-04:00 
+Time Stamp: 2021-08-25 11:20:09.021154797-04:00 
+Time Stamp: 2021-08-25 11:20:21.382271876-04:00 
+Time Stamp: 2021-08-25 11:20:33.875069781-04:00 
+Time Stamp: 2021-08-25 11:20:46.231588744-04:00 
+Success! Order placed to sell 9 shares of $GOOGL. 
+Time Stamp: 2021-08-25 11:21:01.560032728-04:00 
+Time Stamp: 2021-08-25 11:21:14.212462559-04:00 
+Success! Order placed to buy 114 shares of $NVDA. 
+Time Stamp: 2021-08-25 11:21:29.811199714-04:00 
+Time Stamp: 2021-08-25 11:21:42.255818360-04:00 
+Time Stamp: 2021-08-25 11:21:59.387220602-04:00 
+Time Stamp: 2021-08-25 11:22:11.947529391-04:00 
+Time Stamp: 2021-08-25 11:22:24.116158575-04:00 
+Time Stamp: 2021-08-25 11:22:36.671462006-04:00 
+Time Stamp: 2021-08-25 11:22:49.169637248-04:00 
+Time Stamp: 2021-08-25 11:23:00.969407223-04:00 
+Time Stamp: 2021-08-25 11:23:18.951188395-04:00 
+Time Stamp: 2021-08-25 11:23:42.497598056-04:00 
+Time Stamp: 2021-08-25 11:23:54.636542595-04:00 
+Time Stamp: 2021-08-25 11:24:07.092396526-04:00 
+Time Stamp: 2021-08-25 11:24:19.592124026-04:00 
+Time Stamp: 2021-08-25 11:24:31.589566356-04:00 
+Time Stamp: 2021-08-25 11:24:44.139603666-04:00 
+Time Stamp: 2021-08-25 11:24:56.137847246-04:00 
+Time Stamp: 2021-08-25 11:25:08.533689880-04:00 
+Success! Order placed to sell 300 shares of $AMD. 
+Time Stamp: 2021-08-25 11:25:24.199312266-04:00 
+Time Stamp: 2021-08-25 11:25:36.185912947-04:00 
+Success! Order placed to buy 1 shares of $BA. 
+Time Stamp: 2021-08-25 11:25:57.159482079-04:00 
+Time Stamp: 2021-08-25 11:26:10.635479065-04:00 
+Success! Order placed to sell 9 shares of $GOOGL. 
+Time Stamp: 2021-08-25 11:26:26.291200184-04:00 
+Time Stamp: 2021-08-25 11:26:39.315867458-04:00 
+Success! Order placed to buy 114 shares of $NVDA. 
+Time Stamp: 2021-08-25 11:26:55.223886838-04:00 
+Time Stamp: 2021-08-25 11:27:08.361142689-04:00 
+Time Stamp: 2021-08-25 11:27:31.988495623-04:00 
+Time Stamp: 2021-08-25 11:27:44.155031200-04:00 
+Time Stamp: 2021-08-25 11:27:56.981238374-04:00 
+Time Stamp: 2021-08-25 12:42:51.701097774-04:00 
+Time Stamp: 2021-08-25 12:43:04.379220451-04:00 
+Time Stamp: 2021-08-25 12:43:17.072979090-04:00 
+Time Stamp: 2021-08-25 12:43:35.767843824-04:00 
+Time Stamp: 2021-08-25 12:43:48.491523342-04:00 
+Time Stamp: 2021-08-25 12:44:01.212572928-04:00 
+Time Stamp: 2021-08-25 12:44:20.000014624-04:00 
+Time Stamp: 2021-08-25 12:44:32.590225015-04:00 
+Time Stamp: 2021-08-25 12:44:51.085651571-04:00 
+Time Stamp: 2021-08-25 12:45:03.843902808-04:00 
+Success! Order placed to buy 1 shares of $VZ. 
+Time Stamp: 2021-08-25 12:45:19.537634798-04:00 
+Time Stamp: 2021-08-25 12:45:31.696121870-04:00 
+Time Stamp: 2021-08-25 12:45:48.869472039-04:00 
+Time Stamp: 2021-08-25 12:46:01.020677862-04:00 
+Time Stamp: 2021-08-25 12:46:12.910300435-04:00 
+Time Stamp: 2021-08-25 12:46:24.817730214-04:00 
+Time Stamp: 2021-08-25 12:46:36.726168203-04:00 
+Time Stamp: 2021-08-25 12:46:48.720448627-04:00 
+Success! Order placed to sell 6 shares of $GOOGL. 
+Time Stamp: 2021-08-25 12:47:03.742966476-04:00 
+Time Stamp: 2021-08-25 12:47:16.173237728-04:00 
+Success! Order placed to buy 76 shares of $NVDA. 
+Time Stamp: 2021-08-25 12:47:31.782016454-04:00 
+Time Stamp: 2021-08-25 12:47:44.299508946-04:00 
+Time Stamp: 2021-08-25 12:48:06.843612910-04:00 
+Time Stamp: 2021-08-25 12:48:19.369740191-04:00 
+Time Stamp: 2021-08-25 12:48:31.445331072-04:00 
+Time Stamp: 2021-08-25 12:48:43.383909725-04:00 
+Time Stamp: 2021-08-25 12:48:55.264281148-04:00 
+Time Stamp: 2021-08-25 12:49:12.575912586-04:00 
+Time Stamp: 2021-08-25 12:49:34.836120568-04:00 
+Time Stamp: 2021-08-25 12:49:47.120603881-04:00 
+Time Stamp: 2021-08-25 12:49:59.527141786-04:00 
+Time Stamp: 2021-08-25 12:50:17.297297320-04:00 
+Success! Order placed to buy 1 shares of $XOM. 
+Time Stamp: 2021-08-25 12:50:32.431880137-04:00 
+Time Stamp: 2021-08-25 12:50:44.302222194-04:00 
+Time Stamp: 2021-08-25 12:50:56.235652098-04:00 
+Time Stamp: 2021-08-25 12:51:08.471661853-04:00 
+Time Stamp: 2021-08-25 12:51:20.285259516-04:00 
+Time Stamp: 2021-08-25 12:51:43.407492874-04:00 
+Time Stamp: 2021-08-25 12:51:56.171367255-04:00 
+Time Stamp: 2021-08-25 12:52:08.536470107-04:00 
+Time Stamp: 2021-08-25 12:52:32.739727628-04:00 
+Time Stamp: 2021-08-25 12:52:44.757705563-04:00 
+Time Stamp: 2021-08-25 12:52:56.818188136-04:00 
+Time Stamp: 2021-08-25 12:53:19.565987832-04:00 
+Time Stamp: 2021-08-25 12:53:37.279672950-04:00 
+Time Stamp: 2021-08-25 12:53:49.181583626-04:00 
+Time Stamp: 2021-08-25 12:54:06.342292155-04:00 
+Time Stamp: 2021-08-25 12:54:18.377735087-04:00 
+Time Stamp: 2021-08-25 12:54:30.604612942-04:00 
+Success! Order placed to sell 24 shares of $SPY. 
+Time Stamp: 2021-08-25 12:54:46.000908132-04:00 
+Success! Order placed to buy 15 shares of $TSLA. 
+Time Stamp: 2021-08-25 12:55:06.331893537-04:00 
+Success! Order placed to sell 195 shares of $XOM. 
+Time Stamp: 2021-08-25 12:55:27.769121752-04:00 
+Success! Order placed to buy 68 shares of $ABNB. 
+Time Stamp: 2021-08-25 12:55:43.322176749-04:00 
+Time Stamp: 2021-08-25 12:55:55.205619781-04:00 
+Time Stamp: 2021-08-25 12:56:07.729156332-04:00 
+Time Stamp: 2021-08-25 12:56:19.547313668-04:00 
+Success! Order placed to sell 61 shares of $DIS. 
+Time Stamp: 2021-08-25 12:56:40.557348912-04:00 
+Time Stamp: 2021-08-25 12:56:52.533022924-04:00 
+Success! Order placed to buy 19 shares of $NFLX. 
+Time Stamp: 2021-08-25 12:57:07.592489006-04:00 
+Success! Order placed to buy 2 shares of $NVDA. 
+Time Stamp: 2021-08-25 12:57:28.810402364-04:00 
+Time Stamp: 2021-08-25 12:57:41.219305825-04:00 
+Success! Order placed to buy 2 shares of $VZ. 
+Time Stamp: 2021-08-25 12:58:01.890941632-04:00 
+Time Stamp: 2021-08-25 12:58:29.996328322-04:00 
+Success! Order placed to sell 49 shares of $BA. 
+Time Stamp: 2021-08-25 12:58:50.629675498-04:00 
+Time Stamp: 2021-08-25 12:59:07.916596336-04:00 
+Success! Order placed to sell 19 shares of $NFLX. 
+Time Stamp: 2021-08-25 12:59:23.204317429-04:00 
+Success! Order placed to buy 94 shares of $NVDA. 
+Time Stamp: 2021-08-25 12:59:44.509055377-04:00 
+Time Stamp: 2021-08-25 13:00:13.083019185-04:00 
+Success! Order placed to buy 1 shares of $ABNB. 
+Time Stamp: 2021-08-25 13:00:28.501386847-04:00 
+Time Stamp: 2021-08-25 13:00:41.277860420-04:00 
+Time Stamp: 2021-08-25 13:00:53.328634266-04:00 
+Time Stamp: 2021-08-25 13:01:10.965943328-04:00 
+Time Stamp: 2021-08-25 13:01:22.773902837-04:00 
+Time Stamp: 2021-08-25 13:01:34.715588681-04:00 
+Time Stamp: 2021-08-25 13:01:46.993747296-04:00 
+Time Stamp: 2021-08-25 13:01:59.385724366-04:00 
+Success! Order placed to sell 96 shares of $SPY. 
+Time Stamp: 2021-08-25 13:02:15.084962475-04:00 
+Success! Order placed to buy 60 shares of $TSLA. 
+Time Stamp: 2021-08-25 13:02:30.085655988-04:00 
+Success! Order placed to buy 6 shares of $VZ. 
+Time Stamp: 2021-08-25 13:02:45.617909647-04:00 
+Time Stamp: 2021-08-25 13:02:58.074414352-04:00 
+Time Stamp: 2021-08-25 13:03:15.174405566-04:00 
+Success! Order placed to sell 100 shares of $AMD. 
+Time Stamp: 2021-08-25 13:03:30.937590933-04:00 
+Time Stamp: 2021-08-25 13:03:48.157946359-04:00 
+Time Stamp: 2021-08-25 13:04:00.385343295-04:00 
+Time Stamp: 2021-08-25 13:04:12.312762090-04:00 
+Time Stamp: 2021-08-25 13:04:29.588376861-04:00 
+Time Stamp: 2021-08-25 13:04:41.791500836-04:00 
+Time Stamp: 2021-08-25 13:04:54.242255153-04:00 
+Time Stamp: 2021-08-25 13:05:22.814109611-04:00 
+Time Stamp: 2021-08-25 13:05:34.877731224-04:00 
+Time Stamp: 2021-08-25 13:05:46.948148761-04:00 
+Time Stamp: 2021-08-25 13:05:59.429121050-04:00 
+Time Stamp: 2021-08-25 13:06:11.218499688-04:00 
+Time Stamp: 2021-08-25 13:06:28.768714024-04:00 
+Time Stamp: 2021-08-25 13:06:41.356606865-04:00 
+Time Stamp: 2021-08-25 13:06:53.401856853-04:00 
+Time Stamp: 2021-08-25 13:07:05.867425005-04:00 
+Time Stamp: 2021-08-25 13:07:18.063325971-04:00 
+Time Stamp: 2021-08-25 13:07:29.995012631-04:00 
+Time Stamp: 2021-08-25 13:07:42.593526161-04:00 
+Time Stamp: 2021-08-25 13:08:05.608170844-04:00 
+Time Stamp: 2021-08-25 13:08:17.625514774-04:00 
+Time Stamp: 2021-08-25 13:08:29.532116414-04:00 
+Time Stamp: 2021-08-25 13:08:41.370101571-04:00 
+Time Stamp: 2021-08-25 13:08:53.367140137-04:00 
+Time Stamp: 2021-08-25 13:09:05.201166226-04:00 
+Time Stamp: 2021-08-25 13:09:22.591745450-04:00 
+Time Stamp: 2021-08-25 13:09:34.881915577-04:00 
+Success! Order placed to sell 24 shares of $SPY. 
+Time Stamp: 2021-08-25 13:10:01.462289902-04:00 
+Success! Order placed to buy 194 shares of $XOM. 
+Time Stamp: 2021-08-25 13:10:16.543321504-04:00 
+Time Stamp: 2021-08-25 13:10:28.431417834-04:00 
+Time Stamp: 2021-08-25 13:10:40.318764820-04:00 
+Time Stamp: 2021-08-25 13:10:52.281429659-04:00 
+Time Stamp: 2021-08-25 13:11:04.449553950-04:00 
+Time Stamp: 2021-08-25 13:11:16.510574024-04:00 
+Time Stamp: 2021-08-25 13:11:28.388256124-04:00 
+Time Stamp: 2021-08-25 13:11:40.274228681-04:00 
+Time Stamp: 2021-08-25 13:11:52.967960031-04:00 
+Time Stamp: 2021-08-25 13:12:05.143515170-04:00 
+Time Stamp: 2021-08-25 13:12:17.462238705-04:00 
+Time Stamp: 2021-08-25 13:12:29.763194261-04:00 
+Time Stamp: 2021-08-25 13:12:52.304191265-04:00 
+Time Stamp: 2021-08-25 13:13:04.163607237-04:00 
+Success! Order placed to sell 68 shares of $ABNB. 
+Time Stamp: 2021-08-25 13:13:19.427610084-04:00 
+Success! Order placed to buy 100 shares of $AMD. 
+Time Stamp: 2021-08-25 13:13:34.452057707-04:00 
+Time Stamp: 2021-08-25 13:13:51.630106578-04:00 
+Success! Order placed to buy 1 shares of $DIS. 
+Time Stamp: 2021-08-25 13:14:06.637465812-04:00 
+Time Stamp: 2021-08-25 13:14:29.137062035-04:00 
+Time Stamp: 2021-08-25 13:14:47.314589183-04:00 
+Time Stamp: 2021-08-25 13:14:59.242124682-04:00 
+Time Stamp: 2021-08-25 13:15:21.744672221-04:00 
+Time Stamp: 2021-08-25 13:15:33.964756841-04:00 
+Success! Order placed to sell 134 shares of $AMD. 
+Time Stamp: 2021-08-25 13:15:49.091228569-04:00 
+Success! Order placed to buy 3 shares of $AMZN. 
+Time Stamp: 2021-08-25 13:16:20.705974151-04:00 
+Time Stamp: 2021-08-25 13:16:33.285547635-04:00 
+Time Stamp: 2021-08-25 13:16:45.336156925-04:00 
+Success! Order placed to buy 4 shares of $NVDA. 
+Time Stamp: 2021-08-25 13:17:01.174549922-04:00 
+Time Stamp: 2021-08-25 13:17:13.421641288-04:00 
+Time Stamp: 2021-08-25 13:17:30.624215311-04:00 
+Success! Order placed to buy 1 shares of $XOM. 
+Time Stamp: 2021-08-25 13:17:46.025906680-04:00 
+Time Stamp: 2021-08-25 13:18:19.456886712-04:00 
+Time Stamp: 2021-08-25 13:18:36.670282287-04:00 
+Time Stamp: 2021-08-25 13:18:48.547793705-04:00 
+Time Stamp: 2021-08-25 13:19:00.559518986-04:00 
+Time Stamp: 2021-08-25 13:19:25.008039092-04:00 
+Time Stamp: 2021-08-25 13:19:36.952140436-04:00 
+Time Stamp: 2021-08-25 13:19:54.938047807-04:00 
+Time Stamp: 2021-08-25 13:20:07.410467411-04:00 
+Time Stamp: 2021-08-25 13:20:19.339261676-04:00 
+Time Stamp: 2021-08-25 13:20:31.708336930-04:00 
+Time Stamp: 2021-08-25 13:20:48.703553687-04:00 
+Time Stamp: 2021-08-25 13:21:00.633386771-04:00 
+Time Stamp: 2021-08-25 13:21:12.663039956-04:00 
+Time Stamp: 2021-08-25 13:21:24.790841211-04:00 
+Time Stamp: 2021-08-25 13:21:42.753205042-04:00 
+Time Stamp: 2021-08-25 13:21:59.790929323-04:00 
+Time Stamp: 2021-08-25 13:22:17.360628533-04:00 
+Time Stamp: 2021-08-25 13:22:29.249529349-04:00 
+Time Stamp: 2021-08-25 13:22:41.333487584-04:00 
+Success! Order placed to sell 3 shares of $AMZN. 
+Time Stamp: 2021-08-25 13:22:56.706731343-04:00 
+Success! Order placed to buy 44 shares of $BA. 
+Time Stamp: 2021-08-25 13:23:12.346378102-04:00 
+Time Stamp: 2021-08-25 13:23:40.370658674-04:00 
+Time Stamp: 2021-08-25 13:23:52.666557770-04:00 
+Success! Order placed to sell 59 shares of $SPY. 
+Time Stamp: 2021-08-25 13:24:08.328404359-04:00 
+Success! Order placed to buy 30 shares of $TSLA. 
+Time Stamp: 2021-08-25 13:24:23.894896273-04:00 
+Success! Order placed to buy 95 shares of $VZ. 
+Time Stamp: 2021-08-25 13:24:38.945507341-04:00 
+Time Stamp: 2021-08-25 13:24:50.833676662-04:00 
+Time Stamp: 2021-08-25 13:25:23.775825820-04:00 
+Time Stamp: 2021-08-25 13:25:36.226227990-04:00 
+Time Stamp: 2021-08-25 13:25:48.805475124-04:00 
+Time Stamp: 2021-08-25 13:26:00.773061332-04:00 
+Time Stamp: 2021-08-25 13:26:13.193949449-04:00 
+Time Stamp: 2021-08-25 13:26:25.599545711-04:00 
+Time Stamp: 2021-08-25 13:26:37.876176454-04:00 
+Time Stamp: 2021-08-25 13:27:00.580048398-04:00 
+Time Stamp: 2021-08-25 13:27:13.116721971-04:00 
+Time Stamp: 2021-08-25 13:27:31.067925546-04:00 
+Time Stamp: 2021-08-25 13:27:43.583837382-04:00 
+Time Stamp: 2021-08-25 13:28:00.785762384-04:00 
+Time Stamp: 2021-08-25 13:28:23.739428468-04:00 
+Time Stamp: 2021-08-25 13:28:35.837345221-04:00 
+Time Stamp: 2021-08-25 13:28:48.112328305-04:00 
+Time Stamp: 2021-08-25 13:29:00.756878813-04:00 
+Time Stamp: 2021-08-25 13:29:13.397857453-04:00 
+Time Stamp: 2021-08-25 13:29:41.868978406-04:00 
+Time Stamp: 2021-08-25 13:29:59.857537624-04:00 
+Time Stamp: 2021-08-25 13:30:11.791568280-04:00 
+Time Stamp: 2021-08-25 13:30:29.712146833-04:00 
+Time Stamp: 2021-08-25 13:30:41.976896697-04:00 
+Time Stamp: 2021-08-25 13:30:54.527171743-04:00 
+Time Stamp: 2021-08-25 13:31:07.300808163-04:00 
+Time Stamp: 2021-08-25 13:31:19.222797602-04:00 
+Time Stamp: 2021-08-25 13:31:41.647420706-04:00 
+Time Stamp: 2021-08-25 13:31:53.580879863-04:00 
+Time Stamp: 2021-08-25 13:32:05.493534885-04:00 
+Time Stamp: 2021-08-25 13:32:17.614083256-04:00 
+Time Stamp: 2021-08-25 13:32:29.762692815-04:00 
+Time Stamp: 2021-08-25 13:32:47.392097413-04:00 
+Time Stamp: 2021-08-25 13:33:05.544628566-04:00 
+Time Stamp: 2021-08-25 13:33:18.261831818-04:00 
+Time Stamp: 2021-08-25 13:33:31.002891631-04:00 
+Time Stamp: 2021-08-25 13:33:49.240155195-04:00 
+Time Stamp: 2021-08-25 13:34:01.913987924-04:00 
+Time Stamp: 2021-08-25 13:34:20.029435628-04:00 
+Time Stamp: 2021-08-25 13:34:32.892365523-04:00 
+Time Stamp: 2021-08-25 13:34:50.539388420-04:00 
+Time Stamp: 2021-08-25 13:35:03.425382-04:00 
+Time Stamp: 2021-08-25 13:35:15.905107721-04:00 
+Time Stamp: 2021-08-25 13:35:28.714101835-04:00 
+Time Stamp: 2021-08-25 13:35:41.593879251-04:00 
+Success! Order placed to sell 147 shares of $NVDA. 
+Time Stamp: 2021-08-25 13:35:57.417536547-04:00 
+Success! Order placed to buy 73 shares of $SPY. 
+Time Stamp: 2021-08-25 13:36:13.299824436-04:00 
+Time Stamp: 2021-08-25 13:36:36.847261659-04:00 
+Time Stamp: 2021-08-25 13:36:49.572392296-04:00 
+Time Stamp: 2021-08-25 13:37:01.720909600-04:00 
+Time Stamp: 2021-08-25 13:37:14.063392551-04:00 
+Time Stamp: 2021-08-25 13:37:26.640220970-04:00 
+Time Stamp: 2021-08-25 13:37:38.769857951-04:00 
+Time Stamp: 2021-08-25 13:37:51.044629803-04:00 
+Time Stamp: 2021-08-25 13:38:08.554608077-04:00 
+Time Stamp: 2021-08-25 13:38:20.686735539-04:00 
+Success! Order placed to sell 49 shares of $NVDA. 
+Time Stamp: 2021-08-25 13:38:35.929767427-04:00 
+Success! Order placed to buy 24 shares of $SPY. 
+Time Stamp: 2021-08-25 13:38:51.482347910-04:00 
+Time Stamp: 2021-08-25 13:39:04.101272909-04:00 
+Success! Order placed to buy 3 shares of $VZ. 
+Time Stamp: 2021-08-25 13:39:24.835716150-04:00 
+Time Stamp: 2021-08-25 13:39:42.422253800-04:00 
+Time Stamp: 2021-08-25 13:39:54.533054003-04:00 
+Time Stamp: 2021-08-25 13:40:11.802744696-04:00 
+Time Stamp: 2021-08-25 13:40:23.912499881-04:00 
+Time Stamp: 2021-08-25 13:40:41.263692952-04:00 
+Time Stamp: 2021-08-25 13:40:59.153243837-04:00 
+Time Stamp: 2021-08-25 13:41:11.588453569-04:00 
+Time Stamp: 2021-08-25 13:41:29.363825593-04:00 
+Time Stamp: 2021-08-25 13:41:41.688110728-04:00 
+Time Stamp: 2021-08-25 13:41:53.629476367-04:00 
+Success! Order placed to sell 68 shares of $ABNB. 
+Time Stamp: 2021-08-25 13:42:08.947867506-04:00 
+Time Stamp: 2021-08-25 13:42:27.222516070-04:00 
+Success! Order placed to buy 49 shares of $BA. 
+Time Stamp: 2021-08-25 13:42:42.322013562-04:00 
+Success! Order placed to sell 61 shares of $DIS. 
+Time Stamp: 2021-08-25 13:42:57.418019574-04:00 
+Time Stamp: 2021-08-25 13:43:09.975926898-04:00 
+Success! Order placed to buy 3 shares of $GOOGL. 
+Time Stamp: 2021-08-25 13:43:30.595617689-04:00 
+Success! Order placed to buy 11 shares of $NVDA. 
+Time Stamp: 2021-08-25 13:43:46.017684529-04:00 
+Time Stamp: 2021-08-25 13:43:58.503814589-04:00 
+Time Stamp: 2021-08-25 13:44:21.341743434-04:00 
+Time Stamp: 2021-08-25 13:44:38.817533389-04:00 
+Time Stamp: 2021-08-25 13:44:51.163911046-04:00 
+Time Stamp: 2021-08-25 13:45:24.652179914-04:00 
+Time Stamp: 2021-08-25 13:45:42.375560943-04:00 
+Time Stamp: 2021-08-25 13:45:54.779464760-04:00 
+Time Stamp: 2021-08-25 13:46:07.140272157-04:00 
+Success! Order placed to buy 2 shares of $VZ. 
+Time Stamp: 2021-08-25 13:46:27.546269755-04:00 
+Time Stamp: 2021-08-25 13:46:40.003183353-04:00 
+Time Stamp: 2021-08-25 13:46:52.100040413-04:00 
+Time Stamp: 2021-08-25 13:47:04.161988090-04:00 
+Time Stamp: 2021-08-25 13:47:43.237407944-04:00 
+Time Stamp: 2021-08-25 13:47:55.267712425-04:00 
+Success! Order placed to sell 24 shares of $SPY. 
+Time Stamp: 2021-08-25 13:48:10.909388950-04:00 
+Success! Order placed to buy 15 shares of $TSLA. 
+Time Stamp: 2021-08-25 13:48:31.653980250-04:00 
+Time Stamp: 2021-08-25 13:48:44.063704878-04:00 
+Time Stamp: 2021-08-25 13:48:55.922456002-04:00 
+Success! Order placed to sell 68 shares of $ABNB. 
+Time Stamp: 2021-08-25 13:49:11.223897551-04:00 
+Time Stamp: 2021-08-25 13:49:23.438122125-04:00 
+Success! Order placed to buy 3 shares of $AMZN. 
+Time Stamp: 2021-08-25 13:49:39.018622337-04:00 
+Success! Order placed to buy 5 shares of $BA. 
+Time Stamp: 2021-08-25 13:49:54.560316954-04:00 
+Time Stamp: 2021-08-25 13:50:06.697573662-04:00 
+Time Stamp: 2021-08-25 13:50:19.261929193-04:00 
+Time Stamp: 2021-08-25 13:50:31.282723817-04:00 
+Time Stamp: 2021-08-25 13:50:43.190003811-04:00 
+Time Stamp: 2021-08-25 13:50:55.618542997-04:00 
+Time Stamp: 2021-08-25 13:51:08.278853768-04:00 
+Time Stamp: 2021-08-25 13:51:20.689894687-04:00 
+Success! Order placed to buy 1 shares of $VZ. 
+Time Stamp: 2021-08-25 13:51:41.416824650-04:00 
+Time Stamp: 2021-08-25 13:52:14.675822279-04:00 
+Success! Order placed to sell 61 shares of $DIS. 
+Time Stamp: 2021-08-25 13:52:29.682494115-04:00 
+Success! Order placed to buy 29 shares of $FB. 
+Time Stamp: 2021-08-25 13:52:44.626931711-04:00 
+Time Stamp: 2021-08-25 13:52:56.543693868-04:00 
+Time Stamp: 2021-08-25 13:53:08.704423487-04:00 
+Time Stamp: 2021-08-25 13:53:20.864182535-04:00 
+Success! Order placed to sell 73 shares of $SPY. 
+Time Stamp: 2021-08-25 13:53:36.480377697-04:00 
+Success! Order placed to buy 15 shares of $TSLA. 
+Time Stamp: 2021-08-25 13:54:02.038648451-04:00 
+Time Stamp: 2021-08-25 13:54:14.518557421-04:00 
+Success! Order placed to buy 68 shares of $ABNB. 
+Time Stamp: 2021-08-25 13:54:35.128606810-04:00 
+Success! Order placed to sell 3 shares of $AMZN. 
+Time Stamp: 2021-08-25 13:54:55.820342260-04:00 
+Success! Order placed to buy 61 shares of $DIS. 
+Time Stamp: 2021-08-25 13:55:11.200977198-04:00 
+Success! Order placed to sell 29 shares of $FB. 
+Time Stamp: 2021-08-25 13:55:37.205527587-04:00 
+Success! Order placed to buy 94 shares of $NVDA. 
+Time Stamp: 2021-08-25 13:55:52.574584327-04:00 
+Time Stamp: 2021-08-25 13:56:05.264060691-04:00 
+Time Stamp: 2021-08-25 13:56:17.892379165-04:00 
+Success! Order placed to buy 2 shares of $VZ. 
+Time Stamp: 2021-08-25 13:56:33.513020069-04:00 
+Time Stamp: 2021-08-25 13:56:51.183530858-04:00 
+Time Stamp: 2021-08-25 13:57:03.551444082-04:00 
+Time Stamp: 2021-08-25 13:57:15.811734141-04:00 
+Time Stamp: 2021-08-25 13:57:38.691909357-04:00 
+Time Stamp: 2021-08-25 13:57:51.132403381-04:00 
+Time Stamp: 2021-08-25 13:58:03.237039555-04:00 
+Time Stamp: 2021-08-25 13:58:21.251534782-04:00 
+Time Stamp: 2021-08-25 13:58:33.873108570-04:00 
+Time Stamp: 2021-08-25 13:58:45.801707928-04:00 
+Time Stamp: 2021-08-25 13:59:03.731092374-04:00 
+Time Stamp: 2021-08-25 13:59:21.302935983-04:00 
+Time Stamp: 2021-08-25 13:59:33.800274549-04:00 
+Time Stamp: 2021-08-25 13:59:56.756129995-04:00 
+Time Stamp: 2021-08-25 14:00:14.390172039-04:00 
+Time Stamp: 2021-08-25 14:00:32.658207291-04:00 
+Time Stamp: 2021-08-25 14:01:01.466884299-04:00 
+Time Stamp: 2021-08-25 14:01:13.853687134-04:00 
+Time Stamp: 2021-08-25 14:01:26.125332749-04:00 
+Time Stamp: 2021-08-25 14:01:38.322379603-04:00 
+Time Stamp: 2021-08-25 14:01:50.846734506-04:00 
+Time Stamp: 2021-08-25 14:02:03.298516771-04:00 
+Time Stamp: 2021-08-25 14:02:21.395778404-04:00 
+Time Stamp: 2021-08-25 14:02:33.488012983-04:00 
+Time Stamp: 2021-08-25 14:02:45.804399603-04:00 
+Time Stamp: 2021-08-25 14:02:58.149844547-04:00 
+Time Stamp: 2021-08-25 14:03:10.728277873-04:00 
+Time Stamp: 2021-08-25 14:03:23.135798297-04:00 
+Time Stamp: 2021-08-25 14:03:35.787432923-04:00 
+Time Stamp: 2021-08-25 14:03:47.954119271-04:00 
+Time Stamp: 2021-08-25 14:03:59.860689089-04:00 
+Time Stamp: 2021-08-25 14:04:12.164274281-04:00 
+Time Stamp: 2021-08-25 14:04:24.452493933-04:00 
+Time Stamp: 2021-08-25 14:04:36.327168297-04:00 
+Time Stamp: 2021-08-25 14:04:53.428075835-04:00 
+Time Stamp: 2021-08-25 14:05:16.078213489-04:00 
+Time Stamp: 2021-08-25 14:05:28.518684454-04:00 
+Time Stamp: 2021-08-25 14:05:41.068522826-04:00 
+Time Stamp: 2021-08-25 14:06:14.025971163-04:00 
+Time Stamp: 2021-08-25 14:06:58.074215573-04:00 
+Time Stamp: 2021-08-25 14:07:16.226458902-04:00 
+Time Stamp: 2021-08-25 14:07:28.695183297-04:00 
+Time Stamp: 2021-08-25 14:07:40.523606614-04:00 
+Time Stamp: 2021-08-25 14:07:52.317588056-04:00 
+Time Stamp: 2021-08-25 14:08:04.880444755-04:00 
+Time Stamp: 2021-08-25 14:08:27.770789435-04:00 
+Time Stamp: 2021-08-25 14:08:45.568491707-04:00 
+Time Stamp: 2021-08-25 14:08:58.001687911-04:00 
+Time Stamp: 2021-08-25 14:09:10.568568262-04:00 
+Time Stamp: 2021-08-25 14:09:22.428109464-04:00 
+Time Stamp: 2021-08-25 14:09:34.683157782-04:00 
+Time Stamp: 2021-08-25 14:09:47.129929797-04:00 
+Time Stamp: 2021-08-25 14:10:09.638048885-04:00 
+Time Stamp: 2021-08-25 14:10:21.438450177-04:00 
+Success! Order placed to sell 68 shares of $ABNB. 
+Time Stamp: 2021-08-25 14:10:36.989194050-04:00 
+Success! Order placed to buy 102 shares of $AMD. 
+Time Stamp: 2021-08-25 14:10:52.724410421-04:00 
+Time Stamp: 2021-08-25 14:11:04.635151386-04:00 
+Success! Order placed to sell 49 shares of $BA. 
+Time Stamp: 2021-08-25 14:11:20.284791879-04:00 
+Success! Order placed to buy 60 shares of $DIS. 
+Time Stamp: 2021-08-25 14:11:40.685673411-04:00 
+Time Stamp: 2021-08-25 14:11:58.026341925-04:00 
+Time Stamp: 2021-08-25 14:12:10.305584734-04:00 
+Time Stamp: 2021-08-25 14:12:28.704337804-04:00 
+Success! Order placed to buy 2 shares of $VZ. 
+Time Stamp: 2021-08-25 14:12:44.314179188-04:00 
+Time Stamp: 2021-08-25 14:12:56.375978953-04:00 
+Time Stamp: 2021-08-25 14:13:13.939829429-04:00 
+Time Stamp: 2021-08-25 14:13:36.462847423-04:00 
+Success! Order placed to sell 60 shares of $DIS. 
+Time Stamp: 2021-08-25 14:13:51.724547701-04:00 
+Time Stamp: 2021-08-25 14:14:03.843222382-04:00 
+Success! Order placed to sell 3 shares of $GOOGL. 
+Time Stamp: 2021-08-25 14:14:19.520597265-04:00 
+Time Stamp: 2021-08-25 14:14:31.839803781-04:00 
+Success! Order placed to buy 86 shares of $NVDA. 
+Time Stamp: 2021-08-25 14:14:53.054743810-04:00 
+Time Stamp: 2021-08-25 14:15:15.648722652-04:00 
+Time Stamp: 2021-08-25 14:15:27.603661318-04:00 
+Time Stamp: 2021-08-25 14:15:45.342221580-04:00 
+Time Stamp: 2021-08-25 14:16:02.994403969-04:00 
+Success! Order placed to sell 60 shares of $DIS. 
+Time Stamp: 2021-08-25 14:16:17.993682325-04:00 
+Success! Order placed to buy 29 shares of $FB. 
+Time Stamp: 2021-08-25 14:16:33.073317052-04:00 
+Time Stamp: 2021-08-25 14:16:50.496770892-04:00 
+Time Stamp: 2021-08-25 14:17:02.566402353-04:00 
+Time Stamp: 2021-08-25 14:17:15.161773428-04:00 
+Time Stamp: 2021-08-25 14:17:27.538217484-04:00 
+Success! Order placed to buy 1 shares of $VZ. 
+Time Stamp: 2021-08-25 14:17:43.104152127-04:00 
+Time Stamp: 2021-08-25 14:17:55.039423693-04:00 
+Time Stamp: 2021-08-25 14:18:17.521532787-04:00 
+Time Stamp: 2021-08-25 14:18:29.461377061-04:00 
+Time Stamp: 2021-08-25 14:18:46.615012437-04:00 
+Time Stamp: 2021-08-25 14:19:09.157698918-04:00 
+Time Stamp: 2021-08-25 14:19:21.411301296-04:00 
+Time Stamp: 2021-08-25 14:19:33.772972949-04:00 
+Time Stamp: 2021-08-25 14:19:50.886531614-04:00 
+Time Stamp: 2021-08-25 14:20:03.190407064-04:00 
+Time Stamp: 2021-08-25 14:20:15.578338748-04:00 
+Time Stamp: 2021-08-25 14:20:27.631965050-04:00 
+Time Stamp: 2021-08-25 14:20:39.976970453-04:00 
+Time Stamp: 2021-08-25 14:20:51.987986840-04:00 
+Time Stamp: 2021-08-25 14:21:04.356564297-04:00 
+Time Stamp: 2021-08-25 14:21:16.390004827-04:00 
+Time Stamp: 2021-08-25 14:21:28.811575334-04:00 
+Time Stamp: 2021-08-25 14:21:41.492133007-04:00 
+Time Stamp: 2021-08-25 14:21:53.764209423-04:00 
+Time Stamp: 2021-08-25 14:22:06.030133213-04:00 
+Time Stamp: 2021-08-25 14:22:18.479351610-04:00 
+Time Stamp: 2021-08-25 14:22:31.063904657-04:00 
+Time Stamp: 2021-08-25 14:22:43.040345400-04:00 
+Time Stamp: 2021-08-25 14:22:55.079007409-04:00 
+Time Stamp: 2021-08-25 14:23:07.217998697-04:00 
+Time Stamp: 2021-08-25 14:23:24.473606776-04:00 
+Time Stamp: 2021-08-25 14:23:41.616979552-04:00 
+Time Stamp: 2021-08-25 14:24:09.478729121-04:00 
+Time Stamp: 2021-08-25 14:24:21.547783521-04:00 
+Time Stamp: 2021-08-25 14:24:34.483317199-04:00 
+Time Stamp: 2021-08-25 14:24:57.246160044-04:00 
+Time Stamp: 2021-08-25 14:25:14.795753460-04:00 
+Time Stamp: 2021-08-25 14:25:32.676104328-04:00 
+Time Stamp: 2021-08-25 14:25:44.632607033-04:00 
+Time Stamp: 2021-08-25 14:25:56.659224372-04:00 
+Success! Order placed to sell 29 shares of $FB. 
+Time Stamp: 2021-08-25 14:26:12.267450060-04:00 
+Success! Order placed to buy 3 shares of $GOOGL. 
+Time Stamp: 2021-08-25 14:26:27.987490477-04:00 
+Time Stamp: 2021-08-25 14:26:40.155639789-04:00 
+Success! Order placed to buy 9 shares of $NVDA. 
+Time Stamp: 2021-08-25 14:27:01.565780239-04:00 
+Time Stamp: 2021-08-25 14:27:14.082319397-04:00 
+Success! Order placed to buy 3 shares of $VZ. 
+Time Stamp: 2021-08-25 14:27:34.960651469-04:00 
+Time Stamp: 2021-08-25 14:27:47.576119532-04:00 
+Time Stamp: 2021-08-25 14:27:59.536374537-04:00 
+Time Stamp: 2021-08-25 14:28:22.426098793-04:00 
+Time Stamp: 2021-08-25 14:28:34.523422025-04:00 
+Time Stamp: 2021-08-25 14:28:46.794752656-04:00 
+Time Stamp: 2021-08-25 14:28:58.739636652-04:00 
+Time Stamp: 2021-08-25 14:29:10.962568184-04:00 
+Time Stamp: 2021-08-25 14:29:23.100707025-04:00 
+Time Stamp: 2021-08-25 14:29:35.562463233-04:00 
+Time Stamp: 2021-08-25 14:29:52.705657038-04:00 
+Time Stamp: 2021-08-25 14:30:04.880287879-04:00 
+Time Stamp: 2021-08-25 14:30:16.819004413-04:00 
+Success! Order placed to sell 68 shares of $ABNB. 
+Time Stamp: 2021-08-25 14:30:31.894340143-04:00 
+Success! Order placed to buy 102 shares of $AMD. 
+Time Stamp: 2021-08-25 14:30:46.938183074-04:00 
+Time Stamp: 2021-08-25 14:30:58.882018303-04:00 
+Time Stamp: 2021-08-25 14:31:10.946382681-04:00 
+Time Stamp: 2021-08-25 14:31:23.467221380-04:00 
+Time Stamp: 2021-08-25 14:31:35.453100474-04:00 
+Time Stamp: 2021-08-25 14:31:52.754792813-04:00 
+Time Stamp: 2021-08-25 14:32:05.179518726-04:00 
+Time Stamp: 2021-08-25 14:32:17.666124660-04:00 
+Time Stamp: 2021-08-25 14:32:30.211596477-04:00 
+Time Stamp: 2021-08-25 14:32:42.218482656-04:00 
+Time Stamp: 2021-08-25 14:33:00.038280748-04:00 
+Time Stamp: 2021-08-25 14:33:14.777800088-04:00 
+Time Stamp: 2021-08-25 14:33:26.888844339-04:00 
+Time Stamp: 2021-08-25 14:33:38.940833097-04:00 
+Time Stamp: 2021-08-25 14:33:50.946023357-04:00 
+Success! Order placed to sell 60 shares of $DIS. 
+Time Stamp: 2021-08-25 14:34:06.435933174-04:00 
+Success! Order placed to buy 29 shares of $FB. 
+Time Stamp: 2021-08-25 14:34:33.737876979-04:00 
+Success! Order placed to sell 98 shares of $NVDA. 
+Time Stamp: 2021-08-25 14:34:49.556055671-04:00 
+Success! Order placed to buy 48 shares of $SPY. 
+Time Stamp: 2021-08-25 14:35:05.292946017-04:00 
+Time Stamp: 2021-08-25 14:35:27.933548127-04:00 
+Time Stamp: 2021-08-25 14:35:45.515845825-04:00 
+Success! Order placed to sell 99 shares of $AMD. 
+Time Stamp: 2021-08-25 14:36:01.443641947-04:00 
+Time Stamp: 2021-08-25 14:36:24.145819348-04:00 
+Success! Order placed to sell 29 shares of $FB. 
+Time Stamp: 2021-08-25 14:36:39.310787227-04:00 
+Success! Order placed to buy 3 shares of $GOOGL. 
+Time Stamp: 2021-08-25 14:37:05.883526895-04:00 
+Success! Order placed to sell 48 shares of $SPY. 
+Time Stamp: 2021-08-25 14:37:21.519595464-04:00 
+Success! Order placed to buy 48 shares of $TSLA. 
+Time Stamp: 2021-08-25 14:37:37.146788920-04:00 
+Success! Order placed to buy 8 shares of $VZ. 
+Time Stamp: 2021-08-25 14:37:52.827261919-04:00 
+Time Stamp: 2021-08-25 14:38:05.013876072-04:00 
+Time Stamp: 2021-08-25 14:38:17.625626391-04:00 
+Time Stamp: 2021-08-25 14:38:29.625371865-04:00 
+Success! Order placed to sell 105 shares of $AMD. 
+Time Stamp: 2021-08-25 14:38:44.843109041-04:00 
+Success! Order placed to buy 3 shares of $AMZN. 
+Time Stamp: 2021-08-25 14:39:05.046154678-04:00 
+Success! Order placed to buy 8 shares of $DIS. 
+Time Stamp: 2021-08-25 14:39:20.208061714-04:00 
+Time Stamp: 2021-08-25 14:39:32.077381624-04:00 
+Time Stamp: 2021-08-25 14:39:43.881023746-04:00 
+Time Stamp: 2021-08-25 14:39:55.852742473-04:00 
+Time Stamp: 2021-08-25 14:40:08.449051867-04:00 
+Time Stamp: 2021-08-25 14:40:21.033406536-04:00 
+Time Stamp: 2021-08-25 14:40:43.605319274-04:00 
+Time Stamp: 2021-08-25 14:41:00.886563937-04:00 
+Time Stamp: 2021-08-25 14:41:13.285668964-04:00 
+Time Stamp: 2021-08-25 14:41:26.619249820-04:00 
+Time Stamp: 2021-08-25 14:41:38.567934780-04:00 
+Time Stamp: 2021-08-25 14:41:50.784785027-04:00 
+Time Stamp: 2021-08-25 14:42:02.692580145-04:00 
+Time Stamp: 2021-08-25 14:42:20.255118570-04:00 
+Time Stamp: 2021-08-25 14:42:32.687910990-04:00 
+Time Stamp: 2021-08-25 14:42:45.282109120-04:00 
+Time Stamp: 2021-08-25 14:42:57.829723064-04:00 
+Success! Order placed to buy 1 shares of $VZ. 
+Time Stamp: 2021-08-25 14:43:13.423326800-04:00 
+Time Stamp: 2021-08-25 14:43:25.954724933-04:00 
+Time Stamp: 2021-08-25 14:43:38.474366451-04:00 
+Time Stamp: 2021-08-25 14:43:50.859513335-04:00 
+Time Stamp: 2021-08-25 14:44:03.306403487-04:00 
+Success! Order placed to sell 3 shares of $AMZN. 
+Time Stamp: 2021-08-25 14:44:18.419202457-04:00 
+Success! Order placed to buy 44 shares of $BA. 
+Time Stamp: 2021-08-25 14:44:33.343792380-04:00 
+Success! Order placed to sell 60 shares of $DIS. 
+Time Stamp: 2021-08-25 14:44:48.782031285-04:00 
+Time Stamp: 2021-08-25 14:45:00.641567285-04:00 
+Success! Order placed to sell 3 shares of $GOOGL. 
+Time Stamp: 2021-08-25 14:45:16.219458627-04:00 
+Time Stamp: 2021-08-25 14:45:28.520955911-04:00 
+Success! Order placed to buy 87 shares of $NVDA. 
+Time Stamp: 2021-08-25 14:45:43.985940960-04:00 
+Time Stamp: 2021-08-25 14:45:56.523196279-04:00 
+Time Stamp: 2021-08-25 14:46:19.131585983-04:00 
+Time Stamp: 2021-08-25 14:46:36.411255879-04:00 
+Time Stamp: 2021-08-25 14:47:04.638073315-04:00 
+Time Stamp: 2021-08-25 14:47:16.605262340-04:00 
+Success! Order placed to sell 3 shares of $GOOGL. 
+Time Stamp: 2021-08-25 14:47:31.728917744-04:00 
+Time Stamp: 2021-08-25 14:47:43.698862026-04:00 
+Success! Order placed to buy 38 shares of $NVDA. 
+Time Stamp: 2021-08-25 14:48:05.061852078-04:00 
+Time Stamp: 2021-08-25 14:48:23.523404475-04:00 
+Success! Order placed to buy 1 shares of $XOM. 
+Time Stamp: 2021-08-25 14:48:38.652285201-04:00 
+Time Stamp: 2021-08-25 14:48:51.187502272-04:00 
+Time Stamp: 2021-08-25 14:49:03.285859113-04:00 
+Time Stamp: 2021-08-25 14:49:21.244459597-04:00 
+Time Stamp: 2021-08-25 14:49:33.667401935-04:00 
+Time Stamp: 2021-08-25 14:49:45.592158907-04:00 
+Time Stamp: 2021-08-25 14:49:57.579072275-04:00 
+Time Stamp: 2021-08-25 14:50:15.375909367-04:00 
+Time Stamp: 2021-08-25 14:50:27.729674210-04:00 
+Time Stamp: 2021-08-25 14:50:40.361792060-04:00 
+Time Stamp: 2021-08-25 14:50:57.462255394-04:00 
+Time Stamp: 2021-08-25 14:51:09.960675768-04:00 
+Time Stamp: 2021-08-25 14:51:27.350241165-04:00 
+Time Stamp: 2021-08-25 14:51:39.634166483-04:00 
+Time Stamp: 2021-08-25 14:51:56.956457105-04:00 
+Time Stamp: 2021-08-25 14:52:09.011054477-04:00 
+Time Stamp: 2021-08-25 14:52:21.011286565-04:00 
+Time Stamp: 2021-08-25 14:52:33.056905601-04:00 
+Time Stamp: 2021-08-25 14:52:44.961831877-04:00 
+Time Stamp: 2021-08-25 14:52:57.309340286-04:00 
+Time Stamp: 2021-08-25 14:53:09.753322595-04:00 
+Time Stamp: 2021-08-25 14:53:22.310505551-04:00 
+Time Stamp: 2021-08-25 14:53:34.226457301-04:00 
+Success! Order placed to sell 195 shares of $XOM. 
+Time Stamp: 2021-08-25 14:53:49.746000109-04:00 
+Success! Order placed to buy 72 shares of $AAPL. 
+Time Stamp: 2021-08-25 14:54:05.326519567-04:00 
+Time Stamp: 2021-08-25 14:54:17.440693223-04:00 
+Success! Order placed to buy 1 shares of $AMD. 
+Time Stamp: 2021-08-25 14:54:32.786481279-04:00 
+Time Stamp: 2021-08-25 14:54:44.644486500-04:00 
+Time Stamp: 2021-08-25 14:54:56.487176232-04:00 
+Time Stamp: 2021-08-25 14:55:08.716076692-04:00 
+Time Stamp: 2021-08-25 14:55:20.693545752-04:00 
+Time Stamp: 2021-08-25 14:55:38.490637321-04:00 
+Time Stamp: 2021-08-25 14:55:50.955982807-04:00 
+Time Stamp: 2021-08-25 14:56:03.365732625-04:00 
+Time Stamp: 2021-08-25 14:56:26.025897028-04:00 
+Time Stamp: 2021-08-25 14:56:37.846204938-04:00 
+Time Stamp: 2021-08-25 14:56:49.890425498-04:00 
+Success! Order placed to sell 1 shares of $AMD. 
+Time Stamp: 2021-08-25 14:57:10.378865141-04:00 
+Time Stamp: 2021-08-25 14:57:27.569660103-04:00 
+Time Stamp: 2021-08-25 14:57:39.542628488-04:00 
+Time Stamp: 2021-08-25 14:57:51.502263282-04:00 
+Time Stamp: 2021-08-25 14:58:04.078467660-04:00 
+Time Stamp: 2021-08-25 14:58:16.351388688-04:00 
+Time Stamp: 2021-08-25 14:58:28.786579034-04:00 
+Time Stamp: 2021-08-25 14:58:42.128520308-04:00 
+Success! Order placed to buy 2 shares of $VZ. 
+Time Stamp: 2021-08-25 14:58:57.652567357-04:00 
+Time Stamp: 2021-08-25 14:59:09.783217463-04:00 
+Time Stamp: 2021-08-25 14:59:48.287950769-04:00 
+Time Stamp: 2021-08-25 15:00:00.401784801-04:00 
+Time Stamp: 2021-08-25 15:00:12.923335131-04:00 
+Time Stamp: 2021-08-25 15:00:30.765950113-04:00 
+Time Stamp: 2021-08-25 15:00:43.164786958-04:00 
+Time Stamp: 2021-08-25 15:01:05.931304381-04:00 
+Time Stamp: 2021-08-25 15:01:17.785517954-04:00 
+Time Stamp: 2021-08-25 15:01:35.090189311-04:00 
+Time Stamp: 2021-08-25 15:01:47.526037342-04:00 
+Time Stamp: 2021-08-25 15:02:00.123721538-04:00 
+Time Stamp: 2021-08-25 15:02:12.383640572-04:00 
+Time Stamp: 2021-08-25 15:02:24.446831141-04:00 
+Time Stamp: 2021-08-25 15:02:41.711880299-04:00 
+Time Stamp: 2021-08-25 15:02:54.352809045-04:00 
+Time Stamp: 2021-08-25 15:03:06.790679817-04:00 
+Time Stamp: 2021-08-25 15:03:29.242013183-04:00 
+Time Stamp: 2021-08-25 15:03:46.319391713-04:00 
+Time Stamp: 2021-08-25 15:03:58.313943251-04:00 
+Time Stamp: 2021-08-25 15:04:20.831843937-04:00 
+Time Stamp: 2021-08-25 15:04:38.188786278-04:00 
+Time Stamp: 2021-08-25 15:04:50.124552016-04:00 
+Time Stamp: 2021-08-25 15:05:02.284826981-04:00 
+Time Stamp: 2021-08-25 15:05:14.507948670-04:00 
+Time Stamp: 2021-08-25 15:05:26.986055804-04:00 
+Time Stamp: 2021-08-25 15:05:44.291292284-04:00 
+Time Stamp: 2021-08-25 15:05:56.754421632-04:00 
+Time Stamp: 2021-08-25 15:06:19.650276749-04:00 
+Time Stamp: 2021-08-25 15:06:32.106875395-04:00 
+Time Stamp: 2021-08-25 15:06:43.976846848-04:00 
+Time Stamp: 2021-08-25 15:06:55.811943511-04:00 
+Time Stamp: 2021-08-25 15:07:07.630385850-04:00 
+Time Stamp: 2021-08-25 15:07:19.650394404-04:00 
+Time Stamp: 2021-08-25 15:07:31.675999533-04:00 
+Time Stamp: 2021-08-25 15:07:43.966618425-04:00 
+Time Stamp: 2021-08-25 15:07:55.850390959-04:00 
+Time Stamp: 2021-08-25 15:08:13.169452562-04:00 
+Time Stamp: 2021-08-25 15:08:25.026166829-04:00 
+Time Stamp: 2021-08-25 15:08:37.501969736-04:00 
+Time Stamp: 2021-08-25 15:09:20.940642590-04:00 
+Time Stamp: 2021-08-25 15:09:33.352918709-04:00 
+Time Stamp: 2021-08-25 15:09:46.192149994-04:00 
+Time Stamp: 2021-08-25 15:10:08.797121594-04:00 
+Time Stamp: 2021-08-25 15:10:26.055655905-04:00 
+Time Stamp: 2021-08-25 15:10:38.496271181-04:00 
+Time Stamp: 2021-08-25 15:10:56.277789786-04:00 
+Time Stamp: 2021-08-25 15:11:08.332773163-04:00 
+Time Stamp: 2021-08-25 15:11:20.815609179-04:00 
+Time Stamp: 2021-08-25 15:11:33.304745836-04:00 
+Time Stamp: 2021-08-25 15:11:45.363668289-04:00 
+Time Stamp: 2021-08-25 15:11:57.735890789-04:00 
+Time Stamp: 2021-08-25 15:12:10.279959413-04:00 
+Time Stamp: 2021-08-25 15:12:22.820114105-04:00 
+Time Stamp: 2021-08-25 15:12:35.390526551-04:00 
+Time Stamp: 2021-08-25 15:12:47.438004349-04:00 
+Time Stamp: 2021-08-25 15:13:09.942487486-04:00 
+Time Stamp: 2021-08-25 15:13:22.315235890-04:00 
+Time Stamp: 2021-08-25 15:13:39.554250660-04:00 
+Time Stamp: 2021-08-25 15:13:51.624727908-04:00 
+Time Stamp: 2021-08-25 15:14:08.781670489-04:00 
+Time Stamp: 2021-08-25 15:14:26.260476174-04:00 
+Time Stamp: 2021-08-25 15:14:49.055701273-04:00 
+Time Stamp: 2021-08-25 15:15:01.542048224-04:00 
+Time Stamp: 2021-08-25 15:15:13.962284229-04:00 
+Time Stamp: 2021-08-25 15:15:25.809464980-04:00 
+Time Stamp: 2021-08-25 15:15:37.747840700-04:00 
+Time Stamp: 2021-08-25 15:15:50.164883723-04:00 
+Time Stamp: 2021-08-25 15:16:02.250243382-04:00 
+Time Stamp: 2021-08-25 15:16:20.110973643-04:00 
+Time Stamp: 2021-08-25 15:16:32.421878421-04:00 
