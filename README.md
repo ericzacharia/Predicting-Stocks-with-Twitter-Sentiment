@@ -1,7 +1,7 @@
 # Predicting the Stock Market using the BERT Model and Sentiment Analysis of Live Tweets
 
 ## Video Presentation
-    ![img](YouTubeThumbnail.png)
+[![Predicting the Stock Market using the Sentiment of Live Tweets](https://github.com/ericzacharia/Predicting-Stocks-with-Twitter-Sentiment/blob/main/YouTubeThumbnail.png)](https://www.youtube.com/watch?v=ZJDqm7mhDfI)
 ## Abstract
     Predicting the best stocks to buy while day-trading the stock market is a dream for many seeking financial freedom. While there are heaps of existing day-trading strategies, many of them involve long hours of strict human focus on the numerical trends of stock prices and the contextual trends from news sources that directly correlate to the future value of publicly traded companies. We live in an age where there exists a subcategory of machine learning that can help reduce the manual burden of analysis and automate tasks that predict trends quicker than any human. Enter Natural Language Processing (NLP) and the Transformer model for sentiment analysis. This article discusses the use of an NLP pipeline that trains an altered BERT model with tweets from Twitter to make predictions about their bullish and bearish sentiments concerning stocks. The pipeline then conducts trades based on a user’s predefined portfolio and desired risk level.
 
