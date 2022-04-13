@@ -55,8 +55,10 @@ def alpaca_trader(ticker, polarity):
     today = (now - pd.Timedelta(days=1)).strftime('%Y-%m-%d')
     barset = api.get_bars(ticker[1:], TimeFrame.Day,
                           yesterday, today, limit=1).df
-    open_price = barset.open
-    close_price = barset.close
+    open_price = float(str(barset.open.iloc[0]).split()[0])
+    close_price = float(str(barset.close.iloc[0]).split()[0])
+    # open_price = barset.open
+    # close_price = barset.close
     # barset = api.get_barset(ticker[1:], 'day', limit=1)
     # open_price = barset[ticker[1:]][0].o
     # close_price = barset[ticker[1:]][0].c
@@ -70,13 +72,12 @@ def alpaca_trader(ticker, polarity):
         msg = f"Time Stamp: {market_clock.timestamp} \n"
         print(msg)
         f.write(msg)
-
+        
         if market_clock.is_open:
             if polarity > 0:
                 side = "buy"
                 qty = polarity*shares_per_polarity_point
                 expense = approximate_price_per_share * qty
-
                 # If buying power is limited, then decrease quantity of shares until transaction amount is lower than buying power
                 while expense > float(account.buying_power):
                     qty -= 1

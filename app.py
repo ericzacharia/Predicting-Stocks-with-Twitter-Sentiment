@@ -1,7 +1,9 @@
+import altair as alt
 import streamlit as st
 import twitter_api
 import predict_live_tweets
 import trading_algorithm
+import time_series_plot
 import numpy as np
 import pandas as pd
 import torch
@@ -34,6 +36,7 @@ model.load_state_dict(checkpoint['model_state_dict'])
 optimizer.load_state_dict(checkpoint['optimizer_state_dict'])
 epoch = checkpoint['epoch']
 equities = []
+datetimes = []
     
 def trade(portfolio):
     '''
@@ -54,15 +57,15 @@ def trade(portfolio):
     tweet_preprocessor = twitter_api.TweetPreprocessor()
     api = twitter_client.get_twitter_client_api()
     latest_id = None
-
     hash_tag_dict = dict.fromkeys(portfolio, None)
     placeholder = st.empty()
 
     while True:
         with placeholder.container():
             if len(equities) > 1:
-                chart_data = pd.DataFrame(equities, columns=['Equity'])
-                st.line_chart(chart_data)
+                df = pd.DataFrame({'Equity': np.array(equities), 'Date-Time': np.array(datetimes, dtype='datetime64')})
+                chart = time_series_plot.get_chart(df)
+                st.altair_chart((chart).interactive(), use_container_width=True)
 
             for ticker in hash_tag_dict.keys():
                 tweets = api.search(
@@ -76,34 +79,31 @@ def trade(portfolio):
                 # ### useful print codes to illustrate what is happening:
                 print(df[['tweet', 'prediction', 'id']].head(3))
                 st.write()
+                st.write(f"Searching for recent tweets about {ticker}.")
                 equity, timestamp, msg = trading_algorithm.alpaca_trader(ticker, polarity)
-                equities.append(equity)
+                equities.append(float(equity))
                 datetimes.append(str(timestamp).split('.')[0])
                 st.write(msg)
                 st.write(timestamp)
                 st.write(f'Portfolio Balance: ${float(equity):0,.0f}')
                 
                 if msg != 'No orders were made because the stock market is currently closed for trading. \n':
-                    st.write(f"Searching for recent tweets about {ticker}")
-
                     if trade_bool:
                         if polarity > 0:
                             st.write(
-                                f"Positive sentiment polarity score of {polarity}. Preparing to buy {ticker} stock.")
+                                f"{ticker} stock has a positive sentiment polarity score of {polarity}.")
                         else:
                             st.write(
-                                f"Negative sentiment polarity score of {polarity}. Avoiding or preparing to sell {ticker} stock.")
+                                f"{ticker} stock has a negative sentiment polarity score of {polarity}.")
                         st.write()
                     else:
                         st.write(
-                            f"Neutral sentiment polarity score. Hold off on trading {ticker} stock.")
+                            f"{ticker} stock has a neutral sentiment polarity score.")
                 time.sleep(5)  # seconds
                 st.write()
                 st.write('--------------------')
                 st.write()
-        placeholder.empty()
-
-
+            placeholder.empty()
 
 st.title("Stock Trader using Tweet Sentiment")
 st.write("##### A BERT Sentiment Classifier by Eric Zacharia")

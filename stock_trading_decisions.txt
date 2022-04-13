@@ -1419,3 +1419,233 @@ Time Stamp: 2022-04-12 23:59:25.421534922-04:00
 Time Stamp: 2022-04-12 23:59:34.443188446-04:00 
 Time Stamp: 2022-04-12 23:59:44.060070479-04:00 
 Time Stamp: 2022-04-12 23:59:53.511655154-04:00 
+Time Stamp: 2022-04-13 10:40:56.896069197-04:00 
+Time Stamp: 2022-04-13 10:42:45.364505839-04:00 
+Time Stamp: 2022-04-13 10:43:16.205135484-04:00 
+Time Stamp: 2022-04-13 10:44:26.300691791-04:00 
+Time Stamp: 2022-04-13 10:45:56.164112054-04:00 
+Time Stamp: 2022-04-13 10:46:37.198245014-04:00 
+Time Stamp: 2022-04-13 10:47:50.661565826-04:00 
+Time Stamp: 2022-04-13 10:49:20.919094510-04:00 
+Time Stamp: 2022-04-13 10:50:35.419425533-04:00 
+Time Stamp: 2022-04-13 10:51:49.383755775-04:00 
+Time Stamp: 2022-04-13 10:53:52.687432251-04:00 
+Time Stamp: 2022-04-13 10:56:37.495435564-04:00 
+Time Stamp: 2022-04-13 10:57:20.376427437-04:00 
+Time Stamp: 2022-04-13 10:58:51.424363834-04:00 
+Time Stamp: 2022-04-13 11:02:59.074721180-04:00 
+Success! Order placed to buy 5 shares of $AAPL. 
+Time Stamp: 2022-04-13 11:04:56.355289816-04:00 
+Success! Order placed to sell 5 shares of $AAPL. 
+Time Stamp: 2022-04-13 11:05:11.798952770-04:00 
+Time Stamp: 2022-04-13 11:05:24.478722416-04:00 
+Success! Order placed to buy 4 shares of $FB. 
+Time Stamp: 2022-04-13 11:05:40.209509110-04:00 
+Success! Order placed to buy 132 shares of $F. 
+Time Stamp: 2022-04-13 11:05:55.638170360-04:00 
+Time Stamp: 2022-04-13 11:06:07.642581274-04:00 
+Time Stamp: 2022-04-13 11:06:19.525927043-04:00 
+Time Stamp: 2022-04-13 11:06:32.045282120-04:00 
+Time Stamp: 2022-04-13 11:06:44.070667325-04:00 
+Time Stamp: 2022-04-13 11:06:55.964678903-04:00 
+Success! Order placed to buy 4 shares of $NVDA. 
+Time Stamp: 2022-04-13 11:07:10.911770040-04:00 
+Success! Order placed to buy 5 shares of $AAPL. 
+Time Stamp: 2022-04-13 11:07:26.288316585-04:00 
+Time Stamp: 2022-04-13 11:07:38.717336168-04:00 
+Time Stamp: 2022-04-13 11:07:50.598399930-04:00 
+Success! Order placed to buy 66 shares of $F. 
+Time Stamp: 2022-04-13 11:08:05.389904087-04:00 
+Time Stamp: 2022-04-13 11:08:27.545917152-04:00 
+Success! Order placed to buy 5 shares of $AAPL. 
+Time Stamp: 2022-04-13 11:08:43.176112585-04:00 
+Time Stamp: 2022-04-13 11:08:55.584718612-04:00 
+Success! Order placed to buy 4 shares of $FB. 
+Time Stamp: 2022-04-13 11:09:11.009031767-04:00 
+Time Stamp: 2022-04-13 11:09:23.472543548-04:00 
+Success! Order placed to buy 8 shares of $NVDA. 
+Time Stamp: 2022-04-13 11:09:38.662959493-04:00 
+Time Stamp: 2022-04-13 11:09:50.528261055-04:00 
+Time Stamp: 2022-04-13 11:10:02.546129922-04:00 
+Time Stamp: 2022-04-13 11:10:14.285986844-04:00 
+Time Stamp: 2022-04-13 11:10:26.081295077-04:00 
+Success! Order placed to buy 4 shares of $NVDA. 
+Time Stamp: 2022-04-13 11:16:10.906861382-04:00 
+Time Stamp: 2022-04-13 11:16:23.318900492-04:00 
+Time Stamp: 2022-04-13 11:16:35.708511146-04:00 
+Time Stamp: 2022-04-13 11:16:48.060758154-04:00 
+Success! Order placed to sell 66 shares of $F. 
+Time Stamp: 2022-04-13 11:17:03.884974928-04:00 
+Success! Order placed to buy 12 shares of $NVDA. 
+Time Stamp: 2022-04-13 11:17:18.962627293-04:00 
+Time Stamp: 2022-04-13 11:17:30.588937766-04:00 
+Time Stamp: 2022-04-13 11:17:42.470700273-04:00 
+Time Stamp: 2022-04-13 11:17:54.268690216-04:00 
+Time Stamp: 2022-04-13 11:18:05.899996903-04:00 
+Time Stamp: 2022-04-13 11:18:17.663203288-04:00 
+Time Stamp: 2022-04-13 11:18:29.980136999-04:00 
+Time Stamp: 2022-04-13 11:18:41.670172400-04:00 
+Time Stamp: 2022-04-13 11:18:53.287163617-04:00 
+Time Stamp: 2022-04-13 11:19:05.677927110-04:00 
+Success! Order placed to buy 16 shares of $NVDA. 
+Time Stamp: 2022-04-13 11:19:20.460375769-04:00 
+Time Stamp: 2022-04-13 11:19:32.120939842-04:00 
+Time Stamp: 2022-04-13 11:19:43.747606838-04:00 
+Time Stamp: 2022-04-13 11:19:56.125885670-04:00 
+Success! Order placed to sell 132 shares of $F. 
+Time Stamp: 2022-04-13 11:20:10.975361650-04:00 
+Time Stamp: 2022-04-13 11:20:22.973557240-04:00 
+Success! Order placed to buy 5 shares of $AAPL. 
+Time Stamp: 2022-04-13 11:20:38.306107272-04:00 
+Time Stamp: 2022-04-13 11:20:50.639854330-04:00 
+Time Stamp: 2022-04-13 11:21:02.497971716-04:00 
+Time Stamp: 2022-04-13 11:21:14.456999661-04:00 
+Success! Order placed to buy 16 shares of $NVDA. 
+Time Stamp: 2022-04-13 11:21:29.122966130-04:00 
+Time Stamp: 2022-04-13 11:21:40.801233081-04:00 
+Time Stamp: 2022-04-13 11:21:52.516450765-04:00 
+Time Stamp: 2022-04-13 11:22:04.246563624-04:00 
+Time Stamp: 2022-04-13 11:22:15.919729430-04:00 
+Time Stamp: 2022-04-13 11:22:28.277893165-04:00 
+Time Stamp: 2022-04-13 11:22:40.624550728-04:00 
+Time Stamp: 2022-04-13 11:22:53.313673295-04:00 
+Time Stamp: 2022-04-13 11:23:04.988488354-04:00 
+Success! Order placed to buy 66 shares of $F. 
+Time Stamp: 2022-04-13 11:23:19.774409974-04:00 
+Success! Order placed to buy 4 shares of $NVDA. 
+Time Stamp: 2022-04-13 11:23:34.528695953-04:00 
+Time Stamp: 2022-04-13 11:23:46.146394576-04:00 
+Time Stamp: 2022-04-13 11:23:57.942063769-04:00 
+Success! Order placed to sell 4 shares of $FB. 
+Time Stamp: 2022-04-13 11:24:12.836663998-04:00 
+Time Stamp: 2022-04-13 11:24:24.663737394-04:00 
+Success! Order placed to buy 4 shares of $NVDA. 
+Time Stamp: 2022-04-13 11:24:39.672859152-04:00 
+Success! Order placed to buy 5 shares of $AAPL. 
+Time Stamp: 2022-04-13 11:24:55.110199940-04:00 
+Time Stamp: 2022-04-13 11:25:06.850742135-04:00 
+Time Stamp: 2022-04-13 11:25:18.465680669-04:00 
+Time Stamp: 2022-04-13 11:25:30.390888713-04:00 
+Time Stamp: 2022-04-13 11:25:42.114357426-04:00 
+Time Stamp: 2022-04-13 11:25:53.733500754-04:00 
+Time Stamp: 2022-04-13 11:26:05.421546156-04:00 
+Time Stamp: 2022-04-13 11:26:17.971054678-04:00 
+Time Stamp: 2022-04-13 11:26:30.092014209-04:00 
+Time Stamp: 2022-04-13 11:26:42.091862419-04:00 
+Success! Order placed to buy 10 shares of $AAPL. 
+Time Stamp: 2022-04-13 11:26:57.543719417-04:00 
+Time Stamp: 2022-04-13 11:27:09.368163145-04:00 
+Time Stamp: 2022-04-13 11:27:21.022057288-04:00 
+Time Stamp: 2022-04-13 11:27:32.645757422-04:00 
+Time Stamp: 2022-04-13 11:27:44.461421290-04:00 
+Time Stamp: 2022-04-13 11:27:56.247648353-04:00 
+Time Stamp: 2022-04-13 11:28:08.249438413-04:00 
+Success! Order placed to buy 4 shares of $FB. 
+Time Stamp: 2022-04-13 11:28:23.792179463-04:00 
+Time Stamp: 2022-04-13 11:28:36.172214324-04:00 
+Success! Order placed to buy 8 shares of $NVDA. 
+Time Stamp: 2022-04-13 11:28:51.063281615-04:00 
+Time Stamp: 2022-04-13 11:29:02.704526386-04:00 
+Time Stamp: 2022-04-13 11:29:14.651006709-04:00 
+Time Stamp: 2022-04-13 11:29:26.362033528-04:00 
+Time Stamp: 2022-04-13 11:29:38.243373942-04:00 
+Success! Order placed to buy 8 shares of $NVDA. 
+Time Stamp: 2022-04-13 11:29:53.216884856-04:00 
+Time Stamp: 2022-04-13 12:05:23.281838721-04:00 
+Success! Order placed to sell 5 shares of $AAPL. 
+Time Stamp: 2022-04-13 12:07:46.793008320-04:00 
+Time Stamp: 2022-04-13 12:07:59.277416322-04:00 
+Time Stamp: 2022-04-13 12:09:48.194358058-04:00 
+Success! Order placed to buy 10 shares of $AAPL. 
+Time Stamp: 2022-04-13 12:10:03.616630282-04:00 
+Time Stamp: 2022-04-13 12:10:15.630714809-04:00 
+Time Stamp: 2022-04-13 12:10:27.310066510-04:00 
+Time Stamp: 2022-04-13 12:10:39.081407518-04:00 
+Time Stamp: 2022-04-13 12:10:51.481438583-04:00 
+Time Stamp: 2022-04-13 12:11:03.435083878-04:00 
+Time Stamp: 2022-04-13 12:11:15.123724382-04:00 
+Time Stamp: 2022-04-13 12:11:26.912144142-04:00 
+Time Stamp: 2022-04-13 12:11:39.287149117-04:00 
+Time Stamp: 2022-04-13 12:11:51.056033890-04:00 
+Time Stamp: 2022-04-13 12:12:02.723332134-04:00 
+Time Stamp: 2022-04-13 12:12:25.166580542-04:00 
+Success! Order placed to sell 5 shares of $AAPL. 
+Time Stamp: 2022-04-13 12:12:40.673433547-04:00 
+Time Stamp: 2022-04-13 12:12:52.461799052-04:00 
+Time Stamp: 2022-04-13 12:13:04.066127170-04:00 
+Time Stamp: 2022-04-13 12:13:15.725260560-04:00 
+Time Stamp: 2022-04-13 12:13:28.149391452-04:00 
+Time Stamp: 2022-04-13 12:13:40.647705690-04:00 
+Success! Order placed to sell 5 shares of $AAPL. 
+Time Stamp: 2022-04-13 12:13:55.316415367-04:00 
+Time Stamp: 2022-04-13 12:14:07.049966898-04:00 
+Time Stamp: 2022-04-13 12:14:19.453467527-04:00 
+Time Stamp: 2022-04-13 12:14:31.143157048-04:00 
+Time Stamp: 2022-04-13 12:14:42.792891645-04:00 
+Time Stamp: 2022-04-13 12:14:55.259463801-04:00 
+Success! Order placed to sell 10 shares of $AAPL. 
+Time Stamp: 2022-04-13 12:15:10.683649667-04:00 
+Time Stamp: 2022-04-13 12:15:22.404095620-04:00 
+Time Stamp: 2022-04-13 12:15:34.099927540-04:00 
+Time Stamp: 2022-04-13 12:15:46.265971981-04:00 
+Time Stamp: 2022-04-13 12:15:58.848095042-04:00 
+Time Stamp: 2022-04-13 12:16:10.608076090-04:00 
+Time Stamp: 2022-04-13 12:16:22.238094003-04:00 
+Time Stamp: 2022-04-13 12:16:33.909414778-04:00 
+Time Stamp: 2022-04-13 12:16:46.304715705-04:00 
+Time Stamp: 2022-04-13 12:16:58.767552355-04:00 
+Time Stamp: 2022-04-13 12:17:10.387795035-04:00 
+Time Stamp: 2022-04-13 12:17:36.989110770-04:00 
+Success! Order placed to buy 5 shares of $AAPL. 
+Time Stamp: 2022-04-13 12:17:52.477901794-04:00 
+Time Stamp: 2022-04-13 12:18:04.159112051-04:00 
+Time Stamp: 2022-04-13 12:18:35.968006688-04:00 
+Success! Order placed to buy 5 shares of $AAPL. 
+Time Stamp: 2022-04-13 12:18:51.431605361-04:00 
+Time Stamp: 2022-04-13 12:19:03.286505614-04:00 
+Success! Order placed to buy 5 shares of $AAPL. 
+Time Stamp: 2022-04-13 12:19:17.937202992-04:00 
+Time Stamp: 2022-04-13 12:19:29.822772664-04:00 
+Success! Order placed to sell 5 shares of $AAPL. 
+Time Stamp: 2022-04-13 12:19:45.248373343-04:00 
+Time Stamp: 2022-04-13 12:19:57.061061371-04:00 
+Time Stamp: 2022-04-13 12:20:08.692698656-04:00 
+Time Stamp: 2022-04-13 12:20:20.438907479-04:00 
+Time Stamp: 2022-04-13 12:20:32.871812811-04:00 
+Time Stamp: 2022-04-13 12:20:44.786839669-04:00 
+Time Stamp: 2022-04-13 12:24:54.934024734-04:00 
+Success! Order placed to buy 10 shares of $AAPL. 
+Time Stamp: 2022-04-13 12:25:10.324736054-04:00 
+Time Stamp: 2022-04-13 12:25:22.517342853-04:00 
+Success! Order placed to buy 5 shares of $AAPL. 
+Time Stamp: 2022-04-13 12:25:37.149195883-04:00 
+Time Stamp: 2022-04-13 12:25:48.930166664-04:00 
+Time Stamp: 2022-04-13 12:26:01.660533630-04:00 
+Time Stamp: 2022-04-13 12:26:13.751072087-04:00 
+Success! Order placed to sell 5 shares of $AAPL. 
+Time Stamp: 2022-04-13 12:26:51.046186040-04:00 
+Success! Order placed to sell 5 shares of $AAPL. 
+Time Stamp: 2022-04-13 12:27:06.525386550-04:00 
+Time Stamp: 2022-04-13 12:27:18.465495032-04:00 
+Success! Order placed to sell 5 shares of $AAPL. 
+Time Stamp: 2022-04-13 12:27:33.145839217-04:00 
+Time Stamp: 2022-04-13 12:27:44.950475855-04:00 
+Time Stamp: 2022-04-13 12:27:57.367095906-04:00 
+Time Stamp: 2022-04-13 12:28:17.838551032-04:00 
+Success! Order placed to sell 10 shares of $AAPL. 
+Time Stamp: 2022-04-13 12:28:33.349361597-04:00 
+Time Stamp: 2022-04-13 12:28:45.126803154-04:00 
+Time Stamp: 2022-04-13 12:28:56.764893473-04:00 
+Time Stamp: 2022-04-13 12:29:08.493280587-04:00 
+Success! Order placed to buy 5 shares of $AAPL. 
+Time Stamp: 2022-04-13 12:29:23.930478487-04:00 
+Time Stamp: 2022-04-13 12:29:36.620456632-04:00 
+Success! Order placed to sell 10 shares of $AAPL. 
+Time Stamp: 2022-04-13 12:29:52.061244403-04:00 
+Time Stamp: 2022-04-13 12:30:04.086827351-04:00 
+Time Stamp: 2022-04-13 12:30:15.756451260-04:00 
+Time Stamp: 2022-04-13 12:30:27.533739903-04:00 
+Time Stamp: 2022-04-13 12:30:39.918501724-04:00 
+Time Stamp: 2022-04-13 12:30:51.877168442-04:00 
+Time Stamp: 2022-04-13 12:31:03.557131957-04:00 
+Time Stamp: 2022-04-13 12:31:15.571606367-04:00 
