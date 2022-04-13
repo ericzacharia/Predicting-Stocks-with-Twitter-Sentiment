@@ -29,12 +29,9 @@ def alpaca_trader(ticker, polarity):
     terminates the trading process, and exits the function. 
     '''
     global unique_minutes
-    # ALPACA_ENDPOINT_URL = api_credentials.ALPACA_ENDPOINT_URL
-    # ALPACA_API_KEY = api_credentials.ALPACA_API_KEY
-    # ALPACA_SECRET_KEY = api_credentials.ALPACA_SECRET_KEY
-    ALPACA_ENDPOINT_URL = "https://paper-api.alpaca.markets"
-    ALPACA_API_KEY = "PK9J1BRDGLTXL0T0DE51"
-    ALPACA_SECRET_KEY = "tUAMruZexdZSZnOuruPWcZNMTPxJ3XWkHHHFvFE5"
+    ALPACA_ENDPOINT_URL = api_credentials.ALPACA_ENDPOINT_URL
+    ALPACA_API_KEY = api_credentials.ALPACA_API_KEY
+    ALPACA_SECRET_KEY = api_credentials.ALPACA_SECRET_KEY
     api = tradeapi.REST(ALPACA_API_KEY, ALPACA_SECRET_KEY,
                         ALPACA_ENDPOINT_URL, api_version='v2')
     account = api.get_account()
