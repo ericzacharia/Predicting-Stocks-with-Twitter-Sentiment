@@ -8,10 +8,6 @@ import torch
 from torch import nn
 import time
 from transformers import BertModel, AdamW
-import matplotlib.pyplot as plt
-from matplotlib.backends.backend_agg import FigureCanvasAgg
-import matplotlib.cm as cm
-from matplotlib.colors import Normalize
 
 class SentimentClassifier(nn.Module):
 
@@ -38,7 +34,6 @@ model.load_state_dict(checkpoint['model_state_dict'])
 optimizer.load_state_dict(checkpoint['optimizer_state_dict'])
 epoch = checkpoint['epoch']
 equities = []
-datetimes = []
     
 def trade(portfolio):
     '''
@@ -68,13 +63,6 @@ def trade(portfolio):
             if len(equities) > 1:
                 chart_data = pd.DataFrame(equities, columns=['Equity'])
                 st.line_chart(chart_data)
-            # if len(equities) > 1:
-            #     fig, ax = plt.subplots(figsize=(6, 0.5))
-            #     ax.plot(datetimes, equities)
-            #     ax.set(title='Portfolio Performance',
-            #            ylabel='Equity',
-            #            xlabel='Date-Time')
-            #     st.pyplot(fig)
 
             for ticker in hash_tag_dict.keys():
                 tweets = api.search(
@@ -117,8 +105,6 @@ def trade(portfolio):
 
 
 
-
-# main()
 st.title("Stock Trader using Tweet Sentiment")
 st.write("##### A BERT Sentiment Classifier by Eric Zacharia")
 portfolio = st.multiselect('Build your portfolio', sp500_stocks)
@@ -134,41 +120,3 @@ if st.button('Start Trading') and portfolio:
 
 elif not portfolio:
     st.write('Add stocks to your portfolio to begin trading.')
-
-
-# model = cnn(input_shape=(288, 432, 4), classes=9)
-# model.load_weights("CNNModelWeights.h5")
-
-# if file is not None:
-#     convert_mp3_to_wav(file)
-#     extract_relevant("music_file.wav", 40, 50)
-#     create_melspectrogram("extracted.wav")
-#     image_data = load_img('melspectrogram.png',
-#                           color_mode='rgba', target_size=(288, 432))
-
-#     filename = download_image()
-#     st.write(f"### {filename}")
-#     st.audio(file, "audio/mp3")
-
-    # class_label, prediction = predict(image_data, model)
-    # prediction = prediction.reshape((9,))
-    # color_data = [1, 2, 3, 4, 5, 6, 7, 8, 9]
-    # my_cmap = cm.get_cmap('jet')
-    # my_norm = Normalize(vmin=0, vmax=9)
-
-    # st.write(f"### Portfolio Performance Graph")
-    # plt.plot(datetimes, equity)
-    # plt.title('Equity vs Time')
-    # plt.xlabel('Timestamps')
-    # plt.ylabel('Equity')
-    # plt.show()
-
-
-    # fig, ax = plt.subplots(figsize=(6, 4.5))
-    # ax.bar(x=class_labels, height=prediction,
-    #        color=my_cmap(my_norm(color_data)))
-    # plt.xticks(rotation=45)
-    # ax.set_title(
-    #     "Probability Distribution Of The Given Song Over Different Genres")
-    # st.pyplot(fig)
-    # st.image("melspectrogram.png", use_column_width=True)
