@@ -1649,3 +1649,1209 @@ Time Stamp: 2022-04-13 12:30:39.918501724-04:00
 Time Stamp: 2022-04-13 12:30:51.877168442-04:00 
 Time Stamp: 2022-04-13 12:31:03.557131957-04:00 
 Time Stamp: 2022-04-13 12:31:15.571606367-04:00 
+Time Stamp: 2022-04-13 12:33:42.882308338-04:00 
+Success! Order placed to buy 3 shares of $AMZN. 
+Time Stamp: 2022-04-13 12:33:58.590245629-04:00 
+Success! Order placed to buy 57 shares of $BA. 
+Time Stamp: 2022-04-13 12:34:14.167450437-04:00 
+Success! Order placed to buy 184 shares of $FB. 
+Time Stamp: 2022-04-13 12:34:29.698988730-04:00 
+Success! Order placed to buy 117 shares of $XOM. 
+Time Stamp: 2022-04-13 12:34:45.177902736-04:00 
+Success! Order placed to buy 315 shares of $NVDA. 
+Time Stamp: 2022-04-13 12:34:59.961182473-04:00 
+Time Stamp: 2022-04-13 12:35:11.595856258-04:00 
+Time Stamp: 2022-04-13 12:35:23.532780058-04:00 
+Success! Order placed to buy 138 shares of $FB. 
+Time Stamp: 2022-04-13 12:35:38.193448968-04:00 
+Time Stamp: 2022-04-13 12:35:49.932284727-04:00 
+Success! Order placed to buy 45 shares of $NVDA. 
+Time Stamp: 2022-04-13 12:36:05.141176911-04:00 
+Success! Order placed to sell 3 shares of $AMZN. 
+Time Stamp: 2022-04-13 12:36:20.627994457-04:00 
+Success! Order placed to buy 114 shares of $BA. 
+Time Stamp: 2022-04-13 12:36:35.368360999-04:00 
+Time Stamp: 2022-04-13 12:36:47.867874454-04:00 
+Success! Order placed to buy 117 shares of $XOM. 
+Time Stamp: 2022-04-13 12:37:02.542856613-04:00 
+Time Stamp: 2022-04-13 12:37:14.488306098-04:00 
+Success! Order placed to buy 3 shares of $AMZN. 
+Time Stamp: 2022-04-13 12:37:29.138736063-04:00 
+Time Stamp: 2022-04-13 12:37:40.810628002-04:00 
+Time Stamp: 2022-04-13 12:37:52.623116170-04:00 
+Time Stamp: 2022-04-13 12:38:05.371381937-04:00 
+Success! Order placed to buy 270 shares of $NVDA. 
+Time Stamp: 2022-04-13 12:38:20.388573734-04:00 
+Success! Order placed to buy 3 shares of $AMZN. 
+Time Stamp: 2022-04-13 12:38:36.107253638-04:00 
+Success! Order placed to buy 114 shares of $BA. 
+Time Stamp: 2022-04-13 12:38:51.901943816-04:00 
+Success! Order placed to buy 184 shares of $FB. 
+Time Stamp: 2022-04-13 12:39:07.444198039-04:00 
+Success! Order placed to buy 117 shares of $XOM. 
+Time Stamp: 2022-04-13 12:39:22.723093342-04:00 
+Success! Order placed to buy 135 shares of $NVDA. 
+Time Stamp: 2022-04-13 12:39:37.944789040-04:00 
+Time Stamp: 2022-04-13 12:39:49.776955566-04:00 
+Time Stamp: 2022-04-13 12:40:01.716942165-04:00 
+Success! Order placed to sell 46 shares of $FB. 
+Time Stamp: 2022-04-13 12:40:16.556952421-04:00 
+Time Stamp: 2022-04-13 12:40:28.440961936-04:00 
+Time Stamp: 2022-04-13 12:40:40.289536842-04:00 
+Time Stamp: 2022-04-13 12:40:51.938761790-04:00 
+Time Stamp: 2022-04-13 12:41:03.977959047-04:00 
+Success! Order placed to buy 92 shares of $FB. 
+Time Stamp: 2022-04-13 12:41:18.671252997-04:00 
+Time Stamp: 2022-04-13 12:41:30.717647362-04:00 
+Time Stamp: 2022-04-13 12:41:42.829448652-04:00 
+Success! Order placed to buy 3 shares of $AMZN. 
+Time Stamp: 2022-04-13 12:41:58.318719164-04:00 
+Success! Order placed to sell 57 shares of $BA. 
+Time Stamp: 2022-04-13 12:42:13.277119509-04:00 
+Time Stamp: 2022-04-13 12:42:25.865643916-04:00 
+Time Stamp: 2022-04-13 12:42:37.754890220-04:00 
+Success! Order placed to buy 45 shares of $NVDA. 
+Time Stamp: 2022-04-13 12:42:52.559864586-04:00 
+Time Stamp: 2022-04-13 12:43:04.179538037-04:00 
+Time Stamp: 2022-04-13 12:43:16.072469088-04:00 
+Time Stamp: 2022-04-13 12:43:27.927766806-04:00 
+Time Stamp: 2022-04-13 12:43:39.925215942-04:00 
+Time Stamp: 2022-04-13 12:43:51.701662416-04:00 
+Time Stamp: 2022-04-13 12:44:04.185099515-04:00 
+Success! Order placed to buy 57 shares of $BA. 
+Time Stamp: 2022-04-13 12:44:18.968799508-04:00 
+Time Stamp: 2022-04-13 12:44:31.481517059-04:00 
+Time Stamp: 2022-04-13 12:44:43.200405765-04:00 
+Time Stamp: 2022-04-13 12:44:54.936188832-04:00 
+Time Stamp: 2022-04-13 12:45:06.572518851-04:00 
+Time Stamp: 2022-04-13 12:45:18.329116350-04:00 
+Time Stamp: 2022-04-13 12:45:30.007753605-04:00 
+Time Stamp: 2022-04-13 12:45:42.508180803-04:00 
+Success! Order placed to buy 90 shares of $NVDA. 
+Time Stamp: 2022-04-13 12:45:57.456834797-04:00 
+Time Stamp: 2022-04-13 12:46:10.026828185-04:00 
+Success! Order placed to buy 114 shares of $BA. 
+Time Stamp: 2022-04-13 12:46:24.958687907-04:00 
+Success! Order placed to sell 46 shares of $FB. 
+Time Stamp: 2022-04-13 12:46:40.567374193-04:00 
+Success! Order placed to buy 117 shares of $XOM. 
+Time Stamp: 2022-04-13 12:46:55.360719817-04:00 
+Time Stamp: 2022-04-13 12:47:07.224002100-04:00 
+Time Stamp: 2022-04-13 12:47:18.946378334-04:00 
+Success! Order placed to sell 57 shares of $BA. 
+Time Stamp: 2022-04-13 12:47:34.010189694-04:00 
+Time Stamp: 2022-04-13 12:47:45.791521535-04:00 
+Time Stamp: 2022-04-13 12:47:57.537491272-04:00 
+Time Stamp: 2022-04-13 12:48:09.347650247-04:00 
+Time Stamp: 2022-04-13 12:48:21.058488550-04:00 
+Time Stamp: 2022-04-13 12:48:32.947684236-04:00 
+Time Stamp: 2022-04-13 12:48:44.737447814-04:00 
+Time Stamp: 2022-04-13 12:48:56.555999841-04:00 
+Time Stamp: 2022-04-13 12:49:08.515228484-04:00 
+Time Stamp: 2022-04-13 12:49:21.082650253-04:00 
+Time Stamp: 2022-04-13 12:49:32.698590602-04:00 
+Time Stamp: 2022-04-13 12:49:44.301296845-04:00 
+Time Stamp: 2022-04-13 12:49:56.281714359-04:00 
+Success! Order placed to buy 45 shares of $NVDA. 
+Time Stamp: 2022-04-13 12:50:11.707378810-04:00 
+Time Stamp: 2022-04-13 12:50:23.377416392-04:00 
+Time Stamp: 2022-04-13 12:50:35.942312220-04:00 
+Time Stamp: 2022-04-13 12:50:48.383410067-04:00 
+Time Stamp: 2022-04-13 12:51:00.373109524-04:00 
+Time Stamp: 2022-04-13 12:51:12.282829042-04:00 
+Time Stamp: 2022-04-13 12:51:24.600939412-04:00 
+Success! Order placed to sell 57 shares of $BA. 
+Time Stamp: 2022-04-13 12:51:39.497685291-04:00 
+Time Stamp: 2022-04-13 12:51:51.134218398-04:00 
+Time Stamp: 2022-04-13 12:52:02.967848675-04:00 
+Time Stamp: 2022-04-13 12:52:14.899086688-04:00 
+Time Stamp: 2022-04-13 12:52:26.578858814-04:00 
+Time Stamp: 2022-04-13 12:52:38.459974275-04:00 
+Time Stamp: 2022-04-13 12:52:50.941863572-04:00 
+Time Stamp: 2022-04-13 12:53:02.680700699-04:00 
+Time Stamp: 2022-04-13 12:53:14.433167536-04:00 
+Time Stamp: 2022-04-13 12:53:26.050254023-04:00 
+Time Stamp: 2022-04-13 12:53:37.744417702-04:00 
+Time Stamp: 2022-04-13 12:53:49.375074365-04:00 
+Time Stamp: 2022-04-13 12:54:01.231510657-04:00 
+Time Stamp: 2022-04-13 12:54:13.093640606-04:00 
+Success! Order placed to sell 3 shares of $AMZN. 
+Time Stamp: 2022-04-13 12:54:28.866664744-04:00 
+Success! Order placed to buy 57 shares of $BA. 
+Time Stamp: 2022-04-13 12:54:43.804858851-04:00 
+Time Stamp: 2022-04-13 12:54:56.230557015-04:00 
+Time Stamp: 2022-04-13 12:55:07.947626969-04:00 
+Time Stamp: 2022-04-13 12:55:19.775054033-04:00 
+Time Stamp: 2022-04-13 12:55:31.446302499-04:00 
+Time Stamp: 2022-04-13 12:55:43.319977889-04:00 
+Success! Order placed to buy 46 shares of $FB. 
+Time Stamp: 2022-04-13 12:55:58.574270524-04:00 
+Time Stamp: 2022-04-13 12:56:10.439845282-04:00 
+Success! Order placed to buy 90 shares of $NVDA. 
+Time Stamp: 2022-04-13 12:56:25.161035893-04:00 
+Time Stamp: 2022-04-13 12:56:37.472933600-04:00 
+Time Stamp: 2022-04-13 12:56:49.208482291-04:00 
+Time Stamp: 2022-04-13 12:57:00.875066575-04:00 
+Time Stamp: 2022-04-13 12:57:12.660391174-04:00 
+Time Stamp: 2022-04-13 12:57:24.455059872-04:00 
+Success! Order placed to sell 3 shares of $AMZN. 
+Time Stamp: 2022-04-13 12:57:39.204100964-04:00 
+Time Stamp: 2022-04-13 12:57:50.918804527-04:00 
+Time Stamp: 2022-04-13 12:58:03.468545050-04:00 
+Time Stamp: 2022-04-13 12:58:15.555535172-04:00 
+Success! Order placed to buy 45 shares of $NVDA. 
+Time Stamp: 2022-04-13 12:58:30.437390963-04:00 
+Time Stamp: 2022-04-13 12:58:42.785436414-04:00 
+Success! Order placed to sell 114 shares of $BA. 
+Time Stamp: 2022-04-13 12:58:57.762611118-04:00 
+Time Stamp: 2022-04-13 12:59:09.586494117-04:00 
+Success! Order placed to sell 117 shares of $XOM. 
+Time Stamp: 2022-04-13 12:59:24.592978922-04:00 
+Time Stamp: 2022-04-13 12:59:36.526781668-04:00 
+Success! Order placed to buy 3 shares of $AMZN. 
+Time Stamp: 2022-04-13 12:59:51.413546518-04:00 
+Time Stamp: 2022-04-13 13:00:03.214609260-04:00 
+Time Stamp: 2022-04-13 13:00:14.874768838-04:00 
+Time Stamp: 2022-04-13 13:00:26.636918149-04:00 
+Time Stamp: 2022-04-13 13:00:38.497007173-04:00 
+Time Stamp: 2022-04-13 13:00:50.206812355-04:00 
+Success! Order placed to buy 57 shares of $BA. 
+Time Stamp: 2022-04-13 13:01:05.123813137-04:00 
+Time Stamp: 2022-04-13 13:01:17.538126989-04:00 
+Time Stamp: 2022-04-13 13:01:29.224193232-04:00 
+Time Stamp: 2022-04-13 13:01:40.923637311-04:00 
+Success! Order placed to buy 3 shares of $AMZN. 
+Time Stamp: 2022-04-13 13:01:55.773069156-04:00 
+Time Stamp: 2022-04-13 13:02:07.521648010-04:00 
+Time Stamp: 2022-04-13 13:02:19.237256966-04:00 
+Time Stamp: 2022-04-13 13:02:31.207818466-04:00 
+Time Stamp: 2022-04-13 13:02:42.977523552-04:00 
+Time Stamp: 2022-04-13 13:02:54.631144515-04:00 
+Time Stamp: 2022-04-13 13:03:06.342350074-04:00 
+Time Stamp: 2022-04-13 13:03:17.981333872-04:00 
+Time Stamp: 2022-04-13 13:03:29.828155079-04:00 
+Time Stamp: 2022-04-13 13:03:41.617218420-04:00 
+Time Stamp: 2022-04-13 13:03:53.908901429-04:00 
+Success! Order placed to buy 57 shares of $BA. 
+Time Stamp: 2022-04-13 13:04:08.798321045-04:00 
+Success! Order placed to sell 46 shares of $FB. 
+Time Stamp: 2022-04-13 13:04:24.253506280-04:00 
+Time Stamp: 2022-04-13 13:04:36.123183002-04:00 
+Time Stamp: 2022-04-13 13:04:48.567728003-04:00 
+Success! Order placed to sell 3 shares of $AMZN. 
+Time Stamp: 2022-04-13 13:05:03.240963845-04:00 
+Time Stamp: 2022-04-13 13:05:15.056826715-04:00 
+Time Stamp: 2022-04-13 13:05:26.789332003-04:00 
+Time Stamp: 2022-04-13 13:05:38.469131609-04:00 
+Time Stamp: 2022-04-13 13:05:50.405189107-04:00 
+Success! Order placed to buy 3 shares of $AMZN. 
+Time Stamp: 2022-04-13 13:06:05.696234983-04:00 
+Success! Order placed to buy 171 shares of $BA. 
+Time Stamp: 2022-04-13 13:06:20.392373590-04:00 
+Time Stamp: 2022-04-13 13:06:31.996611387-04:00 
+Time Stamp: 2022-04-13 13:06:43.943372536-04:00 
+Success! Order placed to buy 45 shares of $NVDA. 
+Time Stamp: 2022-04-13 13:06:59.226885117-04:00 
+Time Stamp: 2022-04-13 13:07:10.933039759-04:00 
+Success! Order placed to sell 57 shares of $BA. 
+Time Stamp: 2022-04-13 13:07:25.985447205-04:00 
+Time Stamp: 2022-04-13 13:07:38.424523253-04:00 
+Time Stamp: 2022-04-13 13:07:50.278587669-04:00 
+Time Stamp: 2022-04-13 13:08:02.986166437-04:00 
+Time Stamp: 2022-04-13 13:08:14.713835303-04:00 
+Time Stamp: 2022-04-13 13:08:26.591352870-04:00 
+Time Stamp: 2022-04-13 13:08:38.351009853-04:00 
+Time Stamp: 2022-04-13 13:08:50.467923223-04:00 
+Time Stamp: 2022-04-13 13:09:03.099627789-04:00 
+Success! Order placed to sell 3 shares of $AMZN. 
+Time Stamp: 2022-04-13 13:09:17.807188842-04:00 
+Time Stamp: 2022-04-13 13:09:29.426196626-04:00 
+Time Stamp: 2022-04-13 13:09:41.893811325-04:00 
+Success! Order placed to sell 117 shares of $XOM. 
+Time Stamp: 2022-04-13 13:09:56.732527341-04:00 
+Time Stamp: 2022-04-13 13:10:09.082818987-04:00 
+Success! Order placed to sell 3 shares of $AMZN. 
+Time Stamp: 2022-04-13 13:10:24.567276331-04:00 
+Success! Order placed to buy 57 shares of $BA. 
+Time Stamp: 2022-04-13 13:10:40.046266752-04:00 
+Success! Order placed to buy 46 shares of $FB. 
+Time Stamp: 2022-04-13 13:10:54.797876843-04:00 
+Time Stamp: 2022-04-13 13:11:06.588355686-04:00 
+Success! Order placed to buy 45 shares of $NVDA. 
+Time Stamp: 2022-04-13 13:11:21.900256985-04:00 
+Success! Order placed to buy 3 shares of $AMZN. 
+Time Stamp: 2022-04-13 13:11:36.575920907-04:00 
+Time Stamp: 2022-04-13 13:11:48.383565056-04:00 
+Time Stamp: 2022-04-13 13:12:00.001819803-04:00 
+Time Stamp: 2022-04-13 13:12:11.698898840-04:00 
+Time Stamp: 2022-04-13 13:12:23.680661848-04:00 
+Time Stamp: 2022-04-13 13:12:36.185469941-04:00 
+Success! Order placed to buy 57 shares of $BA. 
+Time Stamp: 2022-04-13 13:12:50.943837175-04:00 
+Time Stamp: 2022-04-13 13:13:03.557391464-04:00 
+Time Stamp: 2022-04-13 13:13:16.119878590-04:00 
+Success! Order placed to buy 90 shares of $NVDA. 
+Time Stamp: 2022-04-13 13:13:31.188716712-04:00 
+Time Stamp: 2022-04-13 13:13:42.859696829-04:00 
+Time Stamp: 2022-04-13 13:13:54.614357737-04:00 
+Time Stamp: 2022-04-13 13:14:06.249027284-04:00 
+Time Stamp: 2022-04-13 13:14:18.002493442-04:00 
+Time Stamp: 2022-04-13 13:14:30.612157604-04:00 
+Success! Order placed to buy 3 shares of $AMZN. 
+Time Stamp: 2022-04-13 13:14:46.080451530-04:00 
+Success! Order placed to sell 57 shares of $BA. 
+Time Stamp: 2022-04-13 13:15:01.015563201-04:00 
+Time Stamp: 2022-04-13 13:15:13.588107863-04:00 
+Time Stamp: 2022-04-13 13:15:25.372126753-04:00 
+Time Stamp: 2022-04-13 13:15:37.428504244-04:00 
+Success! Order placed to buy 3 shares of $AMZN. 
+Time Stamp: 2022-04-13 13:15:52.085385954-04:00 
+Time Stamp: 2022-04-13 13:16:03.768477890-04:00 
+Time Stamp: 2022-04-13 13:16:15.427151489-04:00 
+Time Stamp: 2022-04-13 13:16:27.071828366-04:00 
+Time Stamp: 2022-04-13 13:16:38.881809735-04:00 
+Time Stamp: 2022-04-13 13:16:51.400124746-04:00 
+Success! Order placed to sell 57 shares of $BA. 
+Time Stamp: 2022-04-13 13:17:06.215680583-04:00 
+Time Stamp: 2022-04-13 13:17:18.798360847-04:00 
+Success! Order placed to buy 117 shares of $XOM. 
+Time Stamp: 2022-04-13 13:17:34.414141192-04:00 
+Time Stamp: 2022-04-13 13:17:46.675279416-04:00 
+Success! Order placed to buy 6 shares of $AMZN. 
+Time Stamp: 2022-04-13 13:18:01.354826777-04:00 
+Time Stamp: 2022-04-13 13:18:13.934610084-04:00 
+Success! Order placed to buy 46 shares of $FB. 
+Time Stamp: 2022-04-13 13:18:28.680255818-04:00 
+Time Stamp: 2022-04-13 13:18:40.435091245-04:00 
+Time Stamp: 2022-04-13 13:18:52.552943104-04:00 
+Time Stamp: 2022-04-13 13:19:05.024365135-04:00 
+Success! Order placed to sell 57 shares of $BA. 
+Time Stamp: 2022-04-13 13:19:19.863711719-04:00 
+Time Stamp: 2022-04-13 13:19:31.528068372-04:00 
+Time Stamp: 2022-04-13 13:19:43.685013306-04:00 
+Time Stamp: 2022-04-13 13:19:55.782621758-04:00 
+Success! Order placed to buy 3 shares of $AMZN. 
+Time Stamp: 2022-04-13 13:20:10.415508559-04:00 
+Time Stamp: 2022-04-13 13:20:22.122172630-04:00 
+Time Stamp: 2022-04-13 13:20:34.659221346-04:00 
+Success! Order placed to buy 117 shares of $XOM. 
+Time Stamp: 2022-04-13 13:20:49.403727064-04:00 
+Success! Order placed to buy 45 shares of $NVDA. 
+Time Stamp: 2022-04-13 13:21:04.388163847-04:00 
+Time Stamp: 2022-04-13 13:21:16.743467421-04:00 
+Success! Order placed to sell 114 shares of $BA. 
+Time Stamp: 2022-04-13 13:21:31.502248669-04:00 
+Time Stamp: 2022-04-13 13:21:43.244589760-04:00 
+Time Stamp: 2022-04-13 13:21:55.044052410-04:00 
+Time Stamp: 2022-04-13 13:22:07.075224657-04:00 
+Time Stamp: 2022-04-13 13:22:19.006070619-04:00 
+Time Stamp: 2022-04-13 13:22:30.740807494-04:00 
+Time Stamp: 2022-04-13 13:22:42.475329951-04:00 
+Time Stamp: 2022-04-13 13:22:54.235982741-04:00 
+Time Stamp: 2022-04-13 13:23:06.044670052-04:00 
+Time Stamp: 2022-04-13 13:23:18.411400750-04:00 
+Time Stamp: 2022-04-13 13:23:30.242317849-04:00 
+Time Stamp: 2022-04-13 13:23:42.766817208-04:00 
+Success! Order placed to buy 117 shares of $XOM. 
+Time Stamp: 2022-04-13 13:23:57.664161179-04:00 
+Success! Order placed to buy 45 shares of $NVDA. 
+Time Stamp: 2022-04-13 13:24:12.730650914-04:00 
+Time Stamp: 2022-04-13 13:24:24.454630329-04:00 
+Success! Order placed to buy 57 shares of $BA. 
+Time Stamp: 2022-04-13 13:24:39.281586393-04:00 
+Time Stamp: 2022-04-13 13:24:51.046757095-04:00 
+Time Stamp: 2022-04-13 13:25:02.952579489-04:00 
+Success! Order placed to buy 45 shares of $NVDA. 
+Time Stamp: 2022-04-13 13:25:18.035536787-04:00 
+Success! Order placed to buy 3 shares of $AMZN. 
+Time Stamp: 2022-04-13 13:25:32.913548869-04:00 
+Success! Order placed to buy 57 shares of $BA. 
+Time Stamp: 2022-04-13 13:25:47.839743945-04:00 
+Success! Order placed to buy 45 shares of $FB. 
+Time Stamp: 2022-04-13 13:26:02.592898053-04:00 
+Time Stamp: 2022-04-13 13:26:14.506254706-04:00 
+Time Stamp: 2022-04-13 13:26:26.545990905-04:00 
+Time Stamp: 2022-04-13 13:26:38.324268054-04:00 
+Time Stamp: 2022-04-13 13:26:50.052490553-04:00 
+Time Stamp: 2022-04-13 13:27:01.814518696-04:00 
+Time Stamp: 2022-04-13 13:27:13.866737198-04:00 
+Time Stamp: 2022-04-13 13:27:25.754894023-04:00 
+Time Stamp: 2022-04-13 13:27:37.605677591-04:00 
+Time Stamp: 2022-04-13 13:27:49.308463792-04:00 
+Success! Order placed to sell 45 shares of $FB. 
+Time Stamp: 2022-04-13 13:28:04.038497046-04:00 
+Time Stamp: 2022-04-13 13:28:15.828441825-04:00 
+Time Stamp: 2022-04-13 13:28:27.909782629-04:00 
+Time Stamp: 2022-04-13 13:28:39.527686514-04:00 
+Time Stamp: 2022-04-13 13:28:51.504815849-04:00 
+Time Stamp: 2022-04-13 13:29:03.984216584-04:00 
+Success! Order placed to buy 351 shares of $XOM. 
+Time Stamp: 2022-04-13 13:29:18.999771826-04:00 
+Time Stamp: 2022-04-13 13:29:31.008487866-04:00 
+Time Stamp: 2022-04-13 13:29:43.647759458-04:00 
+Success! Order placed to buy 57 shares of $BA. 
+Time Stamp: 2022-04-13 13:29:58.568433394-04:00 
+Time Stamp: 2022-04-13 13:30:10.226647999-04:00 
+Time Stamp: 2022-04-13 13:30:22.266116891-04:00 
+Success! Order placed to buy 45 shares of $NVDA. 
+Time Stamp: 2022-04-13 13:30:37.666484329-04:00 
+Time Stamp: 2022-04-13 13:30:49.298428226-04:00 
+Time Stamp: 2022-04-13 13:31:01.044810582-04:00 
+Time Stamp: 2022-04-13 13:31:13.438345798-04:00 
+Time Stamp: 2022-04-13 13:31:25.331157064-04:00 
+Success! Order placed to buy 45 shares of $NVDA. 
+Time Stamp: 2022-04-13 13:31:40.251536558-04:00 
+Success! Order placed to buy 3 shares of $AMZN. 
+Time Stamp: 2022-04-13 13:31:55.663417817-04:00 
+Success! Order placed to buy 114 shares of $BA. 
+Time Stamp: 2022-04-13 13:32:10.526133901-04:00 
+Time Stamp: 2022-04-13 13:32:22.402310001-04:00 
+Time Stamp: 2022-04-13 13:32:34.339963059-04:00 
+Time Stamp: 2022-04-13 13:32:46.396965972-04:00 
+Success! Order placed to sell 3 shares of $AMZN. 
+Time Stamp: 2022-04-13 13:33:01.196769752-04:00 
+Time Stamp: 2022-04-13 13:33:13.200617362-04:00 
+Time Stamp: 2022-04-13 13:33:24.822526843-04:00 
+Time Stamp: 2022-04-13 13:33:36.867944419-04:00 
+Time Stamp: 2022-04-13 13:33:49.003750308-04:00 
+Success! Order placed to buy 9 shares of $AMZN. 
+Time Stamp: 2022-04-13 13:34:03.688385606-04:00 
+Time Stamp: 2022-04-13 13:34:15.496396802-04:00 
+Time Stamp: 2022-04-13 13:34:27.961498283-04:00 
+Success! Order placed to buy 117 shares of $XOM. 
+Time Stamp: 2022-04-13 13:34:42.957178200-04:00 
+Success! Order placed to buy 45 shares of $NVDA. 
+Time Stamp: 2022-04-13 13:34:58.227329813-04:00 
+Time Stamp: 2022-04-13 13:35:10.742249385-04:00 
+Success! Order placed to sell 57 shares of $BA. 
+Time Stamp: 2022-04-13 13:35:25.640456435-04:00 
+Success! Order placed to sell 90 shares of $FB. 
+Time Stamp: 2022-04-13 13:35:40.331943113-04:00 
+Time Stamp: 2022-04-13 13:35:52.095225671-04:00 
+Time Stamp: 2022-04-13 13:36:04.079508215-04:00 
+Time Stamp: 2022-04-13 13:36:15.816168150-04:00 
+Time Stamp: 2022-04-13 13:36:27.490235921-04:00 
+Time Stamp: 2022-04-13 13:36:39.977159606-04:00 
+Success! Order placed to buy 234 shares of $XOM. 
+Time Stamp: 2022-04-13 13:36:54.851587518-04:00 
+Time Stamp: 2022-04-13 13:37:06.622970975-04:00 
+Time Stamp: 2022-04-13 13:37:18.439317109-04:00 
+Time Stamp: 2022-04-13 13:37:30.539153847-04:00 
+Time Stamp: 2022-04-13 13:37:42.411394622-04:00 
+Time Stamp: 2022-04-13 13:37:54.139908794-04:00 
+Time Stamp: 2022-04-13 13:38:06.011541659-04:00 
+Success! Order placed to sell 3 shares of $AMZN. 
+Time Stamp: 2022-04-13 13:38:20.799727925-04:00 
+Success! Order placed to buy 57 shares of $BA. 
+Time Stamp: 2022-04-13 13:38:35.623480363-04:00 
+Time Stamp: 2022-04-13 13:38:47.488179434-04:00 
+Time Stamp: 2022-04-13 13:38:59.316516259-04:00 
+Time Stamp: 2022-04-13 13:39:11.157174461-04:00 
+Success! Order placed to buy 3 shares of $AMZN. 
+Time Stamp: 2022-04-13 13:39:25.798096417-04:00 
+Time Stamp: 2022-04-13 13:39:37.506438950-04:00 
+Time Stamp: 2022-04-13 13:39:49.871983905-04:00 
+Success! Order placed to buy 351 shares of $XOM. 
+Time Stamp: 2022-04-13 13:40:04.614802360-04:00 
+Time Stamp: 2022-04-13 13:40:16.722469988-04:00 
+Success! Order placed to buy 3 shares of $AMZN. 
+Time Stamp: 2022-04-13 13:40:32.115580078-04:00 
+Time Stamp: 2022-04-13 13:40:43.905609372-04:00 
+Time Stamp: 2022-04-13 13:40:55.561526873-04:00 
+Time Stamp: 2022-04-13 13:41:07.262891589-04:00 
+Time Stamp: 2022-04-13 13:41:19.158526761-04:00 
+Time Stamp: 2022-04-13 13:41:30.802616705-04:00 
+Time Stamp: 2022-04-13 13:41:42.452203790-04:00 
+Time Stamp: 2022-04-13 13:41:54.888610058-04:00 
+Success! Order placed to buy 351 shares of $XOM. 
+Time Stamp: 2022-04-13 13:42:09.675841505-04:00 
+Success! Order placed to sell 45 shares of $NVDA. 
+Time Stamp: 2022-04-13 13:42:24.623901123-04:00 
+Time Stamp: 2022-04-13 13:42:37.012871179-04:00 
+Success! Order placed to buy 57 shares of $BA. 
+Time Stamp: 2022-04-13 13:42:52.741776955-04:00 
+Success! Order placed to sell 135 shares of $FB. 
+Time Stamp: 2022-04-13 13:43:07.624243686-04:00 
+Time Stamp: 2022-04-13 13:43:19.351234998-04:00 
+Time Stamp: 2022-04-13 13:43:31.277441894-04:00 
+Time Stamp: 2022-04-13 13:43:42.899589893-04:00 
+Time Stamp: 2022-04-13 13:43:54.642332950-04:00 
+Success! Order placed to sell 45 shares of $FB. 
+Time Stamp: 2022-04-13 13:44:10.051326953-04:00 
+Time Stamp: 2022-04-13 13:44:21.903908722-04:00 
+Time Stamp: 2022-04-13 13:44:33.830065961-04:00 
+Success! Order placed to sell 3 shares of $AMZN. 
+Time Stamp: 2022-04-13 13:44:49.278311988-04:00 
+Success! Order placed to buy 57 shares of $BA. 
+Time Stamp: 2022-04-13 13:45:04.074535551-04:00 
+Success! Order placed to sell 45 shares of $FB. 
+Time Stamp: 2022-04-13 13:45:18.830780624-04:00 
+Time Stamp: 2022-04-13 13:45:30.637513710-04:00 
+Time Stamp: 2022-04-13 13:45:42.491381603-04:00 
+Time Stamp: 2022-04-13 13:45:54.210557446-04:00 
+Time Stamp: 2022-04-13 13:46:05.941987318-04:00 
+Success! Order placed to sell 45 shares of $FB. 
+Time Stamp: 2022-04-13 13:46:20.760537777-04:00 
+Time Stamp: 2022-04-13 13:46:32.595435200-04:00 
+Time Stamp: 2022-04-13 13:46:44.419693557-04:00 
+Time Stamp: 2022-04-13 13:46:56.037678547-04:00 
+Time Stamp: 2022-04-13 13:47:07.655009702-04:00 
+Time Stamp: 2022-04-13 13:47:19.988026845-04:00 
+Success! Order placed to buy 117 shares of $XOM. 
+Time Stamp: 2022-04-13 13:47:35.356215775-04:00 
+Success! Order placed to buy 135 shares of $NVDA. 
+Time Stamp: 2022-04-13 13:47:50.106886522-04:00 
+Success! Order placed to buy 3 shares of $AMZN. 
+Time Stamp: 2022-04-13 13:48:05.458756747-04:00 
+Success! Order placed to buy 57 shares of $BA. 
+Time Stamp: 2022-04-13 13:48:20.905488473-04:00 
+Success! Order placed to sell 90 shares of $FB. 
+Time Stamp: 2022-04-13 13:48:35.780372089-04:00 
+Time Stamp: 2022-04-13 13:48:47.507518553-04:00 
+Time Stamp: 2022-04-13 13:48:59.496847494-04:00 
+Success! Order placed to buy 3 shares of $AMZN. 
+Time Stamp: 2022-04-13 13:49:14.162886542-04:00 
+Time Stamp: 2022-04-13 13:49:25.945837847-04:00 
+Time Stamp: 2022-04-13 13:49:37.664619620-04:00 
+Time Stamp: 2022-04-13 13:49:49.368878990-04:00 
+Time Stamp: 2022-04-13 13:50:01.082528653-04:00 
+Time Stamp: 2022-04-13 13:50:13.566615241-04:00 
+Success! Order placed to buy 57 shares of $BA. 
+Time Stamp: 2022-04-13 13:50:28.198237587-04:00 
+Time Stamp: 2022-04-13 13:50:39.853467472-04:00 
+Time Stamp: 2022-04-13 13:50:51.557781264-04:00 
+Success! Order placed to sell 45 shares of $NVDA. 
+Time Stamp: 2022-04-13 13:51:07.031766524-04:00 
+Success! Order placed to buy 6 shares of $AMZN. 
+Time Stamp: 2022-04-13 13:51:21.804873420-04:00 
+Time Stamp: 2022-04-13 13:51:34.190729699-04:00 
+Success! Order placed to sell 45 shares of $FB. 
+Time Stamp: 2022-04-13 13:51:49.639410615-04:00 
+Success! Order placed to buy 117 shares of $XOM. 
+Time Stamp: 2022-04-13 13:52:04.429745043-04:00 
+Time Stamp: 2022-04-13 13:52:16.115306851-04:00 
+Time Stamp: 2022-04-13 13:52:28.028359138-04:00 
+Time Stamp: 2022-04-13 13:52:39.763064555-04:00 
+Success! Order placed to sell 45 shares of $FB. 
+Time Stamp: 2022-04-13 13:52:54.461727487-04:00 
+Time Stamp: 2022-04-13 13:53:06.796061516-04:00 
+Time Stamp: 2022-04-13 13:53:18.634534786-04:00 
+Time Stamp: 2022-04-13 13:53:31.185010118-04:00 
+Success! Order placed to buy 57 shares of $BA. 
+Time Stamp: 2022-04-13 13:53:45.980467597-04:00 
+Success! Order placed to sell 45 shares of $FB. 
+Time Stamp: 2022-04-13 13:54:01.394749293-04:00 
+Success! Order placed to buy 117 shares of $XOM. 
+Time Stamp: 2022-04-13 13:54:16.095792698-04:00 
+Time Stamp: 2022-04-13 13:54:28.051077141-04:00 
+Time Stamp: 2022-04-13 13:54:39.806273480-04:00 
+Time Stamp: 2022-04-13 13:54:51.482393761-04:00 
+Time Stamp: 2022-04-13 13:55:03.180909098-04:00 
+Time Stamp: 2022-04-13 13:55:14.812262190-04:00 
+Time Stamp: 2022-04-13 13:55:26.915740533-04:00 
+Success! Order placed to buy 3 shares of $AMZN. 
+Time Stamp: 2022-04-13 13:55:41.583242064-04:00 
+Time Stamp: 2022-04-13 13:55:53.454123949-04:00 
+Time Stamp: 2022-04-13 13:56:05.837807240-04:00 
+Success! Order placed to buy 234 shares of $XOM. 
+Time Stamp: 2022-04-13 13:56:21.180239455-04:00 
+Time Stamp: 2022-04-13 13:56:33.166668642-04:00 
+Time Stamp: 2022-04-13 13:56:45.503406518-04:00 
+Success! Order placed to buy 57 shares of $BA. 
+Time Stamp: 2022-04-13 13:57:00.279651441-04:00 
+Time Stamp: 2022-04-13 13:57:11.923453077-04:00 
+Time Stamp: 2022-04-13 13:57:23.541770499-04:00 
+Time Stamp: 2022-04-13 13:57:35.600451939-04:00 
+Time Stamp: 2022-04-13 13:57:47.252376858-04:00 
+Time Stamp: 2022-04-13 13:57:59.007545343-04:00 
+Success! Order placed to sell 13 shares of $FB. 
+Time Stamp: 2022-04-13 13:58:14.439346592-04:00 
+Success! Order placed to buy 117 shares of $XOM. 
+Time Stamp: 2022-04-13 13:58:29.856118024-04:00 
+Time Stamp: 2022-04-13 13:58:41.640774075-04:00 
+Time Stamp: 2022-04-13 13:58:54.024640776-04:00 
+Success! Order placed to buy 57 shares of $BA. 
+Time Stamp: 2022-04-13 13:59:08.902082172-04:00 
+Time Stamp: 2022-04-13 13:59:20.542674914-04:00 
+Time Stamp: 2022-04-13 13:59:32.400829295-04:00 
+Success! Order placed to sell 45 shares of $NVDA. 
+Time Stamp: 2022-04-13 13:59:47.408060551-04:00 
+Time Stamp: 2022-04-13 13:59:59.254264233-04:00 
+Time Stamp: 2022-04-13 14:00:11.025331067-04:00 
+Time Stamp: 2022-04-13 14:00:23.411665801-04:00 
+Success! Order placed to buy 234 shares of $XOM. 
+Time Stamp: 2022-04-13 14:00:38.229327611-04:00 
+Time Stamp: 2022-04-13 14:00:50.339350198-04:00 
+Time Stamp: 2022-04-13 14:01:01.975807102-04:00 
+Time Stamp: 2022-04-13 14:01:13.733118871-04:00 
+Time Stamp: 2022-04-13 14:01:25.412165952-04:00 
+Time Stamp: 2022-04-13 14:01:37.167424935-04:00 
+Time Stamp: 2022-04-13 14:01:49.061577558-04:00 
+Time Stamp: 2022-04-13 14:02:01.407281688-04:00 
+Success! Order placed to buy 114 shares of $BA. 
+Time Stamp: 2022-04-13 14:02:16.180791499-04:00 
+Time Stamp: 2022-04-13 14:02:28.555949955-04:00 
+Success! Order placed to buy 117 shares of $XOM. 
+Time Stamp: 2022-04-13 14:02:43.433479640-04:00 
+Time Stamp: 2022-04-13 14:02:55.228175230-04:00 
+Time Stamp: 2022-04-13 14:03:06.893117129-04:00 
+Time Stamp: 2022-04-13 14:03:18.758293625-04:00 
+Time Stamp: 2022-04-13 14:03:30.403543701-04:00 
+Time Stamp: 2022-04-13 14:03:42.487709453-04:00 
+Success! Order placed to buy 90 shares of $NVDA. 
+Time Stamp: 2022-04-13 14:03:57.552192576-04:00 
+Success! Order placed to buy 3 shares of $AMZN. 
+Time Stamp: 2022-04-13 14:04:12.896019989-04:00 
+Success! Order placed to buy 57 shares of $BA. 
+Time Stamp: 2022-04-13 14:04:27.643340888-04:00 
+Time Stamp: 2022-04-13 14:04:40.051833974-04:00 
+Success! Order placed to buy 234 shares of $XOM. 
+Time Stamp: 2022-04-13 14:04:54.777301425-04:00 
+Success! Order placed to buy 45 shares of $NVDA. 
+Time Stamp: 2022-04-13 14:05:09.675344942-04:00 
+Time Stamp: 2022-04-13 14:05:21.323943142-04:00 
+Time Stamp: 2022-04-13 14:05:33.464131263-04:00 
+Time Stamp: 2022-04-13 14:05:45.189529328-04:00 
+Time Stamp: 2022-04-13 14:05:56.924368292-04:00 
+Time Stamp: 2022-04-13 14:06:08.680494299-04:00 
+Time Stamp: 2022-04-13 14:06:20.999337704-04:00 
+Success! Order placed to buy 57 shares of $BA. 
+Time Stamp: 2022-04-13 14:06:35.916376830-04:00 
+Time Stamp: 2022-04-13 14:06:48.282672580-04:00 
+Time Stamp: 2022-04-13 14:07:00.136720024-04:00 
+Time Stamp: 2022-04-13 14:07:11.870112875-04:00 
+Time Stamp: 2022-04-13 14:07:23.568499369-04:00 
+Time Stamp: 2022-04-13 14:07:35.575726070-04:00 
+Time Stamp: 2022-04-13 14:07:47.268863637-04:00 
+Time Stamp: 2022-04-13 14:07:59.090585876-04:00 
+Success! Order placed to buy 45 shares of $NVDA. 
+Time Stamp: 2022-04-13 14:08:14.215115332-04:00 
+Time Stamp: 2022-04-13 14:08:46.894275467-04:00 
+Time Stamp: 2022-04-13 14:08:58.712464713-04:00 
+Time Stamp: 2022-04-13 14:09:11.072050482-04:00 
+Success! Order placed to buy 117 shares of $XOM. 
+Time Stamp: 2022-04-13 14:09:25.853257416-04:00 
+Time Stamp: 2022-04-13 14:09:37.714378364-04:00 
+Time Stamp: 2022-04-13 14:09:50.134195915-04:00 
+Success! Order placed to buy 57 shares of $BA. 
+Time Stamp: 2022-04-13 14:10:04.747942483-04:00 
+Time Stamp: 2022-04-13 14:10:16.356698417-04:00 
+Time Stamp: 2022-04-13 14:10:28.652806890-04:00 
+Time Stamp: 2022-04-13 14:10:40.604795623-04:00 
+Success! Order placed to buy 3 shares of $AMZN. 
+Time Stamp: 2022-04-13 14:10:55.289214536-04:00 
+Time Stamp: 2022-04-13 14:11:07.584126752-04:00 
+Time Stamp: 2022-04-13 14:11:19.989081588-04:00 
+Success! Order placed to buy 117 shares of $XOM. 
+Time Stamp: 2022-04-13 14:11:34.718362891-04:00 
+Time Stamp: 2022-04-13 14:11:46.571156578-04:00 
+Time Stamp: 2022-04-13 14:11:58.900398540-04:00 
+Success! Order placed to buy 171 shares of $BA. 
+Time Stamp: 2022-04-13 14:12:13.618283083-04:00 
+Time Stamp: 2022-04-13 14:12:25.233412758-04:00 
+Time Stamp: 2022-04-13 14:12:37.027433866-04:00 
+Time Stamp: 2022-04-13 14:12:48.879818349-04:00 
+Time Stamp: 2022-04-13 14:13:00.541050159-04:00 
+Time Stamp: 2022-04-13 14:13:12.192529526-04:00 
+Time Stamp: 2022-04-13 14:13:24.551877624-04:00 
+Success! Order placed to buy 117 shares of $XOM. 
+Time Stamp: 2022-04-13 14:13:39.203828433-04:00 
+Time Stamp: 2022-04-13 14:13:51.108691930-04:00 
+Time Stamp: 2022-04-13 14:14:03.613051127-04:00 
+Time Stamp: 2022-04-13 14:14:16.002028618-04:00 
+Time Stamp: 2022-04-13 14:14:27.697860894-04:00 
+Time Stamp: 2022-04-13 14:14:40.026106976-04:00 
+Success! Order placed to buy 180 shares of $NVDA. 
+Time Stamp: 2022-04-13 14:14:54.949821589-04:00 
+Time Stamp: 2022-04-13 14:15:06.632180031-04:00 
+Time Stamp: 2022-04-13 14:15:18.297011860-04:00 
+Time Stamp: 2022-04-13 14:15:29.978515197-04:00 
+Time Stamp: 2022-04-13 14:15:41.768848909-04:00 
+Time Stamp: 2022-04-13 14:15:53.548717446-04:00 
+Time Stamp: 2022-04-13 14:16:05.905868654-04:00 
+Time Stamp: 2022-04-13 14:16:18.307799179-04:00 
+Time Stamp: 2022-04-13 14:16:30.681370530-04:00 
+Time Stamp: 2022-04-13 14:16:42.423605420-04:00 
+Time Stamp: 2022-04-13 14:16:54.163223478-04:00 
+Time Stamp: 2022-04-13 14:17:05.859964824-04:00 
+Time Stamp: 2022-04-13 14:17:17.676714315-04:00 
+Success! Order placed to buy 45 shares of $FB. 
+Time Stamp: 2022-04-13 14:17:32.671743129-04:00 
+Success! Order placed to buy 117 shares of $XOM. 
+Time Stamp: 2022-04-13 14:17:47.453635647-04:00 
+Time Stamp: 2022-04-13 14:17:59.273445404-04:00 
+Time Stamp: 2022-04-13 14:18:10.987545630-04:00 
+Time Stamp: 2022-04-13 14:18:22.719383359-04:00 
+Time Stamp: 2022-04-13 14:18:34.435256135-04:00 
+Time Stamp: 2022-04-13 14:18:46.224901031-04:00 
+Time Stamp: 2022-04-13 14:18:58.166210042-04:00 
+Success! Order placed to buy 3 shares of $AMZN. 
+Time Stamp: 2022-04-13 14:19:12.981736123-04:00 
+Time Stamp: 2022-04-13 14:19:24.820167293-04:00 
+Time Stamp: 2022-04-13 14:19:37.145192645-04:00 
+Success! Order placed to buy 234 shares of $XOM. 
+Time Stamp: 2022-04-13 14:19:51.985554463-04:00 
+Success! Order placed to buy 45 shares of $NVDA. 
+Time Stamp: 2022-04-13 14:20:07.154980532-04:00 
+Success! Order placed to sell 3 shares of $AMZN. 
+Time Stamp: 2022-04-13 14:20:21.861402327-04:00 
+Time Stamp: 2022-04-13 14:20:33.594661278-04:00 
+Time Stamp: 2022-04-13 14:20:45.198466113-04:00 
+Time Stamp: 2022-04-13 14:20:56.874651692-04:00 
+Time Stamp: 2022-04-13 14:21:08.838943665-04:00 
+Time Stamp: 2022-04-13 14:21:21.206288802-04:00 
+Success! Order placed to buy 57 shares of $BA. 
+Time Stamp: 2022-04-13 14:21:36.021147937-04:00 
+Success! Order placed to buy 45 shares of $FB. 
+Time Stamp: 2022-04-13 14:21:51.408969009-04:00 
+Success! Order placed to buy 234 shares of $XOM. 
+Time Stamp: 2022-04-13 14:22:06.285806491-04:00 
+Time Stamp: 2022-04-13 14:22:18.361390276-04:00 
+Success! Order placed to buy 3 shares of $AMZN. 
+Time Stamp: 2022-04-13 14:22:33.067331555-04:00 
+Time Stamp: 2022-04-13 14:22:45.011571273-04:00 
+Success! Order placed to buy 45 shares of $FB. 
+Time Stamp: 2022-04-13 14:22:59.871908258-04:00 
+Time Stamp: 2022-04-13 14:23:11.582186610-04:00 
+Time Stamp: 2022-04-13 14:23:23.484395896-04:00 
+Time Stamp: 2022-04-13 14:23:35.382538651-04:00 
+Time Stamp: 2022-04-13 14:23:47.252191567-04:00 
+Success! Order placed to sell 45 shares of $FB. 
+Time Stamp: 2022-04-13 14:24:02.966461301-04:00 
+Success! Order placed to buy 117 shares of $XOM. 
+Time Stamp: 2022-04-13 14:24:17.867016337-04:00 
+Time Stamp: 2022-04-13 14:24:29.783034475-04:00 
+Time Stamp: 2022-04-13 14:24:41.440871534-04:00 
+Time Stamp: 2022-04-13 14:24:53.259436114-04:00 
+Success! Order placed to sell 45 shares of $FB. 
+Time Stamp: 2022-04-13 14:25:08.007297437-04:00 
+Time Stamp: 2022-04-13 14:25:19.794794014-04:00 
+Time Stamp: 2022-04-13 14:25:31.515461425-04:00 
+Time Stamp: 2022-04-13 14:25:46.053714903-04:00 
+Success! Order placed to buy 57 shares of $BA. 
+Time Stamp: 2022-04-13 14:26:00.806444146-04:00 
+Time Stamp: 2022-04-13 14:26:14.972023678-04:00 
+Success! Order placed to buy 234 shares of $XOM. 
+Time Stamp: 2022-04-13 14:26:29.788049723-04:00 
+Success! Order placed to buy 45 shares of $NVDA. 
+Time Stamp: 2022-04-13 14:26:44.999873986-04:00 
+Time Stamp: 2022-04-13 14:26:56.638930676-04:00 
+Time Stamp: 2022-04-13 14:27:11.014786642-04:00 
+Success! Order placed to sell 45 shares of $FB. 
+Time Stamp: 2022-04-13 14:27:25.823769908-04:00 
+Time Stamp: 2022-04-13 14:27:37.581238347-04:00 
+Success! Order placed to buy 45 shares of $NVDA. 
+Time Stamp: 2022-04-13 14:27:53.212136880-04:00 
+Success! Order placed to sell 3 shares of $AMZN. 
+Time Stamp: 2022-04-13 14:28:08.925374691-04:00 
+Success! Order placed to buy 57 shares of $BA. 
+Time Stamp: 2022-04-13 14:28:23.703808166-04:00 
+Success! Order placed to buy 45 shares of $FB. 
+Time Stamp: 2022-04-13 14:28:38.346890003-04:00 
+Time Stamp: 2022-04-13 14:28:50.101394307-04:00 
+Time Stamp: 2022-04-13 14:29:01.905809118-04:00 
+Time Stamp: 2022-04-13 14:29:13.516118102-04:00 
+Time Stamp: 2022-04-13 14:29:25.228195650-04:00 
+Time Stamp: 2022-04-13 14:29:38.800839787-04:00 
+Success! Order placed to buy 117 shares of $XOM. 
+Time Stamp: 2022-04-13 14:29:53.665532720-04:00 
+Success! Order placed to buy 45 shares of $NVDA. 
+Time Stamp: 2022-04-13 14:30:08.621941767-04:00 
+Time Stamp: 2022-04-13 14:30:21.046627141-04:00 
+Success! Order placed to buy 57 shares of $BA. 
+Time Stamp: 2022-04-13 14:30:36.538460284-04:00 
+Time Stamp: 2022-04-13 14:30:48.240615539-04:00 
+Time Stamp: 2022-04-13 14:31:00.050445329-04:00 
+Time Stamp: 2022-04-13 14:31:11.889609952-04:00 
+Success! Order placed to sell 3 shares of $AMZN. 
+Time Stamp: 2022-04-13 14:31:26.599788870-04:00 
+Time Stamp: 2022-04-13 14:31:38.732124413-04:00 
+Success! Order placed to sell 45 shares of $FB. 
+Time Stamp: 2022-04-13 14:31:55.045830487-04:00 
+Success! Order placed to buy 117 shares of $XOM. 
+Time Stamp: 2022-04-13 14:32:09.945158115-04:00 
+Success! Order placed to buy 45 shares of $NVDA. 
+Time Stamp: 2022-04-13 14:32:25.258051150-04:00 
+Time Stamp: 2022-04-13 14:32:37.726047393-04:00 
+Success! Order placed to buy 114 shares of $BA. 
+Time Stamp: 2022-04-13 14:32:52.449542927-04:00 
+Time Stamp: 2022-04-13 14:33:04.154658893-04:00 
+Success! Order placed to buy 117 shares of $XOM. 
+Time Stamp: 2022-04-13 14:33:18.805315097-04:00 
+Time Stamp: 2022-04-13 14:33:30.468390146-04:00 
+Time Stamp: 2022-04-13 14:33:42.202092871-04:00 
+Time Stamp: 2022-04-13 14:33:53.954289401-04:00 
+Time Stamp: 2022-04-13 14:34:05.610042586-04:00 
+Time Stamp: 2022-04-13 14:34:17.991878359-04:00 
+Success! Order placed to buy 135 shares of $NVDA. 
+Time Stamp: 2022-04-13 14:34:33.425327860-04:00 
+Success! Order placed to buy 6 shares of $AMZN. 
+Time Stamp: 2022-04-13 14:34:48.135478910-04:00 
+Time Stamp: 2022-04-13 14:34:59.963719575-04:00 
+Time Stamp: 2022-04-13 14:35:12.487456125-04:00 
+Success! Order placed to buy 117 shares of $XOM. 
+Time Stamp: 2022-04-13 14:35:27.301343731-04:00 
+Success! Order placed to buy 45 shares of $NVDA. 
+Time Stamp: 2022-04-13 14:35:42.103591328-04:00 
+Time Stamp: 2022-04-13 14:35:53.739453843-04:00 
+Time Stamp: 2022-04-13 14:36:05.326624753-04:00 
+Time Stamp: 2022-04-13 14:36:17.050350231-04:00 
+Time Stamp: 2022-04-13 14:36:28.781726697-04:00 
+Time Stamp: 2022-04-13 14:36:40.483629691-04:00 
+Time Stamp: 2022-04-13 14:36:52.881774921-04:00 
+Success! Order placed to buy 57 shares of $BA. 
+Time Stamp: 2022-04-13 14:37:10.257443663-04:00 
+Time Stamp: 2022-04-13 14:37:22.003703650-04:00 
+Time Stamp: 2022-04-13 14:37:34.068975511-04:00 
+Time Stamp: 2022-04-13 14:37:47.663638026-04:00 
+Success! Order placed to sell 3 shares of $AMZN. 
+Time Stamp: 2022-04-13 14:38:02.476618900-04:00 
+Success! Order placed to sell 57 shares of $BA. 
+Time Stamp: 2022-04-13 14:38:18.520774208-04:00 
+Time Stamp: 2022-04-13 14:38:30.942506646-04:00 
+Success! Order placed to buy 351 shares of $XOM. 
+Time Stamp: 2022-04-13 14:38:45.730437960-04:00 
+Time Stamp: 2022-04-13 14:38:57.940470454-04:00 
+Time Stamp: 2022-04-13 14:39:09.849755889-04:00 
+Time Stamp: 2022-04-13 14:39:21.769497924-04:00 
+Time Stamp: 2022-04-13 14:39:33.487717152-04:00 
+Time Stamp: 2022-04-13 14:39:45.171892148-04:00 
+Time Stamp: 2022-04-13 14:39:57.042884126-04:00 
+Time Stamp: 2022-04-13 14:40:09.435887158-04:00 
+Success! Order placed to buy 114 shares of $BA. 
+Time Stamp: 2022-04-13 14:40:24.333057045-04:00 
+Time Stamp: 2022-04-13 14:40:36.680151324-04:00 
+Success! Order placed to buy 234 shares of $XOM. 
+Time Stamp: 2022-04-13 14:40:51.381696070-04:00 
+Time Stamp: 2022-04-13 14:41:03.274810823-04:00 
+Time Stamp: 2022-04-13 14:41:14.949644398-04:00 
+Time Stamp: 2022-04-13 14:41:26.791886805-04:00 
+Success! Order placed to buy 46 shares of $FB. 
+Time Stamp: 2022-04-13 14:41:41.428135545-04:00 
+Time Stamp: 2022-04-13 14:41:54.015728263-04:00 
+Success! Order placed to buy 90 shares of $NVDA. 
+Time Stamp: 2022-04-13 14:42:08.843263021-04:00 
+Time Stamp: 2022-04-13 14:42:20.492467961-04:00 
+Time Stamp: 2022-04-13 14:42:32.261646842-04:00 
+Time Stamp: 2022-04-13 14:42:44.615907045-04:00 
+Success! Order placed to buy 117 shares of $XOM. 
+Time Stamp: 2022-04-13 14:42:59.330989155-04:00 
+Success! Order placed to sell 45 shares of $NVDA. 
+Time Stamp: 2022-04-13 14:43:14.148313362-04:00 
+Time Stamp: 2022-04-13 14:43:26.493120075-04:00 
+Success! Order placed to sell 57 shares of $BA. 
+Time Stamp: 2022-04-13 14:43:41.407642580-04:00 
+Success! Order placed to sell 46 shares of $FB. 
+Time Stamp: 2022-04-13 14:43:56.114417993-04:00 
+Time Stamp: 2022-04-13 14:44:07.767251546-04:00 
+Time Stamp: 2022-04-13 14:44:19.545052539-04:00 
+Time Stamp: 2022-04-13 14:44:31.187553875-04:00 
+Time Stamp: 2022-04-13 14:44:43.062205037-04:00 
+Time Stamp: 2022-04-13 14:44:55.402534734-04:00 
+Time Stamp: 2022-04-13 14:45:07.704502685-04:00 
+Time Stamp: 2022-04-13 14:45:19.576922269-04:00 
+Success! Order placed to buy 3 shares of $AMZN. 
+Time Stamp: 2022-04-13 14:45:34.985351871-04:00 
+Time Stamp: 2022-04-13 14:45:47.285073860-04:00 
+Success! Order placed to buy 46 shares of $FB. 
+Time Stamp: 2022-04-13 14:46:02.000576639-04:00 
+Time Stamp: 2022-04-13 14:46:14.075873237-04:00 
+Success! Order placed to buy 45 shares of $NVDA. 
+Time Stamp: 2022-04-13 14:46:29.310486580-04:00 
+Time Stamp: 2022-04-13 14:46:41.002846494-04:00 
+Time Stamp: 2022-04-13 14:46:53.007169953-04:00 
+Time Stamp: 2022-04-13 14:47:04.636236813-04:00 
+Time Stamp: 2022-04-13 14:47:16.406450290-04:00 
+Success! Order placed to buy 45 shares of $NVDA. 
+Time Stamp: 2022-04-13 14:47:31.499496187-04:00 
+Time Stamp: 2022-04-13 14:47:43.186691576-04:00 
+Time Stamp: 2022-04-13 14:47:55.130439424-04:00 
+Success! Order placed to sell 46 shares of $FB. 
+Time Stamp: 2022-04-13 14:48:10.545222911-04:00 
+Success! Order placed to buy 234 shares of $XOM. 
+Time Stamp: 2022-04-13 14:48:25.308659119-04:00 
+Time Stamp: 2022-04-13 14:48:37.150369857-04:00 
+Time Stamp: 2022-04-13 14:48:49.539177255-04:00 
+Time Stamp: 2022-04-13 14:49:01.444545459-04:00 
+Time Stamp: 2022-04-13 14:49:13.129891507-04:00 
+Time Stamp: 2022-04-13 14:49:24.881527643-04:00 
+Time Stamp: 2022-04-13 14:49:36.834731999-04:00 
+Time Stamp: 2022-04-13 14:49:48.687320148-04:00 
+Time Stamp: 2022-04-13 14:50:00.530310600-04:00 
+Success! Order placed to buy 46 shares of $FB. 
+Time Stamp: 2022-04-13 14:50:15.872099830-04:00 
+Success! Order placed to buy 118 shares of $XOM. 
+Time Stamp: 2022-04-13 14:50:31.324629138-04:00 
+Success! Order placed to buy 90 shares of $NVDA. 
+Time Stamp: 2022-04-13 14:50:46.194566230-04:00 
+Time Stamp: 2022-04-13 14:50:58.516160949-04:00 
+Success! Order placed to sell 57 shares of $BA. 
+Time Stamp: 2022-04-13 14:51:13.383995518-04:00 
+Success! Order placed to buy 46 shares of $FB. 
+Time Stamp: 2022-04-13 14:51:28.018184265-04:00 
+Time Stamp: 2022-04-13 14:51:40.035718621-04:00 
+Success! Order placed to buy 45 shares of $NVDA. 
+Time Stamp: 2022-04-13 14:51:54.988249618-04:00 
+Time Stamp: 2022-04-13 14:52:06.774577960-04:00 
+Time Stamp: 2022-04-13 14:52:18.508243824-04:00 
+Time Stamp: 2022-04-13 14:52:30.816337176-04:00 
+Success! Order placed to buy 354 shares of $XOM. 
+Time Stamp: 2022-04-13 14:52:45.529015065-04:00 
+Success! Order placed to buy 45 shares of $NVDA. 
+Time Stamp: 2022-04-13 14:53:00.260554094-04:00 
+Time Stamp: 2022-04-13 14:53:12.651004560-04:00 
+Success! Order placed to buy 114 shares of $BA. 
+Time Stamp: 2022-04-13 14:53:27.361762810-04:00 
+Time Stamp: 2022-04-13 14:53:39.097101934-04:00 
+Time Stamp: 2022-04-13 14:53:50.912529288-04:00 
+Success! Order placed to buy 90 shares of $NVDA. 
+Time Stamp: 2022-04-13 14:54:05.871063650-04:00 
+Success! Order placed to sell 3 shares of $AMZN. 
+Time Stamp: 2022-04-13 14:54:20.648373196-04:00 
+Time Stamp: 2022-04-13 14:54:32.354396494-04:00 
+Time Stamp: 2022-04-13 14:54:43.976955824-04:00 
+Time Stamp: 2022-04-13 14:54:55.679755858-04:00 
+Success! Order placed to buy 45 shares of $NVDA. 
+Time Stamp: 2022-04-13 14:55:10.523622305-04:00 
+Time Stamp: 2022-04-13 14:55:22.262094774-04:00 
+Time Stamp: 2022-04-13 14:55:33.949617862-04:00 
+Time Stamp: 2022-04-13 14:55:46.258642263-04:00 
+Success! Order placed to buy 236 shares of $XOM. 
+Time Stamp: 2022-04-13 14:56:01.104264615-04:00 
+Success! Order placed to buy 45 shares of $NVDA. 
+Time Stamp: 2022-04-13 14:56:15.883107922-04:00 
+Time Stamp: 2022-04-13 14:56:28.227892448-04:00 
+Success! Order placed to sell 57 shares of $BA. 
+Time Stamp: 2022-04-13 14:56:43.125100357-04:00 
+Success! Order placed to sell 92 shares of $FB. 
+Time Stamp: 2022-04-13 14:56:57.976356026-04:00 
+Time Stamp: 2022-04-13 14:57:09.900182065-04:00 
+Time Stamp: 2022-04-13 14:57:21.903061174-04:00 
+Time Stamp: 2022-04-13 14:57:33.543415264-04:00 
+Time Stamp: 2022-04-13 14:57:45.212424078-04:00 
+Time Stamp: 2022-04-13 14:57:56.836856802-04:00 
+Time Stamp: 2022-04-13 14:58:08.541107863-04:00 
+Time Stamp: 2022-04-13 14:58:20.469900193-04:00 
+Time Stamp: 2022-04-13 14:58:32.772236864-04:00 
+Time Stamp: 2022-04-13 14:58:45.096635062-04:00 
+Time Stamp: 2022-04-13 14:58:57.449625765-04:00 
+Success! Order placed to buy 472 shares of $XOM. 
+Time Stamp: 2022-04-13 14:59:12.192230873-04:00 
+Success! Order placed to buy 45 shares of $NVDA. 
+Time Stamp: 2022-04-13 14:59:27.117218762-04:00 
+Time Stamp: 2022-04-13 14:59:38.757429227-04:00 
+Time Stamp: 2022-04-13 14:59:50.570060196-04:00 
+Time Stamp: 2022-04-13 15:00:02.240914234-04:00 
+Time Stamp: 2022-04-13 15:00:14.021121321-04:00 
+Success! Order placed to sell 45 shares of $NVDA. 
+Time Stamp: 2022-04-13 15:00:28.988183271-04:00 
+Time Stamp: 2022-04-13 15:00:41.312310188-04:00 
+Time Stamp: 2022-04-13 15:00:53.148594499-04:00 
+Time Stamp: 2022-04-13 15:01:05.532767347-04:00 
+Success! Order placed to buy 468 shares of $XOM. 
+Time Stamp: 2022-04-13 15:01:20.214367328-04:00 
+Success! Order placed to buy 45 shares of $NVDA. 
+Time Stamp: 2022-04-13 15:01:35.157183929-04:00 
+Success! Order placed to buy 3 shares of $AMZN. 
+Time Stamp: 2022-04-13 15:01:49.944363053-04:00 
+Time Stamp: 2022-04-13 15:02:01.544636219-04:00 
+Time Stamp: 2022-04-13 15:02:13.196458110-04:00 
+Time Stamp: 2022-04-13 15:02:24.883053847-04:00 
+Time Stamp: 2022-04-13 15:02:37.231100729-04:00 
+Success! Order placed to sell 3 shares of $AMZN. 
+Time Stamp: 2022-04-13 15:02:52.778055502-04:00 
+Time Stamp: 2022-04-13 15:03:05.270256139-04:00 
+Time Stamp: 2022-04-13 15:03:17.612346275-04:00 
+Success! Order placed to buy 351 shares of $XOM. 
+Time Stamp: 2022-04-13 15:03:32.481512614-04:00 
+Time Stamp: 2022-04-13 15:03:44.504147677-04:00 
+Success! Order placed to buy 3 shares of $AMZN. 
+Time Stamp: 2022-04-13 15:03:59.289075421-04:00 
+Time Stamp: 2022-04-13 15:04:11.088181183-04:00 
+Success! Order placed to buy 46 shares of $FB. 
+Time Stamp: 2022-04-13 15:04:25.738072507-04:00 
+Time Stamp: 2022-04-13 15:04:38.050285698-04:00 
+Success! Order placed to buy 225 shares of $NVDA. 
+Time Stamp: 2022-04-13 15:04:52.966745608-04:00 
+Time Stamp: 2022-04-13 15:05:05.263563363-04:00 
+Success! Order placed to sell 57 shares of $BA. 
+Time Stamp: 2022-04-13 15:05:20.020830712-04:00 
+Time Stamp: 2022-04-13 15:05:32.302044722-04:00 
+Success! Order placed to buy 472 shares of $XOM. 
+Time Stamp: 2022-04-13 15:05:47.091687621-04:00 
+Success! Order placed to buy 90 shares of $NVDA. 
+Time Stamp: 2022-04-13 15:06:02.061055891-04:00 
+Success! Order placed to buy 3 shares of $AMZN. 
+Time Stamp: 2022-04-13 15:06:16.847456550-04:00 
+Time Stamp: 2022-04-13 15:06:28.681201565-04:00 
+Time Stamp: 2022-04-13 15:06:40.529095938-04:00 
+Time Stamp: 2022-04-13 15:06:52.258481301-04:00 
+Success! Order placed to sell 45 shares of $NVDA. 
+Time Stamp: 2022-04-13 15:07:07.304908427-04:00 
+Time Stamp: 2022-04-13 15:07:20.033738043-04:00 
+Success! Order placed to buy 114 shares of $BA. 
+Time Stamp: 2022-04-13 15:07:34.746246425-04:00 
+Time Stamp: 2022-04-13 15:07:46.462369825-04:00 
+Success! Order placed to buy 118 shares of $XOM. 
+Time Stamp: 2022-04-13 15:08:01.239539427-04:00 
+Time Stamp: 2022-04-13 15:08:13.161533381-04:00 
+Time Stamp: 2022-04-13 15:08:24.824152936-04:00 
+Time Stamp: 2022-04-13 15:08:36.469786394-04:00 
+Time Stamp: 2022-04-13 15:08:48.155721821-04:00 
+Time Stamp: 2022-04-13 15:09:00.109559826-04:00 
+Time Stamp: 2022-04-13 15:09:12.090372194-04:00 
+Time Stamp: 2022-04-13 15:09:24.407600361-04:00 
+Time Stamp: 2022-04-13 15:09:36.777155401-04:00 
+Success! Order placed to buy 46 shares of $FB. 
+Time Stamp: 2022-04-13 15:09:51.448135249-04:00 
+Time Stamp: 2022-04-13 15:10:03.182995474-04:00 
+Success! Order placed to buy 45 shares of $NVDA. 
+Time Stamp: 2022-04-13 15:10:18.226017038-04:00 
+Success! Order placed to buy 6 shares of $AMZN. 
+Time Stamp: 2022-04-13 15:10:32.858950346-04:00 
+Time Stamp: 2022-04-13 15:10:44.635568829-04:00 
+Time Stamp: 2022-04-13 15:10:56.931935428-04:00 
+Success! Order placed to buy 5 shares of $XOM. 
+Time Stamp: 2022-04-13 15:11:11.712462484-04:00 
+Time Stamp: 2022-04-13 15:11:23.592349837-04:00 
+Time Stamp: 2022-04-13 15:11:35.908328505-04:00 
+Time Stamp: 2022-04-13 15:11:47.504525617-04:00 
+Time Stamp: 2022-04-13 15:11:59.228133697-04:00 
+Time Stamp: 2022-04-13 15:12:11.509971618-04:00 
+Time Stamp: 2022-04-13 15:12:23.251498884-04:00 
+Time Stamp: 2022-04-13 15:12:34.944302047-04:00 
+Time Stamp: 2022-04-13 15:12:47.280454876-04:00 
+Time Stamp: 2022-04-13 15:12:58.929890741-04:00 
+Time Stamp: 2022-04-13 15:13:10.708572026-04:00 
+Time Stamp: 2022-04-13 15:13:22.631542096-04:00 
+Time Stamp: 2022-04-13 15:13:34.909679135-04:00 
+Time Stamp: 2022-04-13 15:13:46.750358-04:00 
+Time Stamp: 2022-04-13 15:13:59.079458836-04:00 
+Time Stamp: 2022-04-13 15:14:10.752719297-04:00 
+Time Stamp: 2022-04-13 15:14:22.537118592-04:00 
+Time Stamp: 2022-04-13 15:14:34.203333180-04:00 
+Time Stamp: 2022-04-13 15:14:45.988880571-04:00 
+Success! Order placed to sell 46 shares of $FB. 
+Time Stamp: 2022-04-13 15:15:00.697897012-04:00 
+Time Stamp: 2022-04-13 15:15:12.515716091-04:00 
+Success! Order placed to sell 45 shares of $NVDA. 
+Time Stamp: 2022-04-13 15:15:27.386329387-04:00 
+Time Stamp: 2022-04-13 15:15:39.734342939-04:00 
+Success! Order placed to buy 57 shares of $BA. 
+Time Stamp: 2022-04-13 15:15:54.639324626-04:00 
+Time Stamp: 2022-04-13 15:16:06.923605318-04:00 
+Success! Order placed to buy 120 shares of $XOM. 
+Time Stamp: 2022-04-13 15:16:21.715475309-04:00 
+Time Stamp: 2022-04-13 15:16:33.617110514-04:00 
+Time Stamp: 2022-04-13 15:16:45.257045036-04:00 
+Time Stamp: 2022-04-13 15:16:56.988121532-04:00 
+Success! Order placed to sell 46 shares of $FB. 
+Time Stamp: 2022-04-13 15:17:11.746841013-04:00 
+Time Stamp: 2022-04-13 15:17:24.106954492-04:00 
+Success! Order placed to buy 43 shares of $NVDA. 
+Time Stamp: 2022-04-13 15:17:39.238678875-04:00 
+Time Stamp: 2022-04-13 15:17:51.499425308-04:00 
+Success! Order placed to sell 57 shares of $BA. 
+Time Stamp: 2022-04-13 15:18:06.282049116-04:00 
+Time Stamp: 2022-04-13 15:18:18.076859216-04:00 
+Time Stamp: 2022-04-13 15:18:29.758583131-04:00 
+Time Stamp: 2022-04-13 15:18:41.621508690-04:00 
+Time Stamp: 2022-04-13 15:18:53.280154610-04:00 
+Time Stamp: 2022-04-13 15:19:05.047527124-04:00 
+Success! Order placed to buy 53 shares of $FB. 
+Time Stamp: 2022-04-13 15:19:19.759059296-04:00 
+Time Stamp: 2022-04-13 15:19:31.482457529-04:00 
+Time Stamp: 2022-04-13 15:19:43.229975079-04:00 
+Time Stamp: 2022-04-13 15:19:55.536706882-04:00 
+Time Stamp: 2022-04-13 15:20:07.294661899-04:00 
+Time Stamp: 2022-04-13 15:20:19.573331417-04:00 
+Time Stamp: 2022-04-13 15:20:31.852638525-04:00 
+Time Stamp: 2022-04-13 15:20:43.731723873-04:00 
+Time Stamp: 2022-04-13 15:20:55.365294072-04:00 
+Time Stamp: 2022-04-13 15:21:07.080708878-04:00 
+Time Stamp: 2022-04-13 15:21:18.731946882-04:00 
+Time Stamp: 2022-04-13 15:21:30.472834217-04:00 
+Time Stamp: 2022-04-13 15:21:42.448478533-04:00 
+Time Stamp: 2022-04-13 15:21:54.754139078-04:00 
+Success! Order placed to buy 5 shares of $BA. 
+Time Stamp: 2022-04-13 15:22:09.554499437-04:00 
+Success! Order placed to sell 46 shares of $FB. 
+Time Stamp: 2022-04-13 15:22:24.893113473-04:00 
+Success! Order placed to buy 116 shares of $XOM. 
+Time Stamp: 2022-04-13 15:22:39.769070177-04:00 
+Time Stamp: 2022-04-13 15:22:51.772927856-04:00 
+Time Stamp: 2022-04-13 15:23:03.403408710-04:00 
+Time Stamp: 2022-04-13 15:23:15.180295676-04:00 
+Time Stamp: 2022-04-13 15:23:26.862205731-04:00 
+Time Stamp: 2022-04-13 15:23:38.506585205-04:00 
+Time Stamp: 2022-04-13 15:23:50.394347755-04:00 
+Time Stamp: 2022-04-13 15:24:02.726213008-04:00 
+Time Stamp: 2022-04-13 15:24:14.399746528-04:00 
+Time Stamp: 2022-04-13 15:24:26.705021573-04:00 
+Time Stamp: 2022-04-13 15:24:39.017868205-04:00 
+Time Stamp: 2022-04-13 15:24:50.854497034-04:00 
+Time Stamp: 2022-04-13 15:25:02.521648365-04:00 
+Time Stamp: 2022-04-13 15:25:14.235133721-04:00 
+Time Stamp: 2022-04-13 15:25:25.846864625-04:00 
+Time Stamp: 2022-04-13 15:25:37.620274642-04:00 
+Time Stamp: 2022-04-13 15:25:49.512509243-04:00 
+Time Stamp: 2022-04-13 15:26:01.805744952-04:00 
+Time Stamp: 2022-04-13 15:26:13.478960029-04:00 
+Time Stamp: 2022-04-13 15:26:25.768035099-04:00 
+Time Stamp: 2022-04-13 15:26:37.470908385-04:00 
+Time Stamp: 2022-04-13 15:26:49.439951263-04:00 
+Success! Order placed to sell 3 shares of $AMZN. 
+Time Stamp: 2022-04-13 15:27:04.217601906-04:00 
+Time Stamp: 2022-04-13 15:27:15.904612711-04:00 
+Time Stamp: 2022-04-13 15:27:27.522041432-04:00 
+Time Stamp: 2022-04-13 15:27:39.287121181-04:00 
+Time Stamp: 2022-04-13 15:27:51.249847273-04:00 
+Time Stamp: 2022-04-13 15:28:02.937529305-04:00 
+Time Stamp: 2022-04-13 15:28:14.849452387-04:00 
+Time Stamp: 2022-04-13 15:28:27.158197972-04:00 
+Success! Order placed to buy 96 shares of $XOM. 
+Time Stamp: 2022-04-13 15:28:42.040077915-04:00 
+Success! Order placed to sell 45 shares of $NVDA. 
+Time Stamp: 2022-04-13 15:28:57.041228752-04:00 
+Time Stamp: 2022-04-13 15:29:09.340138059-04:00 
+Success! Order placed to buy 58 shares of $BA. 
+Time Stamp: 2022-04-13 15:29:24.289615680-04:00 
+Time Stamp: 2022-04-13 15:29:35.924431616-04:00 
+Time Stamp: 2022-04-13 15:29:47.672932065-04:00 
+Time Stamp: 2022-04-13 15:29:59.633360301-04:00 
+Time Stamp: 2022-04-13 15:30:11.354981264-04:00 
+Success! Order placed to buy 2 shares of $BA. 
+Time Stamp: 2022-04-13 15:30:26.045150793-04:00 
+Time Stamp: 2022-04-13 15:30:38.673202132-04:00 
+Time Stamp: 2022-04-13 15:30:50.440438984-04:00 
+Time Stamp: 2022-04-13 15:31:02.300216161-04:00 
+Time Stamp: 2022-04-13 15:31:13.957669900-04:00 
+Time Stamp: 2022-04-13 15:31:26.373169985-04:00 
+Success! Order placed to sell 7 shares of $FB. 
+Time Stamp: 2022-04-13 15:31:41.076556537-04:00 
+Time Stamp: 2022-04-13 15:31:52.994190152-04:00 
+Time Stamp: 2022-04-13 15:32:04.889181741-04:00 
+Success! Order placed to sell 3 shares of $AMZN. 
+Time Stamp: 2022-04-13 15:32:19.613595520-04:00 
+Time Stamp: 2022-04-13 15:32:31.377203200-04:00 
+Time Stamp: 2022-04-13 15:32:43.676651072-04:00 
+Time Stamp: 2022-04-13 15:32:55.544169544-04:00 
+Time Stamp: 2022-04-13 15:33:07.532432359-04:00 
+Success! Order placed to buy 3 shares of $AMZN. 
+Time Stamp: 2022-04-13 15:33:22.840865450-04:00 
+Success! Order placed to buy 19 shares of $BA. 
+Time Stamp: 2022-04-13 15:33:37.742064564-04:00 
+Time Stamp: 2022-04-13 15:33:49.406554540-04:00 
+Time Stamp: 2022-04-13 15:34:01.228327806-04:00 
+Time Stamp: 2022-04-13 15:34:13.317276943-04:00 
+Time Stamp: 2022-04-13 15:34:24.948883208-04:00 
+Time Stamp: 2022-04-13 15:34:36.782975310-04:00 
+Time Stamp: 2022-04-13 15:34:49.032815877-04:00 
+Time Stamp: 2022-04-13 15:35:00.791634423-04:00 
+Time Stamp: 2022-04-13 15:35:12.762681078-04:00 
+Success! Order placed to sell 6 shares of $AMZN. 
+Time Stamp: 2022-04-13 15:35:28.110542068-04:00 
+Success! Order placed to buy 97 shares of $BA. 
+Time Stamp: 2022-04-13 15:35:43.239247284-04:00 
+Time Stamp: 2022-04-13 15:35:54.842539852-04:00 
+Time Stamp: 2022-04-13 15:36:06.819534693-04:00 
+Success! Order placed to sell 45 shares of $NVDA. 
+Time Stamp: 2022-04-13 15:36:21.940945425-04:00 
+Success! Order placed to sell 6 shares of $AMZN. 
+Time Stamp: 2022-04-13 15:36:36.660020431-04:00 
+Time Stamp: 2022-04-13 15:36:48.485804608-04:00 
+Time Stamp: 2022-04-13 15:37:00.828161513-04:00 
+Success! Order placed to buy 118 shares of $XOM. 
+Time Stamp: 2022-04-13 15:37:15.742016267-04:00 
+Time Stamp: 2022-04-13 15:37:27.742074136-04:00 
+Time Stamp: 2022-04-13 15:37:39.982727878-04:00 
+Time Stamp: 2022-04-13 15:37:52.029961311-04:00 
+Time Stamp: 2022-04-13 15:38:03.645805116-04:00 
+Time Stamp: 2022-04-13 15:38:16.025545410-04:00 
+Time Stamp: 2022-04-13 15:38:27.797548857-04:00 
+Time Stamp: 2022-04-13 15:38:39.903271419-04:00 
+Time Stamp: 2022-04-13 15:38:52.264870245-04:00 
+Time Stamp: 2022-04-13 15:39:04.539927161-04:00 
+Success! Order placed to buy 214 shares of $XOM. 
+Time Stamp: 2022-04-13 15:39:19.760960791-04:00 
+Time Stamp: 2022-04-13 15:39:31.504851178-04:00 
+Time Stamp: 2022-04-13 15:39:43.762028872-04:00 
+Time Stamp: 2022-04-13 15:39:55.432894492-04:00 
+Time Stamp: 2022-04-13 15:40:07.114584161-04:00 
+Time Stamp: 2022-04-13 15:40:18.854230271-04:00 
+Time Stamp: 2022-04-13 15:40:30.815446986-04:00 
+Time Stamp: 2022-04-13 15:40:42.572491342-04:00 
+Time Stamp: 2022-04-13 15:40:54.347465343-04:00 
+Time Stamp: 2022-04-13 15:41:06.628756460-04:00 
+Time Stamp: 2022-04-13 15:41:18.261487366-04:00 
+Time Stamp: 2022-04-13 15:41:29.962628724-04:00 
+Time Stamp: 2022-04-13 15:41:41.654548535-04:00 
+Time Stamp: 2022-04-13 15:41:53.853592790-04:00 
+Time Stamp: 2022-04-13 15:42:05.561081774-04:00 
+Time Stamp: 2022-04-13 15:42:17.784251055-04:00 
+Success! Order placed to sell 180 shares of $NVDA. 
+Time Stamp: 2022-04-13 15:42:32.965339995-04:00 
+Success! Order placed to sell 3 shares of $AMZN. 
+Time Stamp: 2022-04-13 15:42:47.666669549-04:00 
+Time Stamp: 2022-04-13 15:42:59.557412409-04:00 
+Time Stamp: 2022-04-13 15:43:11.850353458-04:00 
+Success! Order placed to buy 236 shares of $XOM. 
+Time Stamp: 2022-04-13 15:43:26.851398714-04:00 
+Time Stamp: 2022-04-13 15:43:38.707267052-04:00 
+Time Stamp: 2022-04-13 15:43:50.990485590-04:00 
+Success! Order placed to buy 57 shares of $BA. 
+Time Stamp: 2022-04-13 23:06:47.687735735-04:00 
+Time Stamp: 2022-04-13 23:06:58.701604639-04:00 
+Time Stamp: 2022-04-13 23:07:08.109112376-04:00 
+Time Stamp: 2022-04-13 23:07:17.598507726-04:00 
+Time Stamp: 2022-04-13 23:07:27.293861099-04:00 
+Time Stamp: 2022-04-13 23:07:36.019596341-04:00 
+Time Stamp: 2022-04-13 23:07:44.623916086-04:00 
+Time Stamp: 2022-04-13 23:07:53.202547707-04:00 
+Time Stamp: 2022-04-13 23:08:02.424920339-04:00 
+Time Stamp: 2022-04-13 23:08:11.013047614-04:00 
+Time Stamp: 2022-04-13 23:08:19.604703684-04:00 
+Time Stamp: 2022-04-13 23:08:29.121451760-04:00 
+Time Stamp: 2022-04-13 23:08:38.497034337-04:00 
+Time Stamp: 2022-04-13 23:08:47.346033690-04:00 
+Time Stamp: 2022-04-13 23:08:56.925758319-04:00 
+Time Stamp: 2022-04-13 23:09:06.307201643-04:00 
+Time Stamp: 2022-04-13 23:09:15.218439101-04:00 
+Time Stamp: 2022-04-13 23:09:23.933436511-04:00 
+Time Stamp: 2022-04-13 23:09:32.727047657-04:00 
+Time Stamp: 2022-04-13 23:09:41.274560901-04:00 
+Time Stamp: 2022-04-13 23:09:49.935937097-04:00 
+Time Stamp: 2022-04-13 23:09:58.497952624-04:00 
+Time Stamp: 2022-04-13 23:10:07.065655030-04:00 
+Time Stamp: 2022-04-13 23:10:15.775509740-04:00 
+Time Stamp: 2022-04-13 23:10:25.378018460-04:00 
+Time Stamp: 2022-04-13 23:10:33.964787708-04:00 
+Time Stamp: 2022-04-13 23:10:43.388815616-04:00 
+Time Stamp: 2022-04-13 23:10:52.761591970-04:00 
+Time Stamp: 2022-04-13 23:11:01.569652102-04:00 
+Time Stamp: 2022-04-13 23:11:10.144036691-04:00 
+Time Stamp: 2022-04-13 23:11:19.579355406-04:00 
+Time Stamp: 2022-04-13 23:11:28.242876680-04:00 
+Time Stamp: 2022-04-13 23:11:36.811721201-04:00 
+Time Stamp: 2022-04-13 23:11:45.736194465-04:00 
+Time Stamp: 2022-04-13 23:11:55.382184643-04:00 
+Time Stamp: 2022-04-13 23:12:04.150197849-04:00 
+Time Stamp: 2022-04-13 23:12:12.753242315-04:00 
+Time Stamp: 2022-04-13 23:12:22.199408682-04:00 
+Time Stamp: 2022-04-13 23:12:31.168595252-04:00 
+Time Stamp: 2022-04-13 23:12:39.778307252-04:00 
+Time Stamp: 2022-04-13 23:12:48.513925758-04:00 
+Time Stamp: 2022-04-13 23:12:57.859406004-04:00 
+Time Stamp: 2022-04-13 23:13:06.426915222-04:00 
+Time Stamp: 2022-04-13 23:13:15.131713489-04:00 
+Time Stamp: 2022-04-13 23:13:24.691160189-04:00 
+Time Stamp: 2022-04-13 23:13:33.291745115-04:00 
+Time Stamp: 2022-04-13 23:13:41.951540386-04:00 
+Time Stamp: 2022-04-13 23:13:51.268861788-04:00 
+Time Stamp: 2022-04-13 23:14:00.007496716-04:00 
+Time Stamp: 2022-04-13 23:14:08.592133540-04:00 
+Time Stamp: 2022-04-13 23:14:17.934100752-04:00 
+Time Stamp: 2022-04-13 23:14:27.282155110-04:00 
+Time Stamp: 2022-04-13 23:14:35.888111673-04:00 
+Time Stamp: 2022-04-13 23:14:44.634774444-04:00 
+Time Stamp: 2022-04-13 23:14:54.105752240-04:00 

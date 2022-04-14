@@ -1,13 +1,13 @@
 
 import numpy as np
 import torch
-from transformers import BertModel, BertTokenizer, AdamW, get_linear_schedule_with_warmup
+from transformers import BertTokenizer
 
 tokenizer = BertTokenizer.from_pretrained('bert-base-cased', return_dict=False)
 MAX_LEN = 80  # All tweets in the data set contain fewer than 80 tokens
 device = torch.device("cuda:0" if torch.cuda.is_available() else "cpu")
 
-def predict_tweets(model, df, risk_level=0.5):
+def predict_tweets(model, df, risk_level=0.2):
     '''
     The method that handles prediction of tweet sentiment accepts as arguments the sentiment 
     classification model, the Pandas data frame of recent tweets, and the user’s desired risk 
@@ -37,8 +37,9 @@ def predict_tweets(model, df, risk_level=0.5):
     min_certainty = 7 - (risk_level*4)
     predictions = []
     for tweet in df.tweet:
-        encoded_tweet = tokenizer.encode_plus(tweet, max_length=MAX_LEN, add_special_tokens=True,
-                                              return_token_type_ids=False, padding=True, return_attention_mask=True, return_tensors='pt')
+        encoded_tweet = tokenizer.encode_plus(tweet, max_length=MAX_LEN, 
+        add_special_tokens=True, return_token_type_ids=False, padding=True, 
+        return_attention_mask=True, return_tensors='pt')
         input_ids = encoded_tweet['input_ids'].to(device)
         attention_mask = encoded_tweet['attention_mask'].to(device)
         output = model(input_ids, attention_mask)
