@@ -2855,3 +2855,1202 @@ Time Stamp: 2022-04-13 23:14:27.282155110-04:00
 Time Stamp: 2022-04-13 23:14:35.888111673-04:00 
 Time Stamp: 2022-04-13 23:14:44.634774444-04:00 
 Time Stamp: 2022-04-13 23:14:54.105752240-04:00 
+Time Stamp: 2022-04-14 10:18:58.070410711-04:00 
+Time Stamp: 2022-04-14 10:19:12.140218963-04:00 
+Success! Order placed to sell 3 shares of $AMZN. 
+Time Stamp: 2022-04-14 10:19:27.821613336-04:00 
+Time Stamp: 2022-04-14 10:19:40.231820159-04:00 
+Time Stamp: 2022-04-14 10:19:52.857314388-04:00 
+Success! Order placed to buy 20 shares of $TSLA. 
+Time Stamp: 2022-04-14 10:20:08.469753543-04:00 
+Time Stamp: 2022-04-14 10:20:20.995552712-04:00 
+Success! Order placed to buy 230 shares of $XOM. 
+Time Stamp: 2022-04-14 10:20:35.858374252-04:00 
+Time Stamp: 2022-04-14 10:20:47.720419713-04:00 
+Time Stamp: 2022-04-14 10:20:59.414133148-04:00 
+Time Stamp: 2022-04-14 10:21:11.187105815-04:00 
+Time Stamp: 2022-04-14 10:21:23.728158788-04:00 
+Success! Order placed to buy 10 shares of $TSLA. 
+Time Stamp: 2022-04-14 10:21:38.492137492-04:00 
+Time Stamp: 2022-04-14 10:21:50.265028643-04:00 
+Time Stamp: 2022-04-14 10:22:02.181536814-04:00 
+Time Stamp: 2022-04-14 10:22:14.271643996-04:00 
+Time Stamp: 2022-04-14 10:22:26.791542200-04:00 
+Time Stamp: 2022-04-14 10:22:38.816716235-04:00 
+Time Stamp: 2022-04-14 10:22:51.396350619-04:00 
+Time Stamp: 2022-04-14 10:23:03.169210821-04:00 
+Time Stamp: 2022-04-14 10:23:15.776809130-04:00 
+Success! Order placed to sell 116 shares of $XOM. 
+Time Stamp: 2022-04-14 10:23:30.828496864-04:00 
+Time Stamp: 2022-04-14 10:23:42.642561341-04:00 
+Success! Order placed to sell 3 shares of $AMZN. 
+Time Stamp: 2022-04-14 10:23:57.568348837-04:00 
+Time Stamp: 2022-04-14 10:24:09.688554093-04:00 
+Time Stamp: 2022-04-14 10:24:22.311718845-04:00 
+Success! Order placed to sell 30 shares of $TSLA. 
+Time Stamp: 2022-04-14 10:24:37.307247836-04:00 
+Success! Order placed to buy 45 shares of $FB. 
+Time Stamp: 2022-04-14 10:24:52.065101790-04:00 
+Time Stamp: 2022-04-14 10:25:03.963904611-04:00 
+Time Stamp: 2022-04-14 10:25:16.031985166-04:00 
+Time Stamp: 2022-04-14 10:25:27.714356738-04:00 
+Time Stamp: 2022-04-14 10:25:39.702975013-04:00 
+Success! Order placed to buy 102 shares of $AMD. 
+Time Stamp: 2022-04-14 10:25:55.366525827-04:00 
+Success! Order placed to buy 20 shares of $TSLA. 
+Time Stamp: 2022-04-14 10:26:10.561209137-04:00 
+Time Stamp: 2022-04-14 10:26:22.347818536-04:00 
+Time Stamp: 2022-04-14 10:26:34.228979441-04:00 
+Time Stamp: 2022-04-14 10:26:46.239342918-04:00 
+Time Stamp: 2022-04-14 10:26:58.852031854-04:00 
+Success! Order placed to sell 112 shares of $BA. 
+Time Stamp: 2022-04-14 10:27:13.826541595-04:00 
+Time Stamp: 2022-04-14 10:27:26.461440902-04:00 
+Time Stamp: 2022-04-14 10:27:38.621299634-04:00 
+Success! Order placed to buy 90 shares of $FB. 
+Time Stamp: 2022-04-14 10:27:53.494689088-04:00 
+Time Stamp: 2022-04-14 10:28:05.584803094-04:00 
+Time Stamp: 2022-04-14 10:28:17.774799928-04:00 
+Time Stamp: 2022-04-14 10:28:29.633712216-04:00 
+Time Stamp: 2022-04-14 10:28:41.583238867-04:00 
+Success! Order placed to buy 102 shares of $AMD. 
+Time Stamp: 2022-04-14 10:28:57.565480556-04:00 
+Success! Order placed to sell 10 shares of $TSLA. 
+Time Stamp: 2022-04-14 10:29:12.717477410-04:00 
+Time Stamp: 2022-04-14 10:29:25.455754234-04:00 
+Success! Order placed to buy 115 shares of $XOM. 
+Time Stamp: 2022-04-14 10:29:40.807711534-04:00 
+Success! Order placed to buy 59 shares of $AAPL. 
+Time Stamp: 2022-04-14 10:29:56.080819388-04:00 
+Time Stamp: 2022-04-14 10:30:08.002204400-04:00 
+Time Stamp: 2022-04-14 10:30:20.257068016-04:00 
+Time Stamp: 2022-04-14 10:30:33.052295649-04:00 
+Time Stamp: 2022-04-14 10:30:45.205697770-04:00 
+Time Stamp: 2022-04-14 10:30:57.111838708-04:00 
+Success! Order placed to sell 116 shares of $XOM. 
+Time Stamp: 2022-04-14 10:31:12.279560770-04:00 
+Time Stamp: 2022-04-14 10:31:24.568049920-04:00 
+Success! Order placed to buy 3 shares of $AMZN. 
+Time Stamp: 2022-04-14 10:31:39.282708262-04:00 
+Time Stamp: 2022-04-14 10:31:51.364767751-04:00 
+Time Stamp: 2022-04-14 10:32:04.667591315-04:00 
+Success! Order placed to sell 10 shares of $TSLA. 
+Time Stamp: 2022-04-14 10:32:20.005619295-04:00 
+Time Stamp: 2022-04-14 10:32:31.928474739-04:00 
+Success! Order placed to buy 116 shares of $XOM. 
+Time Stamp: 2022-04-14 10:32:47.314559577-04:00 
+Success! Order placed to buy 59 shares of $AAPL. 
+Time Stamp: 2022-04-14 10:33:02.683693575-04:00 
+Success! Order placed to sell 6 shares of $AMZN. 
+Time Stamp: 2022-04-14 10:33:18.437451956-04:00 
+Success! Order placed to buy 56 shares of $BA. 
+Time Stamp: 2022-04-14 10:33:33.654892710-04:00 
+Time Stamp: 2022-04-14 10:33:46.553391985-04:00 
+Success! Order placed to buy 20 shares of $TSLA. 
+Time Stamp: 2022-04-14 10:34:01.803455896-04:00 
+Success! Order placed to buy 135 shares of $FB. 
+Time Stamp: 2022-04-14 10:34:16.590435979-04:00 
+Time Stamp: 2022-04-14 10:34:28.812095501-04:00 
+Success! Order placed to buy 59 shares of $AAPL. 
+Time Stamp: 2022-04-14 10:34:44.038180435-04:00 
+Success! Order placed to buy 3 shares of $AMZN. 
+Time Stamp: 2022-04-14 10:34:58.939753476-04:00 
+Time Stamp: 2022-04-14 10:35:11.132725636-04:00 
+Time Stamp: 2022-04-14 10:35:23.862618884-04:00 
+Success! Order placed to buy 30 shares of $TSLA. 
+Time Stamp: 2022-04-14 10:35:39.110123298-04:00 
+Time Stamp: 2022-04-14 10:35:51.755195266-04:00 
+Success! Order placed to buy 116 shares of $XOM. 
+Time Stamp: 2022-04-14 10:36:07.213173133-04:00 
+Success! Order placed to sell 118 shares of $AAPL. 
+Time Stamp: 2022-04-14 10:36:22.922088841-04:00 
+Time Stamp: 2022-04-14 10:36:34.601556499-04:00 
+Time Stamp: 2022-04-14 10:36:46.960786759-04:00 
+Success! Order placed to buy 102 shares of $AMD. 
+Time Stamp: 2022-04-14 10:37:02.703001724-04:00 
+Success! Order placed to sell 10 shares of $TSLA. 
+Time Stamp: 2022-04-14 10:37:17.787969057-04:00 
+Success! Order placed to sell 45 shares of $FB. 
+Time Stamp: 2022-04-14 10:37:32.660782973-04:00 
+Time Stamp: 2022-04-14 10:37:45.091759874-04:00 
+Success! Order placed to sell 59 shares of $AAPL. 
+Time Stamp: 2022-04-14 10:38:00.319549441-04:00 
+Time Stamp: 2022-04-14 10:38:13.023319417-04:00 
+Time Stamp: 2022-04-14 10:38:25.327912906-04:00 
+Time Stamp: 2022-04-14 10:38:38.144086754-04:00 
+Success! Order placed to buy 20 shares of $TSLA. 
+Time Stamp: 2022-04-14 10:38:53.251292204-04:00 
+Time Stamp: 2022-04-14 10:39:05.043519634-04:00 
+Time Stamp: 2022-04-14 10:39:17.255465159-04:00 
+Time Stamp: 2022-04-14 10:39:29.453535932-04:00 
+Time Stamp: 2022-04-14 10:39:41.296399468-04:00 
+Time Stamp: 2022-04-14 10:39:53.479644483-04:00 
+Time Stamp: 2022-04-14 10:40:06.340399890-04:00 
+Success! Order placed to sell 10 shares of $TSLA. 
+Time Stamp: 2022-04-14 10:40:21.383206797-04:00 
+Success! Order placed to buy 45 shares of $FB. 
+Time Stamp: 2022-04-14 10:40:37.504664722-04:00 
+Success! Order placed to sell 115 shares of $XOM. 
+Time Stamp: 2022-04-14 10:40:52.752990598-04:00 
+Time Stamp: 2022-04-14 10:41:05.374783731-04:00 
+Time Stamp: 2022-04-14 10:41:17.142627818-04:00 
+Time Stamp: 2022-04-14 10:41:29.347221293-04:00 
+Success! Order placed to buy 102 shares of $AMD. 
+Time Stamp: 2022-04-14 10:41:45.144978937-04:00 
+Success! Order placed to buy 20 shares of $TSLA. 
+Time Stamp: 2022-04-14 10:42:00.107826646-04:00 
+Time Stamp: 2022-04-14 10:42:11.828743692-04:00 
+Time Stamp: 2022-04-14 10:42:23.863235219-04:00 
+Time Stamp: 2022-04-14 10:42:36.222183301-04:00 
+Time Stamp: 2022-04-14 10:42:48.938765580-04:00 
+Time Stamp: 2022-04-14 10:43:00.869002996-04:00 
+Time Stamp: 2022-04-14 10:43:13.639667490-04:00 
+Success! Order placed to buy 20 shares of $TSLA. 
+Time Stamp: 2022-04-14 10:43:28.638595199-04:00 
+Time Stamp: 2022-04-14 10:43:41.297947123-04:00 
+Success! Order placed to sell 115 shares of $XOM. 
+Time Stamp: 2022-04-14 10:43:56.416048334-04:00 
+Time Stamp: 2022-04-14 10:44:08.475568497-04:00 
+Time Stamp: 2022-04-14 10:44:20.317094891-04:00 
+Time Stamp: 2022-04-14 10:44:32.575435243-04:00 
+Time Stamp: 2022-04-14 10:44:45.354774788-04:00 
+Success! Order placed to sell 10 shares of $TSLA. 
+Time Stamp: 2022-04-14 10:45:00.377046292-04:00 
+Time Stamp: 2022-04-14 10:45:12.225537927-04:00 
+Time Stamp: 2022-04-14 10:45:25.080518621-04:00 
+Success! Order placed to buy 59 shares of $AAPL. 
+Time Stamp: 2022-04-14 10:45:40.121642179-04:00 
+Time Stamp: 2022-04-14 10:45:51.858168694-04:00 
+Time Stamp: 2022-04-14 10:46:03.895120583-04:00 
+Time Stamp: 2022-04-14 10:46:16.727184306-04:00 
+Time Stamp: 2022-04-14 10:46:28.924977282-04:00 
+Success! Order placed to buy 45 shares of $FB. 
+Time Stamp: 2022-04-14 10:46:43.638327203-04:00 
+Time Stamp: 2022-04-14 10:46:56.085037975-04:00 
+Time Stamp: 2022-04-14 10:47:08.389070415-04:00 
+Success! Order placed to buy 3 shares of $AMZN. 
+Time Stamp: 2022-04-14 10:47:24.427684768-04:00 
+Time Stamp: 2022-04-14 10:47:36.691959442-04:00 
+Success! Order placed to sell 204 shares of $AMD. 
+Time Stamp: 2022-04-14 10:47:52.549016170-04:00 
+Success! Order placed to buy 10 shares of $TSLA. 
+Time Stamp: 2022-04-14 10:48:07.408295113-04:00 
+Time Stamp: 2022-04-14 10:48:20.108827036-04:00 
+Success! Order placed to sell 115 shares of $XOM. 
+Time Stamp: 2022-04-14 10:48:35.438615225-04:00 
+Time Stamp: 2022-04-14 10:48:47.411477667-04:00 
+Time Stamp: 2022-04-14 10:48:59.338733812-04:00 
+Time Stamp: 2022-04-14 10:49:11.623880720-04:00 
+Time Stamp: 2022-04-14 10:49:24.429446490-04:00 
+Time Stamp: 2022-04-14 10:49:36.464258877-04:00 
+Time Stamp: 2022-04-14 10:49:48.176100656-04:00 
+Time Stamp: 2022-04-14 10:50:00.182755100-04:00 
+Time Stamp: 2022-04-14 10:50:12.059263264-04:00 
+Time Stamp: 2022-04-14 10:50:23.817281298-04:00 
+Time Stamp: 2022-04-14 10:50:35.911059112-04:00 
+Time Stamp: 2022-04-14 10:50:48.608142913-04:00 
+Success! Order placed to sell 20 shares of $TSLA. 
+Time Stamp: 2022-04-14 10:51:03.599571709-04:00 
+Time Stamp: 2022-04-14 10:51:16.524821388-04:00 
+Success! Order placed to buy 115 shares of $XOM. 
+Time Stamp: 2022-04-14 10:51:32.084591623-04:00 
+Success! Order placed to sell 59 shares of $AAPL. 
+Time Stamp: 2022-04-14 10:51:47.133979473-04:00 
+Time Stamp: 2022-04-14 10:51:59.887017541-04:00 
+Time Stamp: 2022-04-14 10:52:12.150006109-04:00 
+Time Stamp: 2022-04-14 10:52:25.045831683-04:00 
+Success! Order placed to buy 9 shares of $TSLA. 
+Time Stamp: 2022-04-14 10:52:39.877801085-04:00 
+Time Stamp: 2022-04-14 10:52:51.594234533-04:00 
+Time Stamp: 2022-04-14 10:53:04.181373968-04:00 
+Time Stamp: 2022-04-14 10:53:16.292861299-04:00 
+Time Stamp: 2022-04-14 10:53:28.125121171-04:00 
+Time Stamp: 2022-04-14 10:53:40.543582962-04:00 
+Success! Order placed to sell 102 shares of $AMD. 
+Time Stamp: 2022-04-14 10:53:56.385823476-04:00 
+Success! Order placed to sell 9 shares of $TSLA. 
+Time Stamp: 2022-04-14 10:54:11.559015125-04:00 
+Time Stamp: 2022-04-14 10:54:24.392229527-04:00 
+Success! Order placed to buy 115 shares of $XOM. 
+Time Stamp: 2022-04-14 10:54:40.069858538-04:00 
+Time Stamp: 2022-04-14 10:54:52.096620145-04:00 
+Time Stamp: 2022-04-14 10:55:04.560227987-04:00 
+Time Stamp: 2022-04-14 10:55:16.403530120-04:00 
+Time Stamp: 2022-04-14 10:55:29.273952049-04:00 
+Success! Order placed to buy 18 shares of $TSLA. 
+Time Stamp: 2022-04-14 10:55:44.083122125-04:00 
+Time Stamp: 2022-04-14 10:55:55.809204309-04:00 
+Time Stamp: 2022-04-14 10:56:08.231214775-04:00 
+Success! Order placed to buy 118 shares of $AAPL. 
+Time Stamp: 2022-04-14 10:56:23.064610280-04:00 
+Success! Order placed to sell 3 shares of $AMZN. 
+Time Stamp: 2022-04-14 10:56:37.808767986-04:00 
+Time Stamp: 2022-04-14 10:56:49.808383402-04:00 
+Time Stamp: 2022-04-14 10:57:02.370321683-04:00 
+Success! Order placed to sell 9 shares of $TSLA. 
+Time Stamp: 2022-04-14 10:57:17.255817116-04:00 
+Time Stamp: 2022-04-14 10:57:28.969010333-04:00 
+Time Stamp: 2022-04-14 10:57:41.216239385-04:00 
+Success! Order placed to sell 59 shares of $AAPL. 
+Time Stamp: 2022-04-14 10:57:56.286383496-04:00 
+Time Stamp: 2022-04-14 10:58:09.134868661-04:00 
+Time Stamp: 2022-04-14 10:58:21.041372629-04:00 
+Success! Order placed to sell 102 shares of $AMD. 
+Time Stamp: 2022-04-14 10:58:36.912596291-04:00 
+Success! Order placed to buy 18 shares of $TSLA. 
+Time Stamp: 2022-04-14 10:58:51.773857315-04:00 
+Time Stamp: 2022-04-14 10:59:04.439539171-04:00 
+Time Stamp: 2022-04-14 10:59:16.305651969-04:00 
+Time Stamp: 2022-04-14 10:59:28.296012291-04:00 
+Time Stamp: 2022-04-14 10:59:40.027564228-04:00 
+Time Stamp: 2022-04-14 10:59:51.941064649-04:00 
+Time Stamp: 2022-04-14 11:00:04.699935771-04:00 
+Success! Order placed to buy 27 shares of $TSLA. 
+Time Stamp: 2022-04-14 11:00:19.623541575-04:00 
+Success! Order placed to sell 45 shares of $FB. 
+Time Stamp: 2022-04-14 11:00:34.423667440-04:00 
+Time Stamp: 2022-04-14 11:00:46.965588990-04:00 
+Time Stamp: 2022-04-14 11:00:59.170094588-04:00 
+Time Stamp: 2022-04-14 11:01:11.813001279-04:00 
+Success! Order placed to buy 56 shares of $BA. 
+Time Stamp: 2022-04-14 11:01:27.191313961-04:00 
+Time Stamp: 2022-04-14 11:01:39.743004385-04:00 
+Success! Order placed to sell 20 shares of $TSLA. 
+Time Stamp: 2022-04-14 11:01:54.910548624-04:00 
+Time Stamp: 2022-04-14 11:02:07.804401624-04:00 
+Success! Order placed to sell 230 shares of $XOM. 
+Time Stamp: 2022-04-14 11:02:23.387202704-04:00 
+Success! Order placed to buy 59 shares of $AAPL. 
+Time Stamp: 2022-04-14 11:02:38.468628906-04:00 
+Time Stamp: 2022-04-14 11:02:50.250349027-04:00 
+Time Stamp: 2022-04-14 11:03:02.237730029-04:00 
+Time Stamp: 2022-04-14 11:03:14.858246651-04:00 
+Success! Order placed to sell 10 shares of $TSLA. 
+Time Stamp: 2022-04-14 11:03:30.087911965-04:00 
+Success! Order placed to buy 45 shares of $FB. 
+Time Stamp: 2022-04-14 11:03:44.794266914-04:00 
+Time Stamp: 2022-04-14 11:03:57.257512114-04:00 
+Success! Order placed to sell 59 shares of $AAPL. 
+Time Stamp: 2022-04-14 11:04:11.958213235-04:00 
+Time Stamp: 2022-04-14 11:04:23.776488636-04:00 
+Time Stamp: 2022-04-14 11:04:35.957528676-04:00 
+Time Stamp: 2022-04-14 11:04:48.460812214-04:00 
+Success! Order placed to buy 30 shares of $TSLA. 
+Time Stamp: 2022-04-14 11:05:03.701437729-04:00 
+Time Stamp: 2022-04-14 11:05:15.396397854-04:00 
+Time Stamp: 2022-04-14 11:05:27.678157008-04:00 
+Success! Order placed to sell 59 shares of $AAPL. 
+Time Stamp: 2022-04-14 11:05:43.443359856-04:00 
+Time Stamp: 2022-04-14 11:05:55.923457895-04:00 
+Success! Order placed to buy 56 shares of $BA. 
+Time Stamp: 2022-04-14 11:06:10.767295473-04:00 
+Time Stamp: 2022-04-14 11:06:23.263737496-04:00 
+Success! Order placed to sell 10 shares of $TSLA. 
+Time Stamp: 2022-04-14 11:06:38.188340996-04:00 
+Time Stamp: 2022-04-14 11:06:49.890071638-04:00 
+Time Stamp: 2022-04-14 11:07:02.214807832-04:00 
+Time Stamp: 2022-04-14 11:07:14.156317792-04:00 
+Time Stamp: 2022-04-14 11:07:25.811467457-04:00 
+Time Stamp: 2022-04-14 11:07:37.995210313-04:00 
+Time Stamp: 2022-04-14 11:07:50.508924823-04:00 
+Success! Order placed to buy 10 shares of $TSLA. 
+Time Stamp: 2022-04-14 11:08:05.394908608-04:00 
+Time Stamp: 2022-04-14 11:08:17.016649059-04:00 
+Time Stamp: 2022-04-14 11:08:29.188594901-04:00 
+Time Stamp: 2022-04-14 11:08:40.982946609-04:00 
+Time Stamp: 2022-04-14 11:08:53.443441262-04:00 
+Success! Order placed to buy 56 shares of $BA. 
+Time Stamp: 2022-04-14 11:09:08.382945048-04:00 
+Success! Order placed to buy 102 shares of $AMD. 
+Time Stamp: 2022-04-14 11:09:23.997452639-04:00 
+Time Stamp: 2022-04-14 11:09:35.894206744-04:00 
+Time Stamp: 2022-04-14 11:09:48.323677950-04:00 
+Success! Order placed to sell 115 shares of $XOM. 
+Time Stamp: 2022-04-14 11:10:03.692090368-04:00 
+Time Stamp: 2022-04-14 11:10:15.689327624-04:00 
+Time Stamp: 2022-04-14 11:10:27.368387544-04:00 
+Time Stamp: 2022-04-14 11:10:39.791558531-04:00 
+Time Stamp: 2022-04-14 11:10:52.493775866-04:00 
+Time Stamp: 2022-04-14 11:11:04.332561308-04:00 
+Time Stamp: 2022-04-14 11:11:15.985376967-04:00 
+Time Stamp: 2022-04-14 11:11:28.420284228-04:00 
+Time Stamp: 2022-04-14 11:11:40.391293597-04:00 
+Time Stamp: 2022-04-14 11:11:52.921892329-04:00 
+Success! Order placed to buy 56 shares of $BA. 
+Time Stamp: 2022-04-14 11:12:07.701827518-04:00 
+Time Stamp: 2022-04-14 11:12:20.257390245-04:00 
+Time Stamp: 2022-04-14 11:12:32.031354398-04:00 
+Time Stamp: 2022-04-14 11:12:44.909565333-04:00 
+Success! Order placed to buy 115 shares of $XOM. 
+Time Stamp: 2022-04-14 11:13:00.006660240-04:00 
+Time Stamp: 2022-04-14 11:13:11.868329069-04:00 
+Success! Order placed to sell 3 shares of $AMZN. 
+Time Stamp: 2022-04-14 11:13:26.605035762-04:00 
+Time Stamp: 2022-04-14 11:13:38.400979333-04:00 
+Time Stamp: 2022-04-14 11:13:50.871900788-04:00 
+Time Stamp: 2022-04-14 11:14:02.862005374-04:00 
+Time Stamp: 2022-04-14 11:14:14.684944291-04:00 
+Time Stamp: 2022-04-14 11:14:26.593807995-04:00 
+Time Stamp: 2022-04-14 11:14:38.362702108-04:00 
+Time Stamp: 2022-04-14 11:14:50.684712314-04:00 
+Success! Order placed to buy 56 shares of $BA. 
+Time Stamp: 2022-04-14 11:15:05.604522018-04:00 
+Time Stamp: 2022-04-14 11:15:18.112539653-04:00 
+Success! Order placed to sell 10 shares of $TSLA. 
+Time Stamp: 2022-04-14 11:15:33.024817959-04:00 
+Time Stamp: 2022-04-14 11:15:44.665465936-04:00 
+Time Stamp: 2022-04-14 11:15:56.656325729-04:00 
+Time Stamp: 2022-04-14 11:16:08.716677775-04:00 
+Time Stamp: 2022-04-14 11:16:20.327333204-04:00 
+Time Stamp: 2022-04-14 11:16:32.013881335-04:00 
+Time Stamp: 2022-04-14 11:16:44.271132524-04:00 
+Time Stamp: 2022-04-14 11:16:56.212349247-04:00 
+Time Stamp: 2022-04-14 11:17:08.656651147-04:00 
+Time Stamp: 2022-04-14 11:17:20.673726863-04:00 
+Time Stamp: 2022-04-14 11:17:32.692507693-04:00 
+Time Stamp: 2022-04-14 11:17:45.089901347-04:00 
+Time Stamp: 2022-04-14 11:17:57.015846719-04:00 
+Success! Order placed to sell 102 shares of $AMD. 
+Time Stamp: 2022-04-14 11:18:12.471154476-04:00 
+Success! Order placed to sell 9 shares of $TSLA. 
+Time Stamp: 2022-04-14 11:18:27.494632260-04:00 
+Time Stamp: 2022-04-14 11:18:39.119011159-04:00 
+Time Stamp: 2022-04-14 11:18:51.141268927-04:00 
+Success! Order placed to buy 59 shares of $AAPL. 
+Time Stamp: 2022-04-14 11:19:05.892685724-04:00 
+Time Stamp: 2022-04-14 11:19:17.778799718-04:00 
+Success! Order placed to buy 56 shares of $BA. 
+Time Stamp: 2022-04-14 11:19:32.797966295-04:00 
+Time Stamp: 2022-04-14 11:19:45.313599106-04:00 
+Time Stamp: 2022-04-14 11:19:57.240164787-04:00 
+Success! Order placed to sell 90 shares of $FB. 
+Time Stamp: 2022-04-14 11:20:13.015856823-04:00 
+Success! Order placed to sell 115 shares of $XOM. 
+Time Stamp: 2022-04-14 11:20:28.415581583-04:00 
+Time Stamp: 2022-04-14 11:20:40.210523530-04:00 
+Success! Order placed to buy 3 shares of $AMZN. 
+Time Stamp: 2022-04-14 11:20:54.969565337-04:00 
+Success! Order placed to buy 56 shares of $BA. 
+Time Stamp: 2022-04-14 11:21:09.918233201-04:00 
+Success! Order placed to buy 102 shares of $AMD. 
+Time Stamp: 2022-04-14 11:21:25.436770367-04:00 
+Success! Order placed to buy 27 shares of $TSLA. 
+Time Stamp: 2022-04-14 11:21:40.545289105-04:00 
+Success! Order placed to sell 45 shares of $FB. 
+Time Stamp: 2022-04-14 11:21:55.288109499-04:00 
+Time Stamp: 2022-04-14 11:22:07.856426193-04:00 
+Time Stamp: 2022-04-14 11:22:19.742730497-04:00 
+Time Stamp: 2022-04-14 11:22:31.557305171-04:00 
+Success! Order placed to buy 56 shares of $BA. 
+Time Stamp: 2022-04-14 11:22:46.885331041-04:00 
+Success! Order placed to sell 102 shares of $AMD. 
+Time Stamp: 2022-04-14 11:23:02.430826272-04:00 
+Time Stamp: 2022-04-14 11:23:14.640800485-04:00 
+Success! Order placed to sell 45 shares of $FB. 
+Time Stamp: 2022-04-14 11:23:30.112982917-04:00 
+Success! Order placed to buy 115 shares of $XOM. 
+Time Stamp: 2022-04-14 11:23:45.552074324-04:00 
+Time Stamp: 2022-04-14 11:23:57.646035115-04:00 
+Success! Order placed to buy 3 shares of $AMZN. 
+Time Stamp: 2022-04-14 11:24:12.391850746-04:00 
+Success! Order placed to buy 56 shares of $BA. 
+Time Stamp: 2022-04-14 11:24:27.476300708-04:00 
+Success! Order placed to buy 204 shares of $AMD. 
+Time Stamp: 2022-04-14 11:24:42.914327823-04:00 
+Success! Order placed to buy 20 shares of $TSLA. 
+Time Stamp: 2022-04-14 11:24:57.959317216-04:00 
+Success! Order placed to buy 90 shares of $FB. 
+Time Stamp: 2022-04-14 11:25:12.698749736-04:00 
+Time Stamp: 2022-04-14 11:25:25.273674446-04:00 
+Success! Order placed to buy 118 shares of $AAPL. 
+Time Stamp: 2022-04-14 11:25:40.200927274-04:00 
+Success! Order placed to buy 6 shares of $AMZN. 
+Time Stamp: 2022-04-14 11:25:55.094738359-04:00 
+Success! Order placed to buy 168 shares of $BA. 
+Time Stamp: 2022-04-14 11:26:09.995056645-04:00 
+Success! Order placed to sell 102 shares of $AMD. 
+Time Stamp: 2022-04-14 11:26:25.513788421-04:00 
+Success! Order placed to buy 20 shares of $TSLA. 
+Time Stamp: 2022-04-14 11:26:40.472347996-04:00 
+Time Stamp: 2022-04-14 11:26:52.131215408-04:00 
+Time Stamp: 2022-04-14 11:27:04.342076322-04:00 
+Success! Order placed to buy 118 shares of $AAPL. 
+Time Stamp: 2022-04-14 11:27:19.360947969-04:00 
+Success! Order placed to buy 3 shares of $AMZN. 
+Time Stamp: 2022-04-14 11:27:34.122944813-04:00 
+Time Stamp: 2022-04-14 11:27:46.159693704-04:00 
+Time Stamp: 2022-04-14 11:27:58.588799174-04:00 
+Success! Order placed to buy 10 shares of $TSLA. 
+Time Stamp: 2022-04-14 11:28:13.463789933-04:00 
+Time Stamp: 2022-04-14 11:28:25.883911735-04:00 
+Success! Order placed to buy 116 shares of $XOM. 
+Time Stamp: 2022-04-14 11:28:40.940796918-04:00 
+Time Stamp: 2022-04-14 11:28:52.844561219-04:00 
+Success! Order placed to sell 3 shares of $AMZN. 
+Time Stamp: 2022-04-14 11:29:07.635246494-04:00 
+Time Stamp: 2022-04-14 11:29:19.560560904-04:00 
+Time Stamp: 2022-04-14 11:29:32.109698924-04:00 
+Time Stamp: 2022-04-14 11:29:44.031966634-04:00 
+Success! Order placed to sell 90 shares of $FB. 
+Time Stamp: 2022-04-14 11:29:58.750241808-04:00 
+Time Stamp: 2022-04-14 11:30:11.109850562-04:00 
+Success! Order placed to sell 59 shares of $AAPL. 
+Time Stamp: 2022-04-14 11:30:26.276415221-04:00 
+Time Stamp: 2022-04-14 11:30:37.995019251-04:00 
+Time Stamp: 2022-04-14 11:30:49.866649492-04:00 
+Time Stamp: 2022-04-14 11:31:02.483093330-04:00 
+Time Stamp: 2022-04-14 11:31:14.639525804-04:00 
+Time Stamp: 2022-04-14 11:31:27.465725520-04:00 
+Success! Order placed to buy 115 shares of $XOM. 
+Time Stamp: 2022-04-14 11:31:43.010546558-04:00 
+Time Stamp: 2022-04-14 11:31:54.941558669-04:00 
+Time Stamp: 2022-04-14 11:32:07.349056656-04:00 
+Success! Order placed to buy 280 shares of $BA. 
+Time Stamp: 2022-04-14 11:32:22.417950092-04:00 
+Time Stamp: 2022-04-14 11:32:34.984945463-04:00 
+Success! Order placed to sell 10 shares of $TSLA. 
+Time Stamp: 2022-04-14 11:32:49.790499072-04:00 
+Time Stamp: 2022-04-14 11:33:01.664761128-04:00 
+Time Stamp: 2022-04-14 11:33:14.010197864-04:00 
+Time Stamp: 2022-04-14 11:33:25.822742853-04:00 
+Success! Order placed to buy 3 shares of $AMZN. 
+Time Stamp: 2022-04-14 11:33:40.489847676-04:00 
+Time Stamp: 2022-04-14 11:33:52.127164270-04:00 
+Time Stamp: 2022-04-14 11:34:04.475592058-04:00 
+Success! Order placed to buy 10 shares of $TSLA. 
+Time Stamp: 2022-04-14 11:34:19.202892313-04:00 
+Time Stamp: 2022-04-14 11:34:30.863202872-04:00 
+Time Stamp: 2022-04-14 11:34:42.796367408-04:00 
+Time Stamp: 2022-04-14 11:34:54.760489329-04:00 
+Time Stamp: 2022-04-14 11:35:07.217009160-04:00 
+Success! Order placed to buy 336 shares of $BA. 
+Time Stamp: 2022-04-14 11:35:22.861050862-04:00 
+Success! Order placed to sell 102 shares of $AMD. 
+Time Stamp: 2022-04-14 11:35:38.350255790-04:00 
+Success! Order placed to buy 20 shares of $TSLA. 
+Time Stamp: 2022-04-14 11:35:53.198894713-04:00 
+Time Stamp: 2022-04-14 11:36:05.573920057-04:00 
+Time Stamp: 2022-04-14 11:36:17.506410978-04:00 
+Success! Order placed to buy 118 shares of $AAPL. 
+Time Stamp: 2022-04-14 11:36:32.394871161-04:00 
+Success! Order placed to buy 3 shares of $AMZN. 
+Time Stamp: 2022-04-14 11:36:47.174337587-04:00 
+Time Stamp: 2022-04-14 11:36:58.993510160-04:00 
+Time Stamp: 2022-04-14 11:37:11.455629657-04:00 
+Time Stamp: 2022-04-14 11:37:23.240898337-04:00 
+Time Stamp: 2022-04-14 11:37:34.878399668-04:00 
+Time Stamp: 2022-04-14 11:37:46.845262870-04:00 
+Time Stamp: 2022-04-14 11:37:58.620614070-04:00 
+Time Stamp: 2022-04-14 11:38:10.523270639-04:00 
+Time Stamp: 2022-04-14 11:38:22.545871822-04:00 
+Time Stamp: 2022-04-14 11:38:35.004005298-04:00 
+Time Stamp: 2022-04-14 11:38:46.810063041-04:00 
+Time Stamp: 2022-04-14 11:38:59.176847827-04:00 
+Success! Order placed to buy 345 shares of $XOM. 
+Time Stamp: 2022-04-14 11:39:14.169624299-04:00 
+Time Stamp: 2022-04-14 11:39:26.042375166-04:00 
+Time Stamp: 2022-04-14 11:39:37.687702758-04:00 
+Time Stamp: 2022-04-14 11:39:49.334530259-04:00 
+Time Stamp: 2022-04-14 11:40:01.711014667-04:00 
+Time Stamp: 2022-04-14 11:40:13.590587011-04:00 
+Time Stamp: 2022-04-14 11:40:25.278627233-04:00 
+Time Stamp: 2022-04-14 11:40:37.254908711-04:00 
+Success! Order placed to buy 116 shares of $AAPL. 
+Time Stamp: 2022-04-14 11:40:52.155247103-04:00 
+Success! Order placed to buy 3 shares of $AMZN. 
+Time Stamp: 2022-04-14 11:41:07.707683540-04:00 
+Success! Order placed to buy 224 shares of $BA. 
+Time Stamp: 2022-04-14 11:41:23.270082785-04:00 
+Time Stamp: 2022-04-14 11:41:35.757391478-04:00 
+Time Stamp: 2022-04-14 11:41:47.553495907-04:00 
+Time Stamp: 2022-04-14 11:42:00.163924077-04:00 
+Success! Order placed to buy 230 shares of $XOM. 
+Time Stamp: 2022-04-14 11:42:15.165266249-04:00 
+Success! Order placed to buy 59 shares of $AAPL. 
+Time Stamp: 2022-04-14 11:42:29.994957864-04:00 
+Time Stamp: 2022-04-14 11:42:41.614287824-04:00 
+Time Stamp: 2022-04-14 11:42:53.497857089-04:00 
+Success! Order placed to buy 202 shares of $AMD. 
+Time Stamp: 2022-04-14 11:43:08.954204955-04:00 
+Success! Order placed to sell 18 shares of $TSLA. 
+Time Stamp: 2022-04-14 11:43:23.785229380-04:00 
+Success! Order placed to sell 45 shares of $FB. 
+Time Stamp: 2022-04-14 11:43:38.513895886-04:00 
+Time Stamp: 2022-04-14 11:43:50.338809320-04:00 
+Time Stamp: 2022-04-14 11:44:02.071333558-04:00 
+Time Stamp: 2022-04-14 11:44:14.495310008-04:00 
+Success! Order placed to buy 168 shares of $BA. 
+Time Stamp: 2022-04-14 11:44:29.377905709-04:00 
+Success! Order placed to sell 101 shares of $AMD. 
+Time Stamp: 2022-04-14 11:44:44.896219086-04:00 
+Time Stamp: 2022-04-14 11:44:56.692776688-04:00 
+Success! Order placed to buy 45 shares of $FB. 
+Time Stamp: 2022-04-14 11:45:12.054593274-04:00 
+Time Stamp: 2022-04-14 11:45:24.241604661-04:00 
+Success! Order placed to sell 58 shares of $AAPL. 
+Time Stamp: 2022-04-14 11:45:39.264692720-04:00 
+Time Stamp: 2022-04-14 11:45:50.997722638-04:00 
+Time Stamp: 2022-04-14 11:46:02.753723888-04:00 
+Time Stamp: 2022-04-14 11:46:15.246952744-04:00 
+Success! Order placed to buy 18 shares of $TSLA. 
+Time Stamp: 2022-04-14 11:46:30.261226265-04:00 
+Time Stamp: 2022-04-14 11:46:41.880481138-04:00 
+Time Stamp: 2022-04-14 11:46:53.892370962-04:00 
+Success! Order placed to buy 58 shares of $AAPL. 
+Time Stamp: 2022-04-14 11:47:08.840173208-04:00 
+Time Stamp: 2022-04-14 11:47:20.558652405-04:00 
+Time Stamp: 2022-04-14 11:47:32.513866850-04:00 
+Success! Order placed to buy 101 shares of $AMD. 
+Time Stamp: 2022-04-14 11:47:47.971025508-04:00 
+Success! Order placed to buy 9 shares of $TSLA. 
+Time Stamp: 2022-04-14 11:48:02.747770037-04:00 
+Time Stamp: 2022-04-14 11:48:15.129391496-04:00 
+Success! Order placed to buy 345 shares of $XOM. 
+Time Stamp: 2022-04-14 11:48:30.222766407-04:00 
+Time Stamp: 2022-04-14 11:48:42.192237536-04:00 
+Time Stamp: 2022-04-14 11:48:53.940201935-04:00 
+Time Stamp: 2022-04-14 11:49:05.871044322-04:00 
+Time Stamp: 2022-04-14 11:49:18.234913600-04:00 
+Success! Order placed to buy 9 shares of $TSLA. 
+Time Stamp: 2022-04-14 11:49:32.997343891-04:00 
+Success! Order placed to buy 45 shares of $FB. 
+Time Stamp: 2022-04-14 11:49:47.617082882-04:00 
+Time Stamp: 2022-04-14 11:49:59.397609992-04:00 
+Time Stamp: 2022-04-14 11:50:11.417275241-04:00 
+Success! Order placed to sell 3 shares of $AMZN. 
+Time Stamp: 2022-04-14 11:50:26.244001690-04:00 
+Success! Order placed to sell 56 shares of $BA. 
+Time Stamp: 2022-04-14 11:50:41.138403530-04:00 
+Time Stamp: 2022-04-14 11:50:53.412262818-04:00 
+Success! Order placed to sell 9 shares of $TSLA. 
+Time Stamp: 2022-04-14 11:51:08.368006381-04:00 
+Success! Order placed to sell 45 shares of $FB. 
+Time Stamp: 2022-04-14 11:51:23.909219747-04:00 
+Success! Order placed to buy 115 shares of $XOM. 
+Time Stamp: 2022-04-14 11:51:38.942504833-04:00 
+Success! Order placed to sell 58 shares of $AAPL. 
+Time Stamp: 2022-04-14 11:51:53.751957401-04:00 
+Time Stamp: 2022-04-14 11:52:05.452003761-04:00 
+Success! Order placed to sell 56 shares of $BA. 
+Time Stamp: 2022-04-14 11:52:20.411817176-04:00 
+Success! Order placed to sell 101 shares of $AMD. 
+Time Stamp: 2022-04-14 11:52:35.851579124-04:00 
+Success! Order placed to buy 18 shares of $TSLA. 
+Time Stamp: 2022-04-14 11:52:50.585252180-04:00 
+Time Stamp: 2022-04-14 11:53:02.264995020-04:00 
+Time Stamp: 2022-04-14 11:53:14.175532868-04:00 
+Time Stamp: 2022-04-14 11:53:25.866505935-04:00 
+Time Stamp: 2022-04-14 11:53:37.556274981-04:00 
+Time Stamp: 2022-04-14 11:53:49.288609926-04:00 
+Time Stamp: 2022-04-14 11:54:01.697641191-04:00 
+Success! Order placed to buy 27 shares of $TSLA. 
+Time Stamp: 2022-04-14 11:54:16.494523436-04:00 
+Time Stamp: 2022-04-14 11:54:28.831948049-04:00 
+Success! Order placed to buy 230 shares of $XOM. 
+Time Stamp: 2022-04-14 11:54:43.573752096-04:00 
+Time Stamp: 2022-04-14 11:54:55.305003704-04:00 
+Time Stamp: 2022-04-14 11:55:06.980147014-04:00 
+Success! Order placed to sell 56 shares of $BA. 
+Time Stamp: 2022-04-14 11:55:22.248899121-04:00 
+Success! Order placed to buy 102 shares of $AMD. 
+Time Stamp: 2022-04-14 11:55:37.958889968-04:00 
+Success! Order placed to sell 9 shares of $TSLA. 
+Time Stamp: 2022-04-14 11:55:52.824401390-04:00 
+Time Stamp: 2022-04-14 11:56:04.584745100-04:00 
+Time Stamp: 2022-04-14 11:56:16.734918808-04:00 
+Success! Order placed to sell 59 shares of $AAPL. 
+Time Stamp: 2022-04-14 11:56:31.713249830-04:00 
+Success! Order placed to sell 3 shares of $AMZN. 
+Time Stamp: 2022-04-14 11:56:46.412968126-04:00 
+Time Stamp: 2022-04-14 11:56:58.309605033-04:00 
+Success! Order placed to sell 102 shares of $AMD. 
+Time Stamp: 2022-04-14 11:57:13.705759631-04:00 
+Success! Order placed to sell 27 shares of $TSLA. 
+Time Stamp: 2022-04-14 11:57:28.611170848-04:00 
+Success! Order placed to sell 45 shares of $FB. 
+Time Stamp: 2022-04-14 11:57:43.348554207-04:00 
+Time Stamp: 2022-04-14 11:57:55.597496273-04:00 
+Success! Order placed to sell 177 shares of $AAPL. 
+Time Stamp: 2022-04-14 11:58:10.756229973-04:00 
+Success! Order placed to sell 3 shares of $AMZN. 
+Time Stamp: 2022-04-14 11:58:26.170958955-04:00 
+Success! Order placed to sell 112 shares of $BA. 
+Time Stamp: 2022-04-14 11:58:40.945215207-04:00 
+Time Stamp: 2022-04-14 11:58:53.361292671-04:00 
+Success! Order placed to buy 9 shares of $TSLA. 
+Time Stamp: 2022-04-14 11:59:08.224456165-04:00 
+Time Stamp: 2022-04-14 11:59:20.693465096-04:00 
+Success! Order placed to buy 115 shares of $XOM. 
+Time Stamp: 2022-04-14 11:59:35.484906611-04:00 
+Success! Order placed to buy 59 shares of $AAPL. 
+Time Stamp: 2022-04-14 11:59:50.348165361-04:00 
+Time Stamp: 2022-04-14 12:00:02.018998681-04:00 
+Time Stamp: 2022-04-14 12:00:13.832213381-04:00 
+Success! Order placed to sell 101 shares of $AMD. 
+Time Stamp: 2022-04-14 12:00:29.383176357-04:00 
+Time Stamp: 2022-04-14 12:00:41.172739050-04:00 
+Time Stamp: 2022-04-14 12:00:52.776252644-04:00 
+Time Stamp: 2022-04-14 12:01:04.911727037-04:00 
+Success! Order placed to buy 59 shares of $AAPL. 
+Time Stamp: 2022-04-14 12:01:20.246085565-04:00 
+Success! Order placed to buy 6 shares of $AMZN. 
+Time Stamp: 2022-04-14 12:01:35.690198249-04:00 
+Success! Order placed to sell 112 shares of $BA. 
+Time Stamp: 2022-04-14 12:01:50.732129739-04:00 
+Time Stamp: 2022-04-14 12:02:02.895074798-04:00 
+Time Stamp: 2022-04-14 12:02:14.598448652-04:00 
+Time Stamp: 2022-04-14 12:02:27.013329107-04:00 
+Time Stamp: 2022-04-14 12:02:39.053720918-04:00 
+Time Stamp: 2022-04-14 12:02:50.765616904-04:00 
+Time Stamp: 2022-04-14 12:03:02.511639813-04:00 
+Time Stamp: 2022-04-14 12:03:14.400625866-04:00 
+Time Stamp: 2022-04-14 12:03:26.767477809-04:00 
+Success! Order placed to buy 50 shares of $TSLA. 
+Time Stamp: 2022-04-14 12:03:41.598364136-04:00 
+Time Stamp: 2022-04-14 12:03:53.250105270-04:00 
+Time Stamp: 2022-04-14 12:04:05.228598444-04:00 
+Time Stamp: 2022-04-14 12:04:17.226559898-04:00 
+Time Stamp: 2022-04-14 12:04:29.606044429-04:00 
+Success! Order placed to sell 112 shares of $BA. 
+Time Stamp: 2022-04-14 12:04:44.392687289-04:00 
+Time Stamp: 2022-04-14 12:04:56.878651013-04:00 
+Success! Order placed to sell 20 shares of $TSLA. 
+Time Stamp: 2022-04-14 12:05:11.700680544-04:00 
+Time Stamp: 2022-04-14 12:05:24.091513285-04:00 
+Time Stamp: 2022-04-14 12:05:35.992358582-04:00 
+Time Stamp: 2022-04-14 12:05:47.823668635-04:00 
+Time Stamp: 2022-04-14 12:05:59.443805650-04:00 
+Time Stamp: 2022-04-14 12:06:11.145236852-04:00 
+Time Stamp: 2022-04-14 12:06:23.678372594-04:00 
+Success! Order placed to sell 20 shares of $TSLA. 
+Time Stamp: 2022-04-14 12:06:38.597487828-04:00 
+Time Stamp: 2022-04-14 12:06:50.342775634-04:00 
+Time Stamp: 2022-04-14 12:07:02.695019773-04:00 
+Time Stamp: 2022-04-14 12:07:14.565997600-04:00 
+Time Stamp: 2022-04-14 12:07:26.978655845-04:00 
+Success! Order placed to sell 112 shares of $BA. 
+Time Stamp: 2022-04-14 12:07:42.024696747-04:00 
+Success! Order placed to buy 102 shares of $AMD. 
+Time Stamp: 2022-04-14 12:07:57.735509848-04:00 
+Success! Order placed to sell 10 shares of $TSLA. 
+Time Stamp: 2022-04-14 12:08:12.752127800-04:00 
+Time Stamp: 2022-04-14 12:08:24.355160276-04:00 
+Time Stamp: 2022-04-14 12:08:36.558658050-04:00 
+Time Stamp: 2022-04-14 12:08:48.579535894-04:00 
+Time Stamp: 2022-04-14 12:09:00.339979596-04:00 
+Success! Order placed to sell 56 shares of $BA. 
+Time Stamp: 2022-04-14 12:09:15.204452045-04:00 
+Time Stamp: 2022-04-14 12:09:27.608127003-04:00 
+Success! Order placed to sell 30 shares of $TSLA. 
+Time Stamp: 2022-04-14 12:09:42.552070801-04:00 
+Success! Order placed to sell 45 shares of $FB. 
+Time Stamp: 2022-04-14 12:09:58.023248986-04:00 
+Success! Order placed to buy 116 shares of $XOM. 
+Time Stamp: 2022-04-14 12:10:12.974991828-04:00 
+Time Stamp: 2022-04-14 12:10:24.928997197-04:00 
+Time Stamp: 2022-04-14 12:10:36.606170328-04:00 
+Time Stamp: 2022-04-14 12:10:48.632809668-04:00 
+Success! Order placed to buy 102 shares of $AMD. 
+Time Stamp: 2022-04-14 12:11:04.335651338-04:00 
+Success! Order placed to buy 10 shares of $TSLA. 
+Time Stamp: 2022-04-14 12:11:19.086769589-04:00 
+Time Stamp: 2022-04-14 12:11:30.754722331-04:00 
+Time Stamp: 2022-04-14 12:11:42.844139151-04:00 
+Time Stamp: 2022-04-14 12:11:54.885759294-04:00 
+Time Stamp: 2022-04-14 12:12:07.236945363-04:00 
+Success! Order placed to sell 168 shares of $BA. 
+Time Stamp: 2022-04-14 12:12:22.051984593-04:00 
+Time Stamp: 2022-04-14 12:12:34.519772219-04:00 
+Success! Order placed to buy 10 shares of $TSLA. 
+Time Stamp: 2022-04-14 12:12:49.427976819-04:00 
+Success! Order placed to sell 45 shares of $FB. 
+Time Stamp: 2022-04-14 12:13:04.980655721-04:00 
+Success! Order placed to sell 116 shares of $XOM. 
+Time Stamp: 2022-04-14 12:13:20.271615434-04:00 
+Success! Order placed to sell 118 shares of $AAPL. 
+Time Stamp: 2022-04-14 12:13:35.271724582-04:00 
+Success! Order placed to sell 3 shares of $AMZN. 
+Time Stamp: 2022-04-14 12:13:50.214330077-04:00 
+Time Stamp: 2022-04-14 12:14:02.362782238-04:00 
+Success! Order placed to sell 204 shares of $AMD. 
+Time Stamp: 2022-04-14 12:14:17.770764906-04:00 
+Success! Order placed to sell 40 shares of $TSLA. 
+Time Stamp: 2022-04-14 12:14:32.612739474-04:00 
+Time Stamp: 2022-04-14 12:14:44.249471499-04:00 
+Time Stamp: 2022-04-14 12:14:56.128082729-04:00 
+Success! Order placed to sell 59 shares of $AAPL. 
+Time Stamp: 2022-04-14 12:15:11.026950224-04:00 
+Time Stamp: 2022-04-14 12:15:23.387658805-04:00 
+Success! Order placed to sell 112 shares of $BA. 
+Time Stamp: 2022-04-14 12:15:38.255110242-04:00 
+Time Stamp: 2022-04-14 12:15:53.164965636-04:00 
+Success! Order placed to sell 20 shares of $TSLA. 
+Time Stamp: 2022-04-14 12:16:08.600391645-04:00 
+Time Stamp: 2022-04-14 12:16:21.369963899-04:00 
+Success! Order placed to buy 232 shares of $XOM. 
+Time Stamp: 2022-04-14 12:16:36.411915479-04:00 
+Time Stamp: 2022-04-14 12:16:48.559709731-04:00 
+Time Stamp: 2022-04-14 12:17:00.412389490-04:00 
+Time Stamp: 2022-04-14 12:17:12.353303428-04:00 
+Time Stamp: 2022-04-14 12:17:25.084142879-04:00 
+Success! Order placed to buy 10 shares of $TSLA. 
+Time Stamp: 2022-04-14 12:17:40.042873459-04:00 
+Time Stamp: 2022-04-14 12:17:51.940139033-04:00 
+Time Stamp: 2022-04-14 12:18:04.285370292-04:00 
+Success! Order placed to sell 59 shares of $AAPL. 
+Time Stamp: 2022-04-14 12:18:19.372721617-04:00 
+Success! Order placed to buy 3 shares of $AMZN. 
+Time Stamp: 2022-04-14 12:18:34.208339712-04:00 
+Time Stamp: 2022-04-14 12:18:46.230623266-04:00 
+Time Stamp: 2022-04-14 12:18:58.910660717-04:00 
+Time Stamp: 2022-04-14 12:19:11.109166956-04:00 
+Success! Order placed to buy 45 shares of $FB. 
+Time Stamp: 2022-04-14 12:19:26.917203903-04:00 
+Success! Order placed to sell 115 shares of $XOM. 
+Time Stamp: 2022-04-14 12:19:42.350061683-04:00 
+Time Stamp: 2022-04-14 12:19:55.156529096-04:00 
+Time Stamp: 2022-04-14 12:20:06.848201793-04:00 
+Time Stamp: 2022-04-14 12:20:18.678503122-04:00 
+Time Stamp: 2022-04-14 12:20:31.714963559-04:00 
+Time Stamp: 2022-04-14 12:20:43.869591638-04:00 
+Success! Order placed to sell 45 shares of $FB. 
+Time Stamp: 2022-04-14 12:20:58.699458126-04:00 
+Time Stamp: 2022-04-14 12:21:11.011180933-04:00 
+Time Stamp: 2022-04-14 12:21:23.086014621-04:00 
+Time Stamp: 2022-04-14 12:21:36.487368511-04:00 
+Success! Order placed to sell 224 shares of $BA. 
+Time Stamp: 2022-04-14 12:21:51.508553936-04:00 
+Time Stamp: 2022-04-14 12:22:05.134184188-04:00 
+Success! Order placed to sell 10 shares of $TSLA. 
+Time Stamp: 2022-04-14 12:22:20.260691276-04:00 
+Time Stamp: 2022-04-14 12:22:33.635652118-04:00 
+Success! Order placed to sell 115 shares of $XOM. 
+Time Stamp: 2022-04-14 12:22:48.798947188-04:00 
+Time Stamp: 2022-04-14 12:23:01.305203890-04:00 
+Time Stamp: 2022-04-14 12:23:13.062469221-04:00 
+Time Stamp: 2022-04-14 12:23:24.991835768-04:00 
+Time Stamp: 2022-04-14 12:23:37.875970421-04:00 
+Success! Order placed to buy 10 shares of $TSLA. 
+Time Stamp: 2022-04-14 12:23:52.795072342-04:00 
+Time Stamp: 2022-04-14 12:24:04.524695321-04:00 
+Time Stamp: 2022-04-14 12:24:16.715099916-04:00 
+Success! Order placed to sell 117 shares of $AAPL. 
+Time Stamp: 2022-04-14 12:24:31.772555634-04:00 
+Time Stamp: 2022-04-14 12:24:44.667756485-04:00 
+Success! Order placed to sell 168 shares of $BA. 
+Time Stamp: 2022-04-14 12:24:59.911640799-04:00 
+Time Stamp: 2022-04-14 12:25:12.714222654-04:00 
+Success! Order placed to sell 20 shares of $TSLA. 
+Time Stamp: 2022-04-14 12:25:27.870893845-04:00 
+Time Stamp: 2022-04-14 12:25:40.679965138-04:00 
+Success! Order placed to sell 116 shares of $XOM. 
+Time Stamp: 2022-04-14 12:25:55.958626601-04:00 
+Time Stamp: 2022-04-14 12:26:08.151502687-04:00 
+Success! Order placed to buy 6 shares of $AMZN. 
+Time Stamp: 2022-04-14 12:26:23.004951073-04:00 
+Success! Order placed to buy 56 shares of $BA. 
+Time Stamp: 2022-04-14 12:26:37.956762861-04:00 
+Time Stamp: 2022-04-14 12:26:51.003358706-04:00 
+Success! Order placed to sell 10 shares of $TSLA. 
+Time Stamp: 2022-04-14 12:27:06.206777642-04:00 
+Time Stamp: 2022-04-14 12:27:18.607454916-04:00 
+Success! Order placed to sell 115 shares of $XOM. 
+Time Stamp: 2022-04-14 12:27:34.742281586-04:00 
+Success! Order placed to buy 59 shares of $AAPL. 
+Time Stamp: 2022-04-14 12:27:50.049206029-04:00 
+Success! Order placed to sell 3 shares of $AMZN. 
+Time Stamp: 2022-04-14 12:28:05.022403762-04:00 
+Success! Order placed to buy 56 shares of $BA. 
+Time Stamp: 2022-04-14 12:28:20.255167138-04:00 
+Success! Order placed to buy 102 shares of $AMD. 
+Time Stamp: 2022-04-14 12:28:36.126670467-04:00 
+Success! Order placed to sell 10 shares of $TSLA. 
+Time Stamp: 2022-04-14 12:28:51.430075250-04:00 
+Success! Order placed to buy 90 shares of $FB. 
+Time Stamp: 2022-04-14 12:29:06.418546401-04:00 
+Time Stamp: 2022-04-14 12:29:19.474270589-04:00 
+Success! Order placed to sell 59 shares of $AAPL. 
+Time Stamp: 2022-04-14 12:29:35.254954821-04:00 
+Time Stamp: 2022-04-14 12:29:47.154248844-04:00 
+Time Stamp: 2022-04-14 12:29:59.539713638-04:00 
+Success! Order placed to buy 102 shares of $AMD. 
+Time Stamp: 2022-04-14 12:30:15.711169962-04:00 
+Time Stamp: 2022-04-14 12:30:27.829192145-04:00 
+Success! Order placed to sell 45 shares of $FB. 
+Time Stamp: 2022-04-14 12:30:42.666680955-04:00 
+Time Stamp: 2022-04-14 12:30:54.984689899-04:00 
+Time Stamp: 2022-04-14 12:31:07.084596197-04:00 
+Time Stamp: 2022-04-14 12:31:19.803578722-04:00 
+Time Stamp: 2022-04-14 12:31:31.762694169-04:00 
+Time Stamp: 2022-04-14 12:31:45.145169380-04:00 
+Success! Order placed to sell 40 shares of $TSLA. 
+Time Stamp: 2022-04-14 12:32:00.192355877-04:00 
+Time Stamp: 2022-04-14 12:32:12.910456912-04:00 
+Success! Order placed to buy 460 shares of $XOM. 
+Time Stamp: 2022-04-14 12:32:28.277709038-04:00 
+Time Stamp: 2022-04-14 12:32:40.277150979-04:00 
+Time Stamp: 2022-04-14 12:32:52.199970938-04:00 
+Success! Order placed to buy 56 shares of $BA. 
+Time Stamp: 2022-04-14 12:33:07.306541368-04:00 
+Time Stamp: 2022-04-14 12:33:20.104723775-04:00 
+Success! Order placed to sell 20 shares of $TSLA. 
+Time Stamp: 2022-04-14 12:33:35.618667138-04:00 
+Success! Order placed to sell 45 shares of $FB. 
+Time Stamp: 2022-04-14 12:33:50.649613419-04:00 
+Time Stamp: 2022-04-14 12:34:02.995944179-04:00 
+Time Stamp: 2022-04-14 12:34:15.404238001-04:00 
+Success! Order placed to buy 3 shares of $AMZN. 
+Time Stamp: 2022-04-14 12:34:30.215629205-04:00 
+Success! Order placed to buy 56 shares of $BA. 
+Time Stamp: 2022-04-14 12:34:45.504455932-04:00 
+Time Stamp: 2022-04-14 12:34:58.510602352-04:00 
+Time Stamp: 2022-04-14 12:35:11.046842899-04:00 
+Time Stamp: 2022-04-14 12:35:22.967019439-04:00 
+Time Stamp: 2022-04-14 12:35:35.919268499-04:00 
+Time Stamp: 2022-04-14 12:35:48.157916825-04:00 
+Time Stamp: 2022-04-14 12:36:00.288040952-04:00 
+Success! Order placed to buy 112 shares of $BA. 
+Time Stamp: 2022-04-14 12:36:15.589595239-04:00 
+Success! Order placed to sell 102 shares of $AMD. 
+Time Stamp: 2022-04-14 12:36:31.762486781-04:00 
+Time Stamp: 2022-04-14 12:36:43.958913181-04:00 
+Time Stamp: 2022-04-14 12:36:55.772233535-04:00 
+Time Stamp: 2022-04-14 12:37:08.356579295-04:00 
+Time Stamp: 2022-04-14 12:37:20.587359397-04:00 
+Time Stamp: 2022-04-14 12:37:32.326450113-04:00 
+Time Stamp: 2022-04-14 12:37:44.477348601-04:00 
+Time Stamp: 2022-04-14 12:37:57.203526355-04:00 
+Time Stamp: 2022-04-14 12:38:09.240212784-04:00 
+Success! Order placed to buy 45 shares of $FB. 
+Time Stamp: 2022-04-14 12:38:25.053426104-04:00 
+Success! Order placed to buy 115 shares of $XOM. 
+Time Stamp: 2022-04-14 12:38:40.568641018-04:00 
+Time Stamp: 2022-04-14 12:38:52.677529738-04:00 
+Success! Order placed to sell 3 shares of $AMZN. 
+Time Stamp: 2022-04-14 12:39:08.528972639-04:00 
+Success! Order placed to buy 224 shares of $BA. 
+Time Stamp: 2022-04-14 12:39:23.637273939-04:00 
+Success! Order placed to sell 102 shares of $AMD. 
+Time Stamp: 2022-04-14 12:39:39.437354072-04:00 
+Success! Order placed to buy 20 shares of $TSLA. 
+Time Stamp: 2022-04-14 12:39:54.298155243-04:00 
+Time Stamp: 2022-04-14 12:40:06.017685021-04:00 
+Time Stamp: 2022-04-14 12:40:17.972603610-04:00 
+Time Stamp: 2022-04-14 12:40:29.818312120-04:00 
+Time Stamp: 2022-04-14 12:40:41.634708490-04:00 
+Time Stamp: 2022-04-14 12:40:53.794588234-04:00 
+Time Stamp: 2022-04-14 12:41:07.009975077-04:00 
+Time Stamp: 2022-04-14 12:41:19.514550874-04:00 
+Time Stamp: 2022-04-14 12:41:32.680342578-04:00 
+Success! Order placed to buy 115 shares of $XOM. 
+Time Stamp: 2022-04-14 12:41:48.285946567-04:00 
+Success! Order placed to buy 59 shares of $AAPL. 
+Time Stamp: 2022-04-14 12:42:03.255103188-04:00 
+Time Stamp: 2022-04-14 12:42:15.097691483-04:00 
+Time Stamp: 2022-04-14 12:42:27.109397717-04:00 
+Success! Order placed to buy 102 shares of $AMD. 
+Time Stamp: 2022-04-14 12:42:43.173714972-04:00 
+Success! Order placed to buy 10 shares of $TSLA. 
+Time Stamp: 2022-04-14 12:42:58.214314461-04:00 
+Success! Order placed to sell 45 shares of $FB. 
+Time Stamp: 2022-04-14 12:43:13.460987426-04:00 
+Time Stamp: 2022-04-14 12:43:25.819511059-04:00 
+Time Stamp: 2022-04-14 12:43:38.105740253-04:00 
+Time Stamp: 2022-04-14 12:43:49.897340068-04:00 
+Time Stamp: 2022-04-14 12:44:01.872067563-04:00 
+Time Stamp: 2022-04-14 12:44:15.422891792-04:00 
+Success! Order placed to sell 10 shares of $TSLA. 
+Time Stamp: 2022-04-14 12:44:30.680567263-04:00 
+Time Stamp: 2022-04-14 12:44:42.369443944-04:00 
+Time Stamp: 2022-04-14 12:44:54.637561773-04:00 
+Time Stamp: 2022-04-14 12:45:06.896178829-04:00 
+Success! Order placed to sell 3 shares of $AMZN. 
+Time Stamp: 2022-04-14 12:45:22.811893361-04:00 
+Success! Order placed to buy 224 shares of $BA. 
+Time Stamp: 2022-04-14 12:45:37.959144371-04:00 
+Time Stamp: 2022-04-14 12:45:50.939732030-04:00 
+Success! Order placed to buy 20 shares of $TSLA. 
+Time Stamp: 2022-04-14 12:46:05.853482034-04:00 
+Time Stamp: 2022-04-14 12:46:18.418214278-04:00 
+Success! Order placed to sell 115 shares of $XOM. 
+Time Stamp: 2022-04-14 12:46:33.413235976-04:00 
+Time Stamp: 2022-04-14 12:46:45.198546967-04:00 
+Success! Order placed to buy 3 shares of $AMZN. 
+Time Stamp: 2022-04-14 12:46:59.913742930-04:00 
+Time Stamp: 2022-04-14 12:47:11.713532347-04:00 
+Time Stamp: 2022-04-14 12:47:24.420658541-04:00 
+Success! Order placed to sell 10 shares of $TSLA. 
+Time Stamp: 2022-04-14 12:47:39.271166288-04:00 
+Time Stamp: 2022-04-14 12:47:51.073536533-04:00 
+Time Stamp: 2022-04-14 12:48:03.206990245-04:00 
+Success! Order placed to sell 59 shares of $AAPL. 
+Time Stamp: 2022-04-14 12:48:18.239635008-04:00 
+Success! Order placed to sell 9 shares of $AMZN. 
+Time Stamp: 2022-04-14 12:48:33.855223153-04:00 
+Success! Order placed to buy 224 shares of $BA. 
+Time Stamp: 2022-04-14 12:48:48.661525732-04:00 
+Success! Order placed to sell 102 shares of $AMD. 
+Time Stamp: 2022-04-14 12:49:04.138928282-04:00 
+Time Stamp: 2022-04-14 12:49:16.139605032-04:00 
+Time Stamp: 2022-04-14 12:49:27.944221569-04:00 
+Success! Order placed to sell 230 shares of $XOM. 
+Time Stamp: 2022-04-14 12:49:43.196253078-04:00 
+Time Stamp: 2022-04-14 12:49:55.045003760-04:00 
+Time Stamp: 2022-04-14 12:50:06.718932807-04:00 
+Time Stamp: 2022-04-14 12:50:18.896237930-04:00 
+Time Stamp: 2022-04-14 12:50:31.726096490-04:00 
+Time Stamp: 2022-04-14 12:50:43.640415674-04:00 
+Time Stamp: 2022-04-14 12:50:55.467240430-04:00 
+Time Stamp: 2022-04-14 12:51:07.641335946-04:00 
+Time Stamp: 2022-04-14 12:51:19.386256879-04:00 
+Time Stamp: 2022-04-14 12:51:31.819192506-04:00 
+Success! Order placed to buy 168 shares of $BA. 
+Time Stamp: 2022-04-14 12:51:46.767175607-04:00 
+Time Stamp: 2022-04-14 12:51:59.291491103-04:00 
+Time Stamp: 2022-04-14 12:52:11.264822830-04:00 
+Time Stamp: 2022-04-14 12:52:22.942493449-04:00 
+Time Stamp: 2022-04-14 12:52:34.987996018-04:00 
+Time Stamp: 2022-04-14 12:52:47.525935916-04:00 
+Success! Order placed to sell 12 shares of $AMZN. 
+Time Stamp: 2022-04-14 12:53:02.377210095-04:00 
+Time Stamp: 2022-04-14 12:53:14.344217698-04:00 
+Time Stamp: 2022-04-14 12:53:26.726666352-04:00 
+Success! Order placed to buy 10 shares of $TSLA. 
+Time Stamp: 2022-04-14 12:53:41.542838194-04:00 
+Time Stamp: 2022-04-14 12:53:54.145940361-04:00 
+Success! Order placed to sell 230 shares of $XOM. 
+Time Stamp: 2022-04-14 12:54:09.056156743-04:00 
+Time Stamp: 2022-04-14 12:54:20.938646085-04:00 
+Time Stamp: 2022-04-14 12:54:32.662541263-04:00 
+Time Stamp: 2022-04-14 12:54:45.220625197-04:00 
+Time Stamp: 2022-04-14 12:54:57.818573643-04:00 
+Success! Order placed to sell 10 shares of $TSLA. 
+Time Stamp: 2022-04-14 12:55:12.819773842-04:00 
+Time Stamp: 2022-04-14 12:55:24.736882548-04:00 
+Time Stamp: 2022-04-14 12:55:36.823616959-04:00 
+Time Stamp: 2022-04-14 12:55:48.902886310-04:00 
+Time Stamp: 2022-04-14 12:56:01.416635568-04:00 
+Success! Order placed to buy 224 shares of $BA. 
+Time Stamp: 2022-04-14 12:56:16.501191702-04:00 
+Time Stamp: 2022-04-14 12:56:29.322081491-04:00 
+Success! Order placed to buy 10 shares of $TSLA. 
+Time Stamp: 2022-04-14 12:56:44.205881308-04:00 
+Time Stamp: 2022-04-14 12:56:55.847967229-04:00 
+Time Stamp: 2022-04-14 12:57:07.684688511-04:00 
+Time Stamp: 2022-04-14 12:57:19.511203655-04:00 
+Time Stamp: 2022-04-14 12:57:31.213712827-04:00 
+Time Stamp: 2022-04-14 12:57:43.120875573-04:00 
+Time Stamp: 2022-04-14 12:57:55.622361772-04:00 
+Success! Order placed to sell 10 shares of $TSLA. 
+Time Stamp: 2022-04-14 12:58:10.404932662-04:00 
+Time Stamp: 2022-04-14 12:58:23.139964633-04:00 
+Success! Order placed to sell 232 shares of $XOM. 
+Time Stamp: 2022-04-14 12:58:38.040074405-04:00 
+Time Stamp: 2022-04-14 12:58:49.874585143-04:00 
+Time Stamp: 2022-04-14 12:59:02.377576630-04:00 
+Success! Order placed to buy 224 shares of $BA. 
+Time Stamp: 2022-04-14 12:59:17.326023042-04:00 
+Time Stamp: 2022-04-14 12:59:29.334061240-04:00 
+Success! Order placed to sell 10 shares of $TSLA. 
+Time Stamp: 2022-04-14 12:59:44.916149721-04:00 
+Time Stamp: 2022-04-14 12:59:56.653530746-04:00 
+Time Stamp: 2022-04-14 13:00:08.771325569-04:00 
+Time Stamp: 2022-04-14 13:00:20.766047568-04:00 
+Time Stamp: 2022-04-14 13:00:32.452349068-04:00 
+Time Stamp: 2022-04-14 13:00:44.381658622-04:00 
+Time Stamp: 2022-04-14 13:00:56.901004599-04:00 
+Success! Order placed to buy 10 shares of $TSLA. 
+Time Stamp: 2022-04-14 13:01:11.624518596-04:00 
+Time Stamp: 2022-04-14 13:01:23.392456146-04:00 
+Time Stamp: 2022-04-14 13:01:35.450202219-04:00 
+Time Stamp: 2022-04-14 13:01:47.511420312-04:00 
+Time Stamp: 2022-04-14 13:02:00.084435303-04:00 
+Success! Order placed to buy 280 shares of $BA. 
+Time Stamp: 2022-04-14 13:02:15.456530586-04:00 
+Time Stamp: 2022-04-14 13:02:28.067377336-04:00 
+Success! Order placed to buy 10 shares of $TSLA. 
+Time Stamp: 2022-04-14 13:02:43.625753423-04:00 
+Success! Order placed to buy 90 shares of $FB. 
+Time Stamp: 2022-04-14 13:02:58.423715527-04:00 
+Time Stamp: 2022-04-14 13:03:10.518384085-04:00 
+Time Stamp: 2022-04-14 13:03:22.389785005-04:00 
+Time Stamp: 2022-04-14 13:03:34.166781913-04:00 
+Time Stamp: 2022-04-14 13:03:46.078144218-04:00 
+Time Stamp: 2022-04-14 13:03:58.549055608-04:00 
+Success! Order placed to buy 10 shares of $TSLA. 
+Time Stamp: 2022-04-14 13:04:13.311529579-04:00 
+Time Stamp: 2022-04-14 13:04:25.085507349-04:00 
+Time Stamp: 2022-04-14 13:04:37.146283370-04:00 
+Time Stamp: 2022-04-14 13:04:49.165710797-04:00 
+Success! Order placed to sell 6 shares of $AMZN. 
+Time Stamp: 2022-04-14 13:05:03.911213140-04:00 
+Time Stamp: 2022-04-14 13:05:15.879995777-04:00 
+Time Stamp: 2022-04-14 13:05:28.512050352-04:00 
+Time Stamp: 2022-04-14 13:05:40.256902884-04:00 
+Time Stamp: 2022-04-14 13:05:52.206625744-04:00 
+Success! Order placed to buy 116 shares of $XOM. 
+Time Stamp: 2022-04-14 13:06:07.152699661-04:00 
+Time Stamp: 2022-04-14 13:06:18.852689902-04:00 
+Success! Order placed to sell 3 shares of $AMZN. 
+Time Stamp: 2022-04-14 13:06:34.267811417-04:00 
+Success! Order placed to buy 224 shares of $BA. 
+Time Stamp: 2022-04-14 13:06:49.180224982-04:00 
+Time Stamp: 2022-04-14 13:07:01.673260163-04:00 
+Time Stamp: 2022-04-14 13:07:14.096364212-04:00 
+Success! Order placed to buy 90 shares of $FB. 
+Time Stamp: 2022-04-14 13:07:28.839569798-04:00 
+Time Stamp: 2022-04-14 13:07:40.976702860-04:00 
+Time Stamp: 2022-04-14 13:07:52.578491882-04:00 
+Time Stamp: 2022-04-14 13:08:04.266739516-04:00 
+Time Stamp: 2022-04-14 13:08:15.976976713-04:00 
+Time Stamp: 2022-04-14 13:08:28.481217123-04:00 
+Time Stamp: 2022-04-14 13:08:40.516436620-04:00 
+Time Stamp: 2022-04-14 13:08:52.377697186-04:00 
+Time Stamp: 2022-04-14 13:09:04.204038332-04:00 
+Time Stamp: 2022-04-14 13:09:16.597234263-04:00 
+Time Stamp: 2022-04-14 13:09:29.094348723-04:00 
+Success! Order placed to buy 336 shares of $BA. 
+Time Stamp: 2022-04-14 13:09:43.919953184-04:00 
+Success! Order placed to buy 102 shares of $AMD. 
+Time Stamp: 2022-04-14 13:09:59.448546838-04:00 
+Success! Order placed to buy 10 shares of $TSLA. 
+Time Stamp: 2022-04-14 13:10:14.278250702-04:00 
+Time Stamp: 2022-04-14 13:10:26.708278042-04:00 
+Time Stamp: 2022-04-14 13:10:38.598819361-04:00 
+Time Stamp: 2022-04-14 13:10:50.741797384-04:00 
+Success! Order placed to sell 3 shares of $AMZN. 
+Time Stamp: 2022-04-14 13:11:05.533345823-04:00 
+Time Stamp: 2022-04-14 13:11:17.327823683-04:00 
+Success! Order placed to buy 102 shares of $AMD. 
+Time Stamp: 2022-04-14 13:11:32.757852952-04:00 
+Success! Order placed to buy 20 shares of $TSLA. 
+Time Stamp: 2022-04-14 13:11:47.742838401-04:00 
+Success! Order placed to sell 45 shares of $FB. 
+Time Stamp: 2022-04-14 13:12:02.569971818-04:00 
+Success! Order placed to sell 116 shares of $XOM. 
+Time Stamp: 2022-04-14 13:12:17.557122890-04:00 
+Time Stamp: 2022-04-14 13:12:29.550590919-04:00 
+Time Stamp: 2022-04-14 13:12:42.020457884-04:00 
+Success! Order placed to buy 280 shares of $BA. 
+Time Stamp: 2022-04-14 13:12:57.193688093-04:00 
+Success! Order placed to sell 204 shares of $AMD. 
+Time Stamp: 2022-04-14 13:13:12.717671689-04:00 
+Success! Order placed to buy 10 shares of $TSLA. 
+Time Stamp: 2022-04-14 13:13:27.555680965-04:00 
+Success! Order placed to sell 45 shares of $FB. 
+Time Stamp: 2022-04-14 13:13:42.370276200-04:00 
+Time Stamp: 2022-04-14 13:13:54.551169791-04:00 
+Time Stamp: 2022-04-14 13:14:06.661811262-04:00 
+Success! Order placed to sell 6 shares of $AMZN. 
+Time Stamp: 2022-04-14 13:14:21.362959051-04:00 
+Time Stamp: 2022-04-14 13:14:33.224955317-04:00 
+Time Stamp: 2022-04-14 13:14:45.668257464-04:00 
+Success! Order placed to sell 30 shares of $TSLA. 
+Time Stamp: 2022-04-14 13:15:00.742725433-04:00 
+Success! Order placed to sell 90 shares of $FB. 
+Time Stamp: 2022-04-14 13:15:15.454129831-04:00 
+Time Stamp: 2022-04-14 13:15:27.509077026-04:00 
+Time Stamp: 2022-04-14 13:15:39.335602075-04:00 
+Time Stamp: 2022-04-14 13:15:51.752820561-04:00 
+Success! Order placed to buy 112 shares of $BA. 
+Time Stamp: 2022-04-14 13:16:06.575469542-04:00 
+Success! Order placed to buy 102 shares of $AMD. 
+Time Stamp: 2022-04-14 13:16:21.961350200-04:00 
+Success! Order placed to buy 20 shares of $TSLA. 
+Time Stamp: 2022-04-14 13:16:36.927668562-04:00 
+Success! Order placed to buy 45 shares of $FB. 
+Time Stamp: 2022-04-14 13:16:52.410233812-04:00 
+Time Stamp: 2022-04-14 13:17:04.428584590-04:00 
+Time Stamp: 2022-04-14 13:17:16.497173586-04:00 
+Time Stamp: 2022-04-14 13:17:28.214485735-04:00 
+Time Stamp: 2022-04-14 13:17:40.010622442-04:00 
+Success! Order placed to sell 102 shares of $AMD. 
+Time Stamp: 2022-04-14 13:17:55.529579564-04:00 
+Success! Order placed to buy 10 shares of $TSLA. 
+Time Stamp: 2022-04-14 13:18:10.416232433-04:00 
+Success! Order placed to sell 45 shares of $FB. 
+Time Stamp: 2022-04-14 13:18:25.207895208-04:00 
+Time Stamp: 2022-04-14 13:18:37.120045681-04:00 
+Time Stamp: 2022-04-14 13:18:49.080441020-04:00 
+Time Stamp: 2022-04-14 13:19:01.837643832-04:00 
+Success! Order placed to buy 280 shares of $BA. 
+Time Stamp: 2022-04-14 13:19:16.633858699-04:00 
+Time Stamp: 2022-04-14 13:19:29.160822111-04:00 
+Time Stamp: 2022-04-14 13:19:40.894618025-04:00 
+Time Stamp: 2022-04-14 13:19:53.434960775-04:00 
+Time Stamp: 2022-04-14 13:20:05.545967375-04:00 
+Time Stamp: 2022-04-14 13:20:17.375006606-04:00 
+Success! Order placed to sell 3 shares of $AMZN. 
+Time Stamp: 2022-04-14 13:20:32.306865221-04:00 
+Time Stamp: 2022-04-14 13:20:44.797733026-04:00 
+Success! Order placed to buy 102 shares of $AMD. 
+Time Stamp: 2022-04-14 13:21:00.787142382-04:00 
+Time Stamp: 2022-04-14 13:21:12.782114524-04:00 
+Time Stamp: 2022-04-14 13:21:24.405357552-04:00 
+Time Stamp: 2022-04-14 13:21:36.475541576-04:00 
+Time Stamp: 2022-04-14 13:21:48.415043639-04:00 
+Time Stamp: 2022-04-14 13:22:00.143348771-04:00 
+Time Stamp: 2022-04-14 13:22:12.025799160-04:00 
+Time Stamp: 2022-04-14 13:22:24.698152783-04:00 
+Time Stamp: 2022-04-14 13:22:36.524775419-04:00 
+Time Stamp: 2022-04-14 13:22:48.940067217-04:00 
+Success! Order placed to buy 116 shares of $XOM. 
+Time Stamp: 2022-04-14 13:23:03.835673357-04:00 
+Time Stamp: 2022-04-14 13:23:15.574998426-04:00 
+Time Stamp: 2022-04-14 13:23:27.258116118-04:00 
+Time Stamp: 2022-04-14 13:23:39.269902291-04:00 
+Success! Order placed to buy 102 shares of $AMD. 
+Time Stamp: 2022-04-14 13:23:55.153865786-04:00 
+Success! Order placed to buy 10 shares of $TSLA. 
+Time Stamp: 2022-04-14 13:24:10.127893605-04:00 
+Time Stamp: 2022-04-14 13:24:21.744579182-04:00 
+Time Stamp: 2022-04-14 13:24:33.708877215-04:00 
+Time Stamp: 2022-04-14 13:24:45.679623507-04:00 
+Time Stamp: 2022-04-14 13:24:58.149553794-04:00 
+Success! Order placed to buy 168 shares of $BA. 
+Time Stamp: 2022-04-14 13:25:13.090845126-04:00 
+Success! Order placed to sell 102 shares of $AMD. 
+Time Stamp: 2022-04-14 13:25:28.649912368-04:00 
+Success! Order placed to buy 20 shares of $TSLA. 
+Time Stamp: 2022-04-14 13:25:43.456309890-04:00 
+Time Stamp: 2022-04-14 13:25:55.934666205-04:00 
+Success! Order placed to buy 116 shares of $XOM. 
+Time Stamp: 2022-04-14 13:26:11.009322283-04:00 
+Time Stamp: 2022-04-14 13:26:23.811773440-04:00 
+Time Stamp: 2022-04-14 13:26:35.582723452-04:00 
+Time Stamp: 2022-04-14 13:26:47.652894408-04:00 
+Success! Order placed to buy 102 shares of $AMD. 
+Time Stamp: 2022-04-14 13:27:03.130413115-04:00 
+Success! Order placed to buy 10 shares of $TSLA. 
+Time Stamp: 2022-04-14 13:27:18.004598370-04:00 
+Time Stamp: 2022-04-14 13:27:29.716289635-04:00 
+Time Stamp: 2022-04-14 13:27:41.715621701-04:00 
+Time Stamp: 2022-04-14 13:27:53.535951649-04:00 
+Time Stamp: 2022-04-14 13:28:06.013897425-04:00 
+Success! Order placed to buy 168 shares of $BA. 
+Time Stamp: 2022-04-14 13:28:21.038671786-04:00 
+Time Stamp: 2022-04-14 13:28:33.619567453-04:00 
+Success! Order placed to buy 10 shares of $TSLA. 
+Time Stamp: 2022-04-14 13:28:48.377535263-04:00 
+Time Stamp: 2022-04-14 13:29:00.033061826-04:00 
+Time Stamp: 2022-04-14 13:29:11.926623301-04:00 
+Time Stamp: 2022-04-14 13:29:23.766558189-04:00 
+Time Stamp: 2022-04-14 13:29:35.439156195-04:00 
+Time Stamp: 2022-04-14 13:29:47.271691531-04:00 
+Time Stamp: 2022-04-14 13:29:59.990889416-04:00 
+Time Stamp: 2022-04-14 13:30:12.200504010-04:00 
+Time Stamp: 2022-04-14 13:30:24.552535305-04:00 
+Success! Order placed to sell 116 shares of $XOM. 
+Time Stamp: 2022-04-14 13:30:39.638996225-04:00 
+Time Stamp: 2022-04-14 13:30:51.421111323-04:00 
+Time Stamp: 2022-04-14 13:31:03.882949659-04:00 
+Success! Order placed to buy 56 shares of $BA. 
+Time Stamp: 2022-04-14 13:31:18.654250094-04:00 
+Success! Order placed to sell 102 shares of $AMD. 
+Time Stamp: 2022-04-14 13:31:34.227138378-04:00 
+Success! Order placed to sell 10 shares of $TSLA. 
+Time Stamp: 2022-04-14 13:31:48.937265602-04:00 
+Time Stamp: 2022-04-14 13:32:00.575328592-04:00 
+Time Stamp: 2022-04-14 13:32:12.509866898-04:00 
+Time Stamp: 2022-04-14 13:32:24.444850159-04:00 
+Time Stamp: 2022-04-14 13:32:36.122081609-04:00 
