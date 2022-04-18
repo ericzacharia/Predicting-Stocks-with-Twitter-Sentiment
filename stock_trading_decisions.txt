@@ -4054,3 +4054,22 @@ Time Stamp: 2022-04-14 13:32:00.575328592-04:00
 Time Stamp: 2022-04-14 13:32:12.509866898-04:00 
 Time Stamp: 2022-04-14 13:32:24.444850159-04:00 
 Time Stamp: 2022-04-14 13:32:36.122081609-04:00 
+Time Stamp: 2022-04-18 11:01:23.823445620-04:00 
+Success! Order placed to buy 113 shares of $XOM. 
+Time Stamp: 2022-04-18 11:01:39.330767860-04:00 
+Time Stamp: 2022-04-18 11:02:58.770985762-04:00 
+Success! Order placed to buy 226 shares of $XOM. 
+Time Stamp: 2022-04-18 11:03:14.295966220-04:00 
+Time Stamp: 2022-04-18 11:03:26.908312004-04:00 
+Success! Order placed to buy 10 shares of $TSLA. 
+Time Stamp: 2022-04-18 11:03:42.591931869-04:00 
+Time Stamp: 2022-04-18 11:03:55.104076996-04:00 
+Success! Order placed to buy 214 shares of $AMD. 
+Time Stamp: 2022-04-18 11:04:09.849450418-04:00 
+Time Stamp: 2022-04-18 11:04:21.683835600-04:00 
+Time Stamp: 2022-04-18 11:04:34.006160387-04:00 
+Success! Order placed to buy 20 shares of $TSLA. 
+Time Stamp: 2022-04-18 11:04:48.837676352-04:00 
+Time Stamp: 2022-04-18 11:05:00.617191233-04:00 
+Time Stamp: 2022-04-18 11:05:13.338925231-04:00 
+Success! Order placed to sell 113 shares of $XOM. 

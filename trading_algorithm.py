@@ -50,19 +50,33 @@ def alpaca_trader(ticker, polarity):
                 f.write(
                     f"Equity: {account.equity}, Time Stamp: {market_clock.timestamp} \n")
 
-    now = pd.Timestamp.now(tz='America/New_York').floor('1min')
-    yesterday = (now - pd.Timedelta(days=2)).strftime('%Y-%m-%d')
-    today = (now - pd.Timedelta(days=1)).strftime('%Y-%m-%d')
-    barset = api.get_bars(ticker[1:], TimeFrame.Day,
-                          yesterday, today, limit=1).df
-    open_price = float(str(barset.open.iloc[0]).split()[0])
-    close_price = float(str(barset.close.iloc[0]).split()[0])
-    # open_price = barset.open
-    # close_price = barset.close
+    ### Past Attempts to get bars working
+
+    # now = pd.Timestamp.now(tz='America/New_York')#.floor('1min')
+    # yesterday = (now - pd.Timedelta(days=2)).strftime('%Y-%m-%d')
+    # today = (now - pd.Timedelta(days=1)).strftime('%Y-%m-%d')
+    # thirty_minutes_ago = (now - pd.Timedelta(minutes=30))#.strftime('%Y-%m-%d')
+    # fifteen_minutes_ago = (now - pd.Timedelta(minutes=15))#.strftime('%Y-%m-%d')
+    # print(ticker, yesterday, today, thirty_minutes_ago, fifteen_minutes_ago, now)
+    # barset = api.get_bars(ticker[1:], TimeFrame.Day, yesterday, today, limit=1).df
+    # open_price = float(str(barset.open.iloc[0]).split()[0])
+    # close_price = float(str(barset.close.iloc[0]).split()[0])
+
     # barset = api.get_barset(ticker[1:], 'day', limit=1)
     # open_price = barset[ticker[1:]][0].o
     # close_price = barset[ticker[1:]][0].c
+
+    now = pd.Timestamp.now(tz='America/New_York')
+    yesterday = (now - pd.Timedelta(days=1))
+    bars = api.get_bars(ticker[1:], TimeFrame.Day,
+                   start=yesterday.isoformat(),
+                   end=None,
+                   limit=2
+                   ).df
+    open_price = float(str(bars.open.iloc[0]).split()[0])
+    close_price = float(str(bars.close.iloc[0]).split()[0])
     approximate_price_per_share = (open_price + close_price)/2
+    
     # Determine how many shares to buy based on the price of the stock.
     # Currently allowing for 1% of portfolio per trade.
     shares_per_polarity_point = (
